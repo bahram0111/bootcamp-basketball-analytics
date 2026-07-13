@@ -1,0 +1,964 @@
+player_id,name,position,shoots,height_cm,weight_kg,college,draft_year,nba_debut,birth_date,birth_place,career_per,career_win_shares
+hardeja01,James Harden,Point Guard and Shooting Guard,Left,196,99,Arizona State,2009.0,"October 28, 2009","August 26,1989",California,23.5,182.4
+bealbr01,Bradley Beal,Shooting Guard,Right,193,93,Florida,2012.0,"October 30, 2012","June 28,1993",Missouri,18.0,58.4
+lillada01,Damian Lillard,Point Guard,Right,188,90,Weber State,2012.0,"October 31, 2012","July 15,1990",California,22.2,118.4
+youngtr01,Trae Young,Point Guard,Right,188,74,Oklahoma,2018.0,"October 17, 2018","September 19,1998",Texas,21.3,44.7
+antetgi01,Giannis Antetokounmpo,"Power Forward, Small Forward, Point Guard, and Shooting Guard",Right,211,110,,2013.0,"October 30, 2013","December 6,1994",Greece,26.1,125.8
+doncilu01,Luka DonÄiÄ,Point Guard and Shooting Guard,Right,203,104,,2018.0,"October 17, 2018","February 28,1999",Slovenia,25.8,66.6
+irvinky01,Kyrie Irving,Point Guard and Shooting Guard,Right,188,88,Duke,2011.0,"December 26, 2011","March 23,1992",Australia,22.2,91.0
+westbru01,Russell Westbrook,Point Guard and Small Forward,Right,193,90,UCLA,2008.0,"October 29, 2008","November 12,1988",California,21.3,112.9
+leonaka01,Kawhi Leonard,Small Forward,Right,198,102,San Diego State,2011.0,"December 26, 2011","June 29,1991",California,23.6,111.9
+bookede01,Devin Booker,Shooting Guard and Point Guard,Right,196,93,Kentucky,2015.0,"October 28, 2015","October 30,1996",Michigan,19.0,58.0
+townska01,Karl-Anthony Towns,Center and Power Forward,Right,213,112,Kentucky,2015.0,"October 28, 2015","November 15,1995",New Jersey,23.6,94.6
+davisan02,Anthony Davis,Power Forward and Center,Right,208,114,Kentucky,2012.0,"October 31, 2012","March 11,1993",Illinois,26.7,120.1
+lavinza01,Zach LaVine,"Shooting Guard, Small Forward, and Point Guard",Right,196,90,UCLA,2014.0,"October 30, 2014","March 10,1995",Washington,17.2,38.6
+jamesle01,LeBron James,"Small Forward, Power Forward, Point Guard, Center, and Shooting Guard",Right,206,113,,2003.0,"October 29, 2003","December 30,1984",Ohio,26.7,276.8
+mitchdo01,Donovan Mitchell,Shooting Guard and Point Guard,Right,188,97,Louisville,2017.0,"October 18, 2017","September 7,1996",New York,20.3,60.2
+ingrabr01,Brandon Ingram,Small Forward and Power Forward,Right,203,86,Duke,2016.0,"October 26, 2016","September 2,1997",North Carolina,16.1,31.8
+tatumja01,Jayson Tatum,Small Forward and Power Forward,Right,203,95,Duke,2017.0,"October 17, 2017","March 3,1998",Missouri,20.3,67.2
+russeda01,D'Angelo Russell,Point Guard,Left,190,87,Ohio State,2015.0,"October 28, 2015","February 23,1996",Kentucky,16.1,26.5
+embiijo01,Joel Embiid,Center,Right,213,127,Kansas,2014.0,"October 26, 2016","March 16,1994",Cameroon,28.0,69.0
+siakapa01,Pascal Siakam,Power Forward,Right,203,111,New Mexico State,2016.0,"October 26, 2016","April 2,1994",Cameroon,18.5,58.1
+willizi01,Zion Williamson,Power Forward,Left,198,128,Duke,2019.0,"January 22, 2020","July 6,2000",North Carolina,24.6,30.3
+mccolcj01,CJ McCollum,Shooting Guard and Point Guard,Right,190,86,Lehigh,2013.0,"January 8, 2014","September 19,1991",Ohio,17.2,54.9
+derozde01,DeMar DeRozan,"Shooting Guard, Small Forward, and Power Forward",Right,198,99,USC,2009.0,"October 28, 2009","August 7,1989",California,18.9,114.1
+wiggian01,Andrew Wiggins,Small Forward and Power Forward,Right,198,89,Kansas,2014.0,"October 29, 2014","February 23,1995",Ontario,14.8,37.6
+collijo01,John Collins,Power Forward,Right,206,102,Wake Forest,2017.0,"October 18, 2017","September 23,1997",Utah,18.5,43.8
+georgpa01,Paul George,"Small Forward, Power Forward, and Shooting Guard",Right,203,99,Fresno State,2010.0,"October 27, 2010","May 2,1990",California,19.1,92.0
+foxde01,De'Aaron Fox,Point Guard,Left,190,83,Kentucky,2017.0,"October 18, 2017","December 20,1997",Louisiana,18.5,40.3
+middlkh01,Khris Middleton,Small Forward and Shooting Guard,Right,201,100,Texas A&M,2012.0,"November 10, 2012","August 12,1991",South Carolina,16.4,58.2
+curryst01,Stephen Curry,Point Guard,Right,188,83,Davidson,2009.0,"October 28, 2009","March 14,1988",Ohio,23.4,147.1
+sextoco01,Collin Sexton,Shooting Guard and Point Guard,Right,190,86,Alabama,2018.0,"October 17, 2018","January 4,1999",Georgia,16.3,19.7
+dinwisp01,Spencer Dinwiddie,Point Guard and Shooting Guard,Right,196,97,Colorado,2014.0,"October 29, 2014","April 6,1993",California,14.7,36.0
+porzikr01,Kristaps PorziÅÄ£is,Center and Power Forward,Right,218,108,,2015.0,"October 28, 2015","August 2,1995",Latvia,20.8,50.4
+walkeke02,Kemba Walker,Point Guard,Right,183,83,UConn,2011.0,"December 26, 2011","May 8,1990",New York,19.1,59.8
+brownja02,Jaylen Brown,Small Forward and Shooting Guard,Right,198,101,California,2016.0,"October 26, 2016","October 24,1996",Georgia,17.5,47.5
+bogdabo02,Bojan BogdanoviÄ,Small Forward and Power Forward,Right,201,102,,2011.0,"October 29, 2014","April 18,1989",Bosnia and Herzegovina,14.2,37.6
+butleji01,Jimmy Butler,"Small Forward, Shooting Guard, and Power Forward",Right,198,104,,2011.0,"January 1, 2012","September 14,1989",Texas,21.8,129.4
+jokicni01,Nikola JokiÄ,Center,Right,211,128,,2014.0,"October 28, 2015","February 19,1995",Serbia,28.8,142.9
+warretj01,T.J. Warren,Small Forward and Power Forward,Right,203,99,NC State,2014.0,"November 9, 2014","September 5,1993",North Carolina,16.4,20.9
+harrito02,Tobias Harris,Power Forward and Small Forward,Right,203,102,Tennessee,2011.0,"January 7, 2012","July 15,1992",New York,16.4,80.6
+vucevni01,Nikola VuÄeviÄ,Center,Right,206,117,USC,2011.0,"December 28, 2011","October 24,1990",Switzerland,20.0,84.3
+randlju01,Julius Randle,Power Forward and Center,Left,206,113,Kentucky,2014.0,"October 28, 2014","November 29,1994",Texas,18.1,56.9
+lowryky01,Kyle Lowry,Point Guard,Right,183,88,Villanova,2006.0,"November 1, 2006","March 25,1986",Pennsylvania,17.3,112.4
+hieldbu01,Buddy Hield,Shooting Guard and Small Forward,Right,193,99,Oklahoma,2016.0,"October 26, 2016","December 17,1992",Bahamas,14.3,28.7
+holidjr01,Jrue Holiday,Point Guard and Shooting Guard,Right,193,99,UCLA,2009.0,"October 30, 2009","June 12,1990",California,17.0,78.1
+gilgesh01,Shai Gilgeous-Alexander,Point Guard and Shooting Guard,Right,198,88,Kentucky,2018.0,"October 17, 2018","July 12,1998",Ontario,24.4,75.6
+aldrila01,LaMarcus Aldridge,Power Forward and Center,Right,211,113,Texas,2006.0,"November 12, 2006","July 19,1985",Texas,20.7,115.6
+schrode01,Dennis SchrÃ¶der,Point Guard and Shooting Guard,Right,185,79,,2013.0,"October 30, 2013","September 15,1993",Germany,14.0,34.2
+gallida01,Danilo Gallinari,"Small Forward, Power Forward, and Shooting Guard",Right,208,107,,2008.0,"October 29, 2008","August 8,1988",Italy,16.8,65.4
+leverca01,Caris LeVert,Shooting Guard and Small Forward,Right,201,92,Michigan,2016.0,"December 7, 2016","August 25,1994",Ohio,14.4,25.4
+oubreke01,Kelly Oubre Jr.,Small Forward,Left,203,92,Kansas,2015.0,"October 30, 2015","December 9,1995",Louisiana,13.3,27.6
+harremo01,Montrezl Harrell,Center and Power Forward,Right,201,108,Louisville,2015.0,"October 28, 2015","January 26,1994",North Carolina,22.3,42.9
+fournev01,Evan Fournier,Shooting Guard and Small Forward,Right,198,92,,2012.0,"October 31, 2012","October 29,1992",France,13.5,30.5
+murraja01,Jamal Murray,Point Guard and Shooting Guard,Right,193,97,Kentucky,2016.0,"October 26, 2016","February 23,1997",Ontario,17.7,47.6
+sabondo01,Domantas Sabonis,Center and Power Forward,Left,208,108,Gonzaga,2016.0,"October 26, 2016","May 3,1996",Oregon,20.5,71.0
+aytonde01,Deandre Ayton,Center,Right,213,114,Arizona,2018.0,"October 17, 2018","July 23,1998",Bahamas,19.7,43.8
+grahade01,Devonte' Graham,Point Guard,Right,185,88,Kansas,2018.0,"October 22, 2018","February 22,1995",North Carolina,13.4,12.7
+willilo02,Lou Williams,Point Guard and Shooting Guard,Right,188,79,,2005.0,"November 2, 2005","October 27,1986",Tennessee,18.0,65.7
+rosede01,Derrick Rose,Point Guard,Right,190,90,Memphis,2008.0,"October 28, 2008","October 4,1988",Illinois,18.0,44.6
+roziete01,Terry Rozier,Point Guard and Shooting Guard,Right,185,86,Louisville,2015.0,"October 28, 2015","March 17,1994",Ohio,14.7,30.6
+moranja01,Ja Morant,Point Guard,Right,188,78,Murray State,2019.0,"October 23, 2019","August 10,1999",South Carolina,20.0,24.3
+drumman01,Andre Drummond,Center,Right,211,126,UConn,2012.0,"October 31, 2012","August 10,1993",New York,21.4,80.0
+loveke01,Kevin Love,Power Forward and Center,Right,208,113,UCLA,2008.0,"October 29, 2008","September 7,1988",California,20.6,96.0
+nurkiju01,Jusuf NurkiÄ,Center,Right,211,131,,2014.0,"October 29, 2014","August 23,1994",Bosnia and Herzegovina,18.5,34.7
+paulch01,Chris Paul,Point Guard,Right,183,79,Wake Forest,2005.0,"November 1, 2005","May 6,1985",North Carolina,23.5,215.2
+vanvlfr01,Fred VanVleet,Point Guard and Shooting Guard,Right,183,89,Wichita State,,"November 9, 2016","February 25,1994",Illinois,15.8,46.1
+haywago01,Gordon Hayward,Small Forward and Power Forward,Right,201,102,Butler,2010.0,"October 27, 2010","March 23,1990",Indiana,16.9,63.5
+jacksja02,Jaren Jackson Jr.,Center and Power Forward,Right,208,109,Michigan State,2018.0,"October 17, 2018","September 15,1999",New Jersey,17.9,30.2
+morrima03,Marcus Morris,Power Forward and Small Forward,Right,203,98,Kansas,2011.0,"December 26, 2011","September 2,1989",Pennsylvania,13.1,39.4
+brogdma01,Malcolm Brogdon,Point Guard and Shooting Guard,Right,193,103,Virginia,2016.0,"October 26, 2016","December 11,1992",Georgia,16.9,33.4
+simmobe01,Ben Simmons,Point Guard,Left,208,108,LSU,2016.0,"October 18, 2017","July 20,1996",Australia,18.4,35.4
+brookdi01,Dillon Brooks,Small Forward and Shooting Guard,Right,201,102,Oregon,2017.0,"October 18, 2017","January 22,1996",Ontario,11.1,16.8
+dragigo01,Goran DragiÄ,Point Guard and Shooting Guard,Left,193,86,,2008.0,"October 29, 2008","May 6,1986",Slovenia,16.5,56.7
+powelno01,Norman Powell,Shooting Guard and Small Forward,Right,190,97,UCLA,2015.0,"November 1, 2015","May 25,1993",California,15.4,36.4
+adebaba01,Bam Adebayo,Center and Power Forward,Right,206,115,Kentucky,2017.0,"October 18, 2017","July 18,1997",New Jersey,19.7,64.0
+hardati02,Tim Hardaway Jr.,Shooting Guard and Small Forward,Right,196,92,Michigan,2013.0,"October 30, 2013","March 16,1992",California,13.2,38.2
+kennalu01,Luke Kennard,Shooting Guard,Left,196,93,Duke,2017.0,"October 20, 2017","June 24,1996",Ohio,13.0,28.1
+griffbl01,Blake Griffin,Power Forward and Center,Right,206,113,Oklahoma,2009.0,"October 27, 2010","March 16,1989",Oklahoma,21.0,81.1
+whiteha01,Hassan Whiteside,Center,Right,213,120,Marshall,2010.0,"October 27, 2010","June 13,1989",North Carolina,23.9,52.0
+anthoca01,Carmelo Anthony,Small Forward and Power Forward,Right,201,107,Syracuse,2003.0,"October 29, 2003","May 29,1984",New York,19.5,108.5
+bertada01,DÄvis BertÄns,Power Forward,Right,208,102,,2011.0,"October 25, 2016","November 12,1992",Latvia,12.8,18.6
+ibakase01,Serge Ibaka,Power Forward and Center,Right,211,106,,2008.0,"October 30, 2009","September 18,1989",Republic of the Congo,17.1,73.0
+nunnke01,Kendrick Nunn,Shooting Guard and Point Guard,Left,190,86,,,"October 23, 2019","August 3,1995",Illinois,13.0,5.1
+redicjj01,JJ Redick,Shooting Guard and Point Guard,Right,190,90,Duke,2006.0,"November 25, 2006","June 24,1984",Tennessee,14.9,63.7
+clarkjo01,Jordan Clarkson,Shooting Guard and Point Guard,Right,196,87,,2014.0,"October 28, 2014","June 7,1992",Florida,15.1,25.9
+bartowi01,Will Barton,Shooting Guard and Small Forward,Right,196,82,Memphis,2012.0,"November 2, 2012","January 6,1991",Maryland,13.9,26.5
+bogdabo01,Bogdan BogdanoviÄ,Shooting Guard,Right,196,102,,2014.0,"October 23, 2017","August 18,1992",Serbia,14.3,25.0
+goberru01,Rudy Gobert,Center,Right,216,117,,2013.0,"October 30, 2013","June 26,1992",France,20.9,124.9
+burksal01,Alec Burks,Shooting Guard and Small Forward,Right,196,97,Colorado,2011.0,"December 27, 2011","July 20,1991",Missouri,14.1,31.7
+bledser01,Eric Bledsoe,Point Guard and Shooting Guard,Right,185,97,Kentucky,2010.0,"October 27, 2010","December 9,1989",Alabama,17.0,46.1
+valanjo01,Jonas ValanÄiÅ«nas,Center,Right,211,120,,2011.0,"October 31, 2012","May 6,1992",Lithuania,20.6,87.6
+markkla01,Lauri Markkanen,Power Forward and Small Forward,Right,216,108,Arizona,2017.0,"October 19, 2017","May 22,1997",Finland,17.7,36.7
+rosste01,Terrence Ross,Shooting Guard and Small Forward,Right,198,93,Washington,2012.0,"October 31, 2012","February 5,1991",Oregon,12.4,25.0
+barneha02,Harrison Barnes,Power Forward and Small Forward,Right,201,102,UNC,2012.0,"October 31, 2012","May 30,1992",Iowa,13.6,66.4
+harrijo01,Joe Harris,Shooting Guard and Small Forward,Right,198,99,Virginia,2014.0,"October 31, 2014","September 6,1991",Washington,12.2,23.1
+oladivi01,Victor Oladipo,Shooting Guard and Point Guard,Right,190,96,Indiana,2013.0,"October 29, 2013","May 4,1992",Maryland,16.0,25.6
+conlemi01,Mike Conley,Point Guard,Left,185,79,Ohio State,2007.0,"November 7, 2007","October 11,1987",Arkansas,16.9,107.6
+gordoaa01,Aaron Gordon,Power Forward and Small Forward,Right,203,106,Arizona,2014.0,"October 28, 2014","September 16,1995",California,16.0,50.1
+gordoer01,Eric Gordon,Shooting Guard and Small Forward,Right,190,97,Indiana,2008.0,"October 29, 2008","December 25,1988",Indiana,13.7,42.1
+barrerj01,RJ Barrett,Shooting Guard and Small Forward,Left,198,97,Duke,2019.0,"October 23, 2019","June 14,2000",Ontario,14.2,17.3
+baglema01,Marvin Bagley III,Power Forward and Center,Left,208,106,Duke,2018.0,"October 17, 2018","March 14,1999",Arizona,17.9,16.3
+parkeja01,Jabari Parker,Power Forward,Right,201,111,Duke,2014.0,"October 29, 2014","March 15,1995",Illinois,16.3,13.8
+pascher01,Eric Paschall,Power Forward,Right,198,115,,2019.0,"October 24, 2019","November 4,1996",New York,14.1,5.0
+capelca01,Clint Capela,Center,Right,208,116,,2014.0,"November 6, 2014","May 18,1994",Switzerland,21.6,72.6
+richajo01,Josh Richardson,Shooting Guard and Small Forward,Right,196,90,Tennessee,2015.0,"November 5, 2015","September 15,1993",Oklahoma,12.4,27.7
+hachiru01,Rui Hachimura,Power Forward,Right,203,104,Gonzaga,2019.0,"October 23, 2019","February 8,1998",Japan,13.2,18.7
+herroty01,Tyler Herro,Shooting Guard,Right,196,88,Kentucky,2019.0,"October 23, 2019","January 20,2000",Wisconsin,16.0,22.3
+robindu01,Duncan Robinson,Small Forward and Shooting Guard,Right,201,97,,,"October 24, 2018","April 22,1994",Maine,11.6,26.0
+bryanth01,Thomas Bryant,Center,Right,206,112,Indiana,2017.0,"December 23, 2017","July 31,1997",New York,19.2,22.7
+whiteco01,Coby White,Shooting Guard and Point Guard,Right,193,88,UNC,2019.0,"October 23, 2019","February 16,2000",North Carolina,13.6,19.9
+woodch01,Christian Wood,Power Forward and Center,Right,203,97,UNLV,,"October 28, 2015","September 27,1995",California,19.5,20.0
+bridgmi02,Miles Bridges,Small Forward and Power Forward,Left,201,102,Michigan State,2018.0,"October 17, 2018","March 21,1998",Michigan,15.5,27.8
+rubiori01,Ricky Rubio,Point Guard,Right,188,86,,2009.0,"December 26, 2011","October 21,1990",Spain,15.4,42.3
+smartma01,Marcus Smart,Point Guard and Shooting Guard,Right,190,99,Oklahoma State,2014.0,"October 29, 2014","March 6,1994",Texas,12.2,36.2
+kuzmaky01,Kyle Kuzma,Power Forward and Small Forward,Right,203,100,Utah,2017.0,"October 19, 2017","July 24,1995",Michigan,13.8,16.3
+leeda03,Damion Lee,Shooting Guard,Right,198,95,,,"March 13, 2018","October 21,1992",Maryland,11.6,10.6
+lambje01,Jeremy Lamb,Shooting Guard and Small Forward,Right,196,81,UConn,2012.0,"November 2, 2012","May 30,1992",Virginia,15.6,26.8
+covinro01,Robert Covington,"Small Forward, Power Forward, and Center",Right,201,94,Tennessee State,,"January 18, 2014","December 14,1990",Illinois,13.1,31.8
+curryse01,Seth Curry,Shooting Guard and Point Guard,Right,185,83,,,"January 5, 2014","August 23,1990",North Carolina,13.4,25.4
+garlada01,Darius Garland,Point Guard and Shooting Guard,Right,185,87,Vanderbilt,2019.0,"October 23, 2019","January 26,2000",Indiana,16.3,27.1
+holmeri01,Richaun Holmes,Center and Power Forward,Right,206,106,Bowling Green,2015.0,"October 28, 2015","October 15,1993",Illinois,18.5,30.7
+huntede01,De'Andre Hunter,Small Forward,Right,201,100,Virginia,2019.0,"October 24, 2019","December 2,1997",Pennsylvania,12.0,13.1
+huertke01,Kevin Huerter,Shooting Guard and Small Forward,Right,198,89,Maryland,2018.0,"October 17, 2018","August 27,1998",New York,12.2,21.7
+thomais02,Isaiah Thomas,Point Guard and Shooting Guard,Left,175,83,Washington,2011.0,"December 26, 2011","February 7,1989",Washington,19.6,45.3
+washipj01,P.J. Washington,Power Forward and Center,Right,201,104,Kentucky,2019.0,"October 23, 2019","August 23,1998",Kentucky,13.0,16.5
+clarkbr01,Brandon Clarke,Power Forward,Right,203,97,,2019.0,"October 23, 2019","September 19,1996",British Columbia,19.8,24.6
+fultzma01,Markelle Fultz,Point Guard and Shooting Guard,Right,193,94,Washington,2017.0,"October 18, 2017","May 29,1998",Maryland,14.2,8.3
+princta02,Taurean Prince,Power Forward and Small Forward,Right,198,98,Baylor,2016.0,"October 27, 2016","March 22,1994",Texas,10.7,15.5
+turnemy01,Myles Turner,Center,Right,211,113,Texas,2015.0,"October 29, 2015","March 24,1996",Texas,17.0,51.7
+grantje01,Jerami Grant,Power Forward and Small Forward,Right,201,96,Syracuse,2014.0,"November 29, 2014","March 12,1994",Oregon,14.0,40.7
+lopezbr01,Brook Lopez,Center,Right,216,127,Stanford,2008.0,"October 29, 2008","April 1,1988",California,18.2,94.2
+thomptr01,Tristan Thompson,Center and Power Forward,Left,206,115,Texas,2011.0,"December 26, 2011","March 13,1991",Ontario,15.3,49.3
+jacksre01,Reggie Jackson,Point Guard and Shooting Guard,Right,188,94,Boston College,2011.0,"December 31, 2011","April 16,1990",Italy,14.5,36.3
+horfoal01,Al Horford,Center,Right,203,108,Florida,2007.0,"November 2, 2007","June 3,1986",Dominican Republic,17.8,119.4
+isaacjo01,Jonathan Isaac,Power Forward,Right,208,104,Florida State,2017.0,"October 18, 2017","October 3,1997",New York,15.0,14.9
+porteot01,Otto Porter Jr.,Small Forward and Power Forward,Right,203,89,Georgetown,2013.0,"December 6, 2013","June 3,1993",Missouri,15.5,36.7
+balllo01,Lonzo Ball,Point Guard,Right,196,86,UCLA,2017.0,"October 19, 2017","October 27,1997",California,13.0,13.3
+robingl02,Glenn Robinson III,Small Forward and Shooting Guard,Right,198,100,Michigan,2014.0,"November 14, 2014","January 8,1994",Indiana,11.4,7.9
+millspa02,Patty Mills,Point Guard and Shooting Guard,Right,188,81,Saint Mary's,2009.0,"January 4, 2010","August 11,1988",Australia,13.3,35.9
+millspa01,Paul Millsap,Power Forward and Center,Right,201,116,Louisiana Tech,2006.0,"November 1, 2006","February 10,1985",Louisiana,18.7,95.4
+mcraejo01,Jordan McRae,Shooting Guard and Point Guard,Right,196,81,Tennessee,2014.0,"January 29, 2016","March 28,1991",Georgia,13.2,1.7
+baynear01,Aron Baynes,Center,Right,208,117,Washington State,,"January 25, 2013","December 9,1986",New Zealand,13.7,20.1
+bjeline01,Nemanja Bjelica,Power Forward and Center,Right,208,106,,2010.0,"October 28, 2015","May 9,1988",Serbia,13.7,20.0
+cartewe01,Wendell Carter Jr.,Center and Power Forward,Right,208,122,Duke,2018.0,"October 18, 2018","April 16,1999",Georgia,15.8,33.3
+whitede01,Derrick White,Shooting Guard and Point Guard,Right,193,86,,2017.0,"October 18, 2017","July 2,1994",Colorado,15.9,46.7
+winslju01,Justise Winslow,"Power Forward, Small Forward, and Shooting Guard",Left,198,100,Duke,2015.0,"October 28, 2015","March 26,1996",Texas,10.3,8.2
+beaslma01,Malik Beasley,Shooting Guard,Right,193,84,Florida State,2016.0,"November 5, 2016","November 26,1996",Georgia,12.4,20.1
+forbebr01,Bryn Forbes,Shooting Guard,Right,188,92,Michigan State,,"October 25, 2016","July 23,1993",Michigan,11.0,11.6
+waitedi01,Dion Waiters,Shooting Guard,Right,190,97,Syracuse,2012.0,"October 30, 2012","December 10,1991",Pennsylvania,12.0,8.8
+allenja01,Jarrett Allen,Center,Right,206,110,Texas,2017.0,"October 20, 2017","April 21,1998",California,20.7,73.1
+zelleco01,Cody Zeller,Center,Right,211,108,Indiana,2013.0,"October 30, 2013","October 5,1992",Indiana,16.1,33.5
+hoodro01,Rodney Hood,"Shooting Guard, Small Forward, and Power Forward",Left,203,94,,2014.0,"October 29, 2014","October 20,1992",Mississippi,12.1,17.4
+muldemy01,Mychal Mulder,Point Guard and Small Forward,Right,190,88,,,"February 27, 2020","June 12,1994",Ontario,8.9,1.0
+osmande01,Cedi Osman,Small Forward,Right,201,104,,2015.0,"October 20, 2017","April 8,1995",North Macedonia,11.4,12.5
+teaguje01,Jeff Teague,Point Guard,Right,190,88,Wake Forest,2009.0,"October 28, 2009","June 10,1988",Indiana,16.8,52.4
+adamsst01,Steven Adams,Center,Right,211,120,Pitt,2013.0,"October 30, 2013","July 20,1993",New Zealand,17.0,63.7
+murrade01,Dejounte Murray,Point Guard and Shooting Guard,Right,193,81,Washington,2016.0,"October 29, 2016","September 19,1996",Washington,17.3,26.8
+payneca01,Cameron Payne,Point Guard and Shooting Guard,Left,188,83,Murray State,2015.0,"November 1, 2015","August 8,1994",Tennessee,13.4,14.8
+smithis01,Ish Smith,Point Guard,Right,183,79,Wake Forest,,"October 26, 2010","July 5,1988",North Carolina,12.8,13.7
+gayru01,Rudy Gay,Small Forward and Power Forward,Right,203,113,UConn,2006.0,"November 1, 2006","August 17,1986",New York,16.3,61.0
+saricda01,Dario Å ariÄ,Center and Power Forward,Right,208,102,,2014.0,"October 26, 2016","April 8,1994",Croatia,13.9,20.8
+anunoog01,OG Anunoby,Small Forward and Power Forward,Right,201,108,Indiana,2017.0,"October 19, 2017","July 17,1997",United Kingdom,13.8,37.6
+crowdja01,Jae Crowder,Small Forward and Power Forward,Right,198,106,Marquette,2012.0,"October 30, 2012","July 6,1990",Georgia,12.5,43.0
+augusdj01,D.J. Augustin,Point Guard,Right,180,83,Texas,2008.0,"October 30, 2008","November 10,1987",Louisiana,14.0,47.7
+houseda01,Danuel House Jr.,Small Forward and Shooting Guard,Right,198,99,Texas A&M,,"November 11, 2016","June 7,1993",Texas,10.6,10.0
+reddica01,Cam Reddish,Small Forward,Right,201,104,Duke,2019.0,"October 24, 2019","September 1,1999",Pennsylvania,9.6,3.3
+browntr01,Troy Brown Jr.,Small Forward,Right,201,97,Oregon,2018.0,"October 24, 2018","July 28,1999",Nevada,10.7,8.6
+harriga01,Gary Harris,Shooting Guard,Right,193,95,Michigan State,2014.0,"November 14, 2014","September 14,1994",Indiana,11.7,27.5
+napiesh01,Shabazz Napier,Point Guard,Right,183,79,UConn,2014.0,"October 29, 2014","July 14,1991",Massachusetts,12.9,8.1
+gallola01,Langston Galloway,Shooting Guard and Point Guard,Right,185,90,Saint Joseph's,,"January 7, 2015","December 9,1991",Louisiana,11.4,14.4
+mcderdo01,Doug McDermott,Small Forward and Power Forward,Right,201,102,Creighton,2014.0,"October 29, 2014","January 3,1992",North Dakota,11.5,21.7
+monkma01,Malik Monk,Shooting Guard,Right,190,90,Kentucky,2017.0,"October 18, 2017","February 4,1998",Arkansas,14.2,16.1
+templga01,Garrett Temple,"Shooting Guard, Small Forward, and Point Guard",Right,196,88,LSU,,"February 9, 2010","May 8,1986",Louisiana,9.4,16.8
+youngth01,Thaddeus Young,Power Forward,Left,203,102,Georgia Tech,2007.0,"November 7, 2007","June 21,1988",Louisiana,16.4,71.9
+hartjo01,Josh Hart,Small Forward and Shooting Guard,Right,196,97,Villanova,2017.0,"October 20, 2017","March 6,1995",Maryland,13.5,42.8
+mclembe01,Ben McLemore,Shooting Guard and Small Forward,Right,190,88,Kansas,2013.0,"October 30, 2013","February 11,1993",Missouri,9.8,9.0
+nancela02,Larry Nance Jr.,Power Forward and Center,Right,198,111,Wyoming,2015.0,"November 6, 2015","January 1,1993",Ohio,16.0,35.2
+portibo01,Bobby Portis,Power Forward and Center,Right,206,113,Arkansas,2015.0,"November 3, 2015","February 10,1995",Arkansas,17.2,36.6
+paytoel01,Elfrid Payton,Point Guard,Right,190,88,Louisiana,2014.0,"October 28, 2014","February 22,1994",Louisiana,14.3,15.1
+porteke02,Kevin Porter Jr.,"Shooting Guard, Point Guard, and Small Forward",Left,196,92,USC,2019.0,"October 23, 2019","May 4,2000",Washington,14.8,9.0
+satorto01,TomÃ¡Å¡ SatoranskÃ½,"Shooting Guard, Point Guard, and Small Forward",Right,201,95,,2012.0,"October 27, 2016","October 30,1991",Czechia,13.3,17.9
+inglejo01,Joe Ingles,Small Forward and Power Forward,Left,203,99,,,"October 29, 2014","October 2,1987",Australia,12.4,42.4
+korkmfu01,Furkan Korkmaz,Shooting Guard,Right,201,91,,2016.0,"November 11, 2017","July 24,1997",Turkey,11.2,7.6
+morrima02,Markieff Morris,Power Forward,Right,206,111,Kansas,2011.0,"December 26, 2011","September 2,1989",Pennsylvania,13.4,27.3
+kaminfr01,Frank Kaminsky,Center and Power Forward,Right,213,108,Wisconsin,2015.0,"October 28, 2015","April 4,1993",Illinois,14.2,15.9
+robinmi01,Mitchell Robinson,Center,Right,213,108,Western Kentucky,2018.0,"October 17, 2018","April 1,1998",Florida,20.4,41.0
+finnedo01,Dorian Finney-Smith,Power Forward and Small Forward,Right,201,99,Florida,,"October 26, 2016","May 4,1993",Virginia,10.5,28.9
+holidaa01,Aaron Holiday,Point Guard,Right,183,83,UCLA,2018.0,"October 17, 2018","September 30,1996",Louisiana,11.1,11.6
+greenje02,Jeff Green,"Power Forward, Small Forward, and Center",Right,203,106,Georgetown,2007.0,"October 31, 2007","August 28,1986",Maryland,13.0,56.1
+hillge01,George Hill,Point Guard and Shooting Guard,Right,193,85,IUPUI,2008.0,"November 4, 2008","May 4,1986",Indiana,14.6,71.0
+miltosh01,Shake Milton,Shooting Guard,Right,196,92,SMU,2018.0,"November 30, 2018","September 26,1996",Oklahoma,12.6,11.7
+poweldw01,Dwight Powell,Center and Power Forward,Right,208,108,Stanford,2014.0,"November 14, 2014","July 20,1991",Ontario,16.9,50.5
+caldwke01,Kentavious Caldwell-Pope,Shooting Guard,Right,196,92,Georgia,2013.0,"October 30, 2013","February 18,1993",Georgia,11.6,49.2
+chrisma01,Marquese Chriss,Power Forward,Right,206,108,Washington,2016.0,"October 26, 2016","July 2,1997",California,13.4,6.5
+portemi01,Michael Porter Jr.,Small Forward,Right,208,98,Missouri,2018.0,"October 31, 2019","June 29,1998",Indiana,17.5,29.4
+shamela01,Landry Shamet,Shooting Guard,Right,196,86,Wichita State,2018.0,"October 16, 2018","March 13,1997",Missouri,10.3,15.7
+culveja01,Jarrett Culver,Shooting Guard and Small Forward,Right,198,88,Texas Tech,2019.0,"October 23, 2019","February 20,1999",Texas,9.3,-0.1
+divindo01,Donte DiVincenzo,Shooting Guard,Right,193,92,Villanova,2018.0,"October 17, 2018","January 31,1997",Delaware,13.4,29.1
+theisda01,Daniel Theis,Center,Right,203,111,,,"October 18, 2017","April 4,1992",Germany,15.4,23.3
+bridgmi01,Mikal Bridges,Small Forward and Shooting Guard,Right,198,94,Villanova,2018.0,"October 17, 2018","August 30,1996",Pennsylvania,14.5,50.0
+johnske04,Keldon Johnson,Small Forward,Right,198,99,Kentucky,2019.0,"November 22, 2019","October 11,1999",Virginia,15.3,23.2
+klebima01,Maxi Kleber,Power Forward and Center,Right,208,108,,,"October 21, 2017","January 29,1992",Germany,11.2,20.7
+laymaja01,Jake Layman,Small Forward,Right,203,94,Maryland,2016.0,"November 1, 2016","March 7,1994",Massachusetts,11.1,3.8
+favorde01,Derrick Favors,Power Forward and Center,Right,206,120,Georgia Tech,2010.0,"October 27, 2010","July 15,1991",Georgia,18.8,60.2
+jacksjo02,Josh Jackson,Small Forward and Shooting Guard,Right,203,93,Kansas,2017.0,"October 18, 2017","February 10,1997",California,11.4,-1.7
+morrimo01,Monte Morris,Point Guard,Right,188,83,Iowa State,2017.0,"December 12, 2017","June 27,1995",Michigan,14.8,24.7
+mykhasv01,Svi Mykhailiuk,Small Forward,Right,201,92,Kansas,2018.0,"October 22, 2018","June 10,1997",Ukraine,10.6,5.3
+reidna01,Naz Reid,Center and Power Forward,Right,206,119,LSU,,"December 8, 2019","August 26,1999",New Jersey,16.5,24.7
+brownbr01,Bruce Brown,"Point Guard, Small Forward, and Shooting Guard",Right,193,91,Miami (FL),2018.0,"October 17, 2018","August 15,1996",Massachusetts,12.2,22.9
+trentga02,Gary Trent Jr.,Shooting Guard and Small Forward,Right,196,92,Duke,2018.0,"November 4, 2018","January 18,1999",Ohio,12.6,19.0
+bazemke01,Kent Bazemore,Shooting Guard and Small Forward,Left,193,88,Old Dominion,,"November 9, 2012","July 1,1989",North Carolina,11.4,13.5
+johnsca02,Cameron Johnson,Power Forward and Small Forward,Right,203,95,,2019.0,"October 26, 2019","March 3,1996",Pennsylvania,14.7,26.6
+poolejo01,Jordan Poole,Shooting Guard and Point Guard,Right,193,87,Michigan,2019.0,"October 24, 2019","June 19,1999",Wisconsin,13.8,11.4
+riverau01,Austin Rivers,Shooting Guard and Point Guard,Right,193,90,Duke,2012.0,"October 31, 2012","August 1,1992",California,9.7,15.2
+allengr01,Grayson Allen,Shooting Guard,Right,190,89,Duke,2018.0,"October 22, 2018","October 8,1995",Florida,13.2,26.4
+wagnemo01,Moritz Wagner,Center,Right,211,111,Michigan,2018.0,"November 17, 2018","April 26,1997",Germany,17.1,17.9
+bradlav01,Avery Bradley,Shooting Guard and Point Guard,Right,190,81,Texas,2010.0,"November 22, 2010","November 26,1990",Washington,10.7,17.2
+okogijo01,Josh Okogie,Shooting Guard,Right,193,96,Georgia Tech,2018.0,"October 20, 2018","September 1,1998",Nigeria,11.1,14.2
+jonesde02,Derrick Jones Jr.,Small Forward and Power Forward,Left,198,95,UNLV,,"November 19, 2016","February 15,1997",Pennsylvania,13.1,26.5
+johnsja01,James Johnson,"Power Forward, Small Forward, and Center",Right,201,108,Wake Forest,2009.0,"October 30, 2009","February 20,1987",Wyoming,13.9,27.4
+holidju01,Justin Holiday,Shooting Guard and Small Forward,Right,198,81,Washington,,"April 3, 2013","April 5,1989",California,10.5,18.8
+jordade01,DeAndre Jordan,Center,Left,211,120,Texas A&M,2008.0,"November 1, 2008","July 21,1988",Texas,18.3,99.4
+mooreet01,E'Twaun Moore,Shooting Guard and Point Guard,Right,190,86,Purdue,2011.0,"December 25, 2011","February 25,1989",Indiana,11.4,14.8
+pargoje01,Jeremy Pargo,Point Guard and Shooting Guard,Right,188,99,Gonzaga,,"December 26, 2011","March 17,1986",Illinois,8.2,-0.8
+simonan01,Anfernee Simons,Shooting Guard,Right,190,90,,2018.0,"October 30, 2018","June 8,1999",Florida,14.0,15.7
+zubaciv01,Ivica Zubac,Center,Right,213,108,,2016.0,"November 2, 2016","March 18,1997",Bosnia and Herzegovina,19.3,55.5
+brunsja01,Jalen Brunson,Point Guard and Shooting Guard,Left,188,86,Villanova,2018.0,"October 17, 2018","August 31,1996",New Jersey,19.2,54.2
+olynyke01,Kelly Olynyk,Center and Power Forward,Right,213,108,Gonzaga,2013.0,"October 30, 2013","April 19,1991",Ontario,15.7,47.1
+bullore01,Reggie Bullock,Small Forward and Shooting Guard,Right,198,92,UNC,2013.0,"October 29, 2013","March 16,1991",Maryland,10.0,21.4
+kanteen01,Enes Freedom,Center,Right,208,113,Kentucky,2011.0,"December 27, 2011","May 20,1992",Switzerland,20.8,52.8
+okafoja01,Jahlil Okafor,Center,Right,208,122,Duke,2015.0,"October 28, 2015","December 15,1995",Illinois,16.4,7.2
+arizatr01,Trevor Ariza,Small Forward and Shooting Guard,Right,203,97,UCLA,2004.0,"November 3, 2004","June 30,1985",Florida,13.1,64.3
+lenal01,Alex Len,Center,Right,213,113,Maryland,2013.0,"October 30, 2013","June 16,1993",Ukraine,15.0,23.9
+greenda02,Danny Green,Shooting Guard and Small Forward,Right,198,97,UNC,2009.0,"November 12, 2009","June 22,1987",New York,12.6,49.3
+greendr01,Draymond Green,Power Forward and Small Forward,Right,198,104,Michigan State,2012.0,"October 31, 2012","March 4,1990",Michigan,14.1,66.3
+snellto01,Tony Snell,Shooting Guard and Small Forward,Right,198,96,New Mexico,2013.0,"October 29, 2013","November 10,1991",California,8.9,18.5
+thornsi01,Sindarius Thornwell,Shooting Guard and Small Forward,Right,193,97,South Carolina,2017.0,"October 19, 2017","November 15,1994",South Carolina,7.6,1.1
+beverpa01,Patrick Beverley,Point Guard and Shooting Guard,Right,188,81,Arkansas,2009.0,"January 15, 2013","July 12,1988",Illinois,12.2,40.2
+hutchch01,Chandler Hutchison,Small Forward,Right,198,95,Boise State,2018.0,"October 18, 2018","April 26,1996",California,9.4,1.1
+luwawti01,TimothÃ© Luwawu-Cabarrot,Small Forward,Right,201,95,,2016.0,"October 29, 2016","May 9,1995",France,8.6,4.7
+bareajo01,J.J. Barea,Point Guard and Shooting Guard,Right,178,81,Northeastern University,,"November 4, 2006","June 26,1984",Puerto Rico,14.5,23.8
+mclaujo01,Jordan McLaughlin,Point Guard,Right,180,83,USC,,"November 6, 2019","April 9,1996",California,13.4,10.2
+meltode01,De'Anthony Melton,Point Guard and Shooting Guard,Right,188,90,USC,2018.0,"October 22, 2018","May 28,1998",California,13.4,15.0
+spellom01,Omari Spellman,Center and Power Forward,Right,203,111,Villanova,2018.0,"October 17, 2018","July 21,1997",Ohio,13.4,2.4
+daviste02,Terence Davis,Shooting Guard,Right,193,91,Ole Miss,,"October 22, 2019","May 16,1997",Mississippi,13.3,5.3
+gasolma01,Marc Gasol,Center,Right,211,115,,2007.0,"October 29, 2008","January 29,1985",Spain,18.0,85.3
+howardw01,Dwight Howard,Center and Power Forward,Right,208,120,,2004.0,"November 3, 2004","December 8,1985",Georgia,21.3,141.7
+burketr01,Trey Burke,Point Guard,Right,183,83,Michigan,2013.0,"November 20, 2013","November 12,1992",Ohio,13.8,12.9
+biyombi01,Bismack Biyombo,Center,Right,203,115,,2011.0,"December 26, 2011","August 28,1992",Democratic Republic of the Congo,12.9,33.3
+bowmaky01,Ky Bowman,Point Guard,Right,185,84,Boston College,,"October 24, 2019","June 16,1997",North Carolina,9.1,-0.1
+dienggo01,Gorgui Dieng,Center and Power Forward,Right,208,114,Louisville,2013.0,"November 1, 2013","January 18,1990",Senegal,16.2,30.7
+hayesja02,Jaxson Hayes,Center,Right,213,99,Texas,2019.0,"October 28, 2019","May 23,2000",Oklahoma,17.1,25.1
+jonesty01,Tyus Jones,Point Guard,Right,183,88,Duke,2015.0,"November 10, 2015","May 10,1996",Minnesota,14.6,34.9
+mahinia01,Ian Mahinmi,Center,Right,211,118,,2005.0,"October 30, 2007","November 5,1986",France,13.0,26.1
+matthwe02,Wesley Matthews,Shooting Guard and Small Forward,Right,196,99,Marquette,,"October 28, 2009","October 14,1986",Texas,12.3,55.5
+noelne01,Nerlens Noel,Center and Power Forward,Right,208,99,Kentucky,2013.0,"October 29, 2014","April 10,1994",Massachusetts,16.5,28.3
+knighbr03,Brandon Knight,Point Guard and Shooting Guard,Right,188,82,Kentucky,2011.0,"December 26, 2011","December 2,1991",Florida,13.7,11.6
+dunnkr01,Kris Dunn,Point Guard,Right,190,92,Providence,2016.0,"October 26, 2016","March 18,1994",Connecticut,12.1,15.7
+mudiaem01,Emmanuel Mudiay,Point Guard,Right,190,90,,2015.0,"October 28, 2015","March 5,1996",Democratic Republic of the Congo,11.8,-0.2
+caulewi01,Willie Cauley-Stein,Center,Right,213,108,Kentucky,2015.0,"October 28, 2015","August 18,1993",Kansas,16.6,23.3
+cartemi01,Michael Carter-Williams,Point Guard and Shooting Guard,Right,198,92,Syracuse,2013.0,"October 30, 2013","October 10,1991",Massachusetts,13.5,6.6
+plumlma01,Mason Plumlee,Center,Right,213,115,Duke,2013.0,"November 3, 2013","March 5,1990",Indiana,17.5,58.4
+martije02,Jeremiah Martin,Point Guard,Left,188,83,Memphis,,"January 31, 2020","June 19,1996",Tennessee,13.0,0.0
+rondora01,Rajon Rondo,Point Guard,Right,185,81,Kentucky,2006.0,"November 1, 2006","February 22,1986",Kentucky,15.8,61.8
+johnsty01,Tyler Johnson,Point Guard and Shooting Guard,Left,190,84,Fresno State,,"January 14, 2015","May 7,1992",North Dakota,13.0,16.5
+colliza01,Zach Collins,Center and Power Forward,Right,206,113,Gonzaga,2017.0,"October 20, 2017","November 19,1997",Nevada,13.9,12.4
+holliro01,Rondae Hollis-Jefferson,Small Forward and Power Forward,Left,198,98,Arizona,2015.0,"October 28, 2015","January 3,1995",Pennsylvania,14.6,12.9
+diallha01,Hamidou Diallo,Small Forward and Shooting Guard,Right,196,91,Kentucky,2018.0,"October 16, 2018","July 31,1998",New York,13.6,6.2
+gilesha01,Harry Giles,Center and Power Forward,Right,208,108,Duke,2017.0,"October 17, 2018","April 22,1998",North Carolina,14.8,3.1
+masonfr01,Frank Mason III,Point Guard,Right,180,86,Kansas,2017.0,"October 21, 2017","April 3,1994",Virginia,12.8,1.2
+tuckepj01,P.J. Tucker,"Small Forward, Power Forward, and Shooting Guard",Right,196,111,Texas,2006.0,"November 1, 2006","May 5,1985",North Carolina,9.9,43.3
+wanambr01,Brad Wanamaker,Point Guard,Right,190,95,Pitt,,"October 16, 2018","July 25,1989",Pennsylvania,11.3,5.4
+wrighde01,Delon Wright,Point Guard and Shooting Guard,Right,193,83,Utah,2015.0,"November 1, 2015","April 26,1992",California,15.1,28.9
+dortlu01,Luguentz Dort,Small Forward and Shooting Guard,Right,193,99,Arizona State,,"December 6, 2019","April 19,1999",Quebec,10.6,18.6
+greenja01,JaMychal Green,Power Forward,Right,206,102,Alabama,,"January 18, 2015","June 21,1990",Alabama,13.8,24.8
+valende01,Denzel Valentine,Shooting Guard and Small Forward,Right,193,99,Michigan State,2016.0,"October 29, 2016","November 16,1993",Michigan,10.6,4.5
+bendedr01,Dragan Bender,Power Forward and Center,Right,213,112,,2016.0,"October 26, 2016","November 17,1997",Bosnia and Herzegovina,7.6,0.5
+dotsoda01,Damyean Dotson,Shooting Guard,Right,196,95,,2017.0,"October 19, 2017","May 6,1994",Texas,10.3,3.0
+korveky01,Kyle Korver,"Shooting Guard, Small Forward, and Power Forward",Right,201,96,Creighton,2003.0,"October 28, 2003","March 17,1981",California,12.8,73.4
+ennisja01,James Ennis III,Small Forward and Shooting Guard,Right,198,97,Cal State Long Beach,2013.0,"October 29, 2014","July 1,1990",California,11.7,16.2
+bouchch01,Chris Boucher,"Power Forward, Center, and Small Forward",Right,203,90,,,"March 14, 2018","January 11,1993",Saint Lucia,18.9,26.0
+ilyaser01,Ersan Ä°lyasova,Power Forward,Right,206,106,,2005.0,"November 1, 2006","May 15,1987",Turkey,15.4,48.8
+marjabo01,Boban MarjanoviÄ,Center,Right,224,131,,,"October 30, 2015","August 15,1988",Serbia,25.3,13.3
+mcgeeja01,JaVale McGee,Center,Right,213,122,Nevada,2008.0,"October 29, 2008","January 19,1988",Michigan,19.6,43.7
+mellini01,NicolÃ² Melli,Power Forward and Center,Right,206,107,,,"October 22, 2019","January 26,1991",Italy,10.1,2.3
+bateske01,Keita Bates-Diop,Small Forward and Power Forward,Right,203,103,Ohio State,2018.0,"October 26, 2018","January 23,1996",Illinois,12.7,7.4
+mccontj01,T.J. McConnell,Point Guard,Right,185,86,,,"October 28, 2015","March 25,1992",Pennsylvania,16.0,34.7
+trieral01,Allonzo Trier,Shooting Guard,Right,193,90,Arizona,,"October 17, 2018","January 17,1996",Washington,12.5,1.4
+doumbse01,Sekou Doumbouya,Power Forward,Right,203,104,,2019.0,"November 23, 2019","December 23,2000",Guinea,6.9,-0.4
+josepco01,Cory Joseph,Point Guard and Shooting Guard,Right,188,90,Texas,2011.0,"December 26, 2011","August 20,1991",Ontario,12.0,32.1
+knoxke01,Kevin Knox,Small Forward and Power Forward,Right,203,97,Kentucky,2018.0,"October 17, 2018","August 11,1999",Arizona,9.4,0.9
+lylestr01,Trey Lyles,Power Forward,Right,206,106,Kentucky,2015.0,"October 28, 2015","November 5,1995",Saskatchewan,13.4,22.0
+martike03,Kelan Martin,Small Forward,Right,196,104,Butler,,"October 25, 2019","August 3,1995",Kentucky,10.4,0.7
+milescj01,C.J. Miles,"Small Forward, Shooting Guard, and Point Guard",Left,198,99,,2005.0,"November 14, 2005","March 18,1987",Texas,13.1,30.1
+walkelo01,Lonnie Walker IV,Shooting Guard,Right,193,92,Miami (FL),2018.0,"January 3, 2019","December 14,1998",Pennsylvania,11.6,4.9
+belinma01,Marco Belinelli,Shooting Guard and Small Forward,Right,196,99,,2007.0,"October 30, 2007","March 25,1986",Italy,12.2,30.5
+jacksfr01,Frank Jackson,Point Guard,Right,190,92,Duke,2017.0,"October 17, 2018","May 4,1998",District of Columbia,10.4,2.5
+naderab01,Abdel Nader,Small Forward,Right,196,102,,2016.0,"October 18, 2017","September 25,1993",Egypt,9.3,2.8
+ntilila01,Frank Ntilikina,Point Guard and Shooting Guard,Right,193,90,,2017.0,"October 19, 2017","July 28,1998",Belgium,7.7,0.3
+onealro01,Royce O'Neale,Small Forward,Right,198,102,,,"October 21, 2017","June 5,1993",Texas,10.4,34.8
+martica02,Caleb Martin,Small Forward,Right,196,92,,,"October 25, 2019","September 28,1995",North Carolina,11.2,12.7
+gibsota01,Taj Gibson,Power Forward and Center,Right,206,105,USC,2009.0,"October 29, 2009","June 24,1985",New York,15.1,60.5
+goodwbr01,Brandon Goodwin,Point Guard,Right,183,81,,,"December 18, 2018","October 2,1995",Georgia,10.6,1.0
+hernawi01,Willy HernangÃ³mez,Center,Right,211,113,,2015.0,"October 25, 2016","May 27,1994",Spain,20.2,16.3
+leoname01,Meyers Leonard,Center and Power Forward,Right,213,117,Illinois,2012.0,"October 31, 2012","February 27,1992",Illinois,12.0,15.8
+hernaju01,Juancho HernangÃ³mez,Power Forward,Right,206,97,,2016.0,"October 26, 2016","September 28,1995",Spain,11.1,8.7
+cacokde01,Devontae Cacok,Power Forward and Center,Right,201,108,UNC Wilmington,,"August 13, 2020","October 8,1996",Illinois,19.2,0.9
+hannadu01,Dusty Hannahs,Shooting Guard,Right,193,88,,,"March 31, 2019","September 2,1993",Arkansas,10.1,0.0
+kornelu01,Luke Kornet,Center,Right,216,113,Vanderbilt,,"February 8, 2018","July 15,1995",Texas,17.1,26.3
+mikaer01,Eric Mika,Center,Right,208,108,BYU,,"February 1, 2020","January 5,1995",Utah,13.9,0.1
+scottmi01,Mike Scott,Power Forward,Right,201,107,Virginia,2012.0,"November 11, 2012","July 16,1988",Virginia,12.3,16.8
+willima02,Marvin Williams,Power Forward and Small Forward,Right,203,107,UNC,2005.0,"November 2, 2005","June 19,1986",Washington,13.6,65.1
+chandwi01,Wilson Chandler,"Small Forward, Power Forward, and Shooting Guard",Right,203,106,DePaul,2007.0,"November 13, 2007","May 10,1987",Michigan,12.8,29.0
+niangge01,Georges Niang,Power Forward,Right,198,104,Iowa State,2016.0,"October 28, 2016","June 17,1993",Massachusetts,10.8,15.9
+dedmode01,Dewayne Dedmon,Center,Right,208,111,USC,,"November 18, 2013","August 12,1989",California,15.1,23.3
+harklma01,Maurice Harkless,Small Forward and Power Forward,Right,201,99,St. John's,2012.0,"November 7, 2012","May 11,1993",New York,11.7,23.0
+anderky01,Kyle Anderson,Small Forward and Power Forward,Right,203,104,UCLA,2014.0,"November 6, 2014","September 20,1993",New York,14.1,41.3
+bembrde01,DeAndre' Bembry,Small Forward and Shooting Guard,Right,196,95,Saint Joseph's,2016.0,"October 27, 2016","July 4,1994",North Carolina,10.5,4.4
+doziepj01,PJ Dozier,"Shooting Guard, Small Forward, and Point Guard",Right,198,96,South Carolina,,"February 8, 2018","October 25,1996",South Carolina,10.3,1.8
+iwundwe01,Wes Iwundu,Small Forward,Right,198,88,Kansas State,2017.0,"October 21, 2017","December 20,1994",Texas,8.2,4.2
+labissk01,Skal LabissiÃ¨re,Power Forward and Center,Right,208,106,Kentucky,2016.0,"November 5, 2016","March 18,1996",Haiti,15.0,4.5
+pasecan01,AnÅ¾ejs PaseÄÅiks,Center,Right,216,103,,2017.0,"December 18, 2019","December 20,1995",Latvia,10.6,0.4
+alexani01,Nickeil Alexander-Walker,Shooting Guard,Right,196,92,Virginia Tech,2019.0,"October 22, 2019","September 2,1998",Ontario,12.5,16.5
+bacondw01,Dwayne Bacon,Shooting Guard,Right,198,100,Florida State,2017.0,"October 18, 2017","August 30,1995",Florida,8.9,0.8
+bolbo01,Bol Bol,Power Forward,Right,221,99,Oregon,2019.0,"August 1, 2020","November 16,1999",Sudan,15.5,5.0
+hortota01,Talen Horton-Tucker,Shooting Guard and Point Guard,Right,193,106,Iowa State,2019.0,"December 8, 2019","November 25,2000",Illinois,12.8,6.0
+bazleda01,Darius Bazley,Power Forward and Center,Left,206,97,,2019.0,"October 23, 2019","June 12,2000",Massachusetts,11.2,3.1
+jonesda03,Damian Jones,Center,Right,208,111,Vanderbilt,2016.0,"December 10, 2016","June 30,1995",Louisiana,15.4,11.3
+mcdanja01,Jalen McDaniels,Small Forward,Right,206,92,San Diego State,2019.0,"October 25, 2019","January 31,1998",Washington,11.0,5.3
+poeltja01,Jakob Poeltl,Center,Right,213,114,Utah,2016.0,"October 26, 2016","October 15,1995",Austria,18.9,48.5
+hensojo01,John Henson,Center and Power Forward,Right,206,99,UNC,2012.0,"November 7, 2012","December 28,1990",North Carolina,17.1,20.7
+hillso01,Solomon Hill,Small Forward and Power Forward,Right,198,102,Arizona,2013.0,"October 29, 2013","March 18,1991",California,8.7,11.9
+carusal01,Alex Caruso,Point Guard and Shooting Guard,Right,196,84,Texas A&M,,"October 19, 2017","February 28,1994",Texas,12.5,23.1
+jacksju01,Justin Jackson,Small Forward and Power Forward,Right,203,99,UNC,2017.0,"October 18, 2017","March 28,1995",Texas,10.0,5.3
+smithde03,Dennis Smith Jr.,Point Guard,Right,188,92,NC State,2017.0,"October 18, 2017","November 25,1997",North Carolina,12.3,2.3
+bambamo01,Mo Bamba,Center,Right,213,104,Texas,2018.0,"October 17, 2018","May 12,1998",New York,16.3,15.7
+connapa01,Pat Connaughton,Shooting Guard and Small Forward,Right,196,94,Notre Dame,2015.0,"October 30, 2015","January 6,1993",Massachusetts,11.2,25.3
+craigto01,Torrey Craig,Small Forward and Power Forward,Right,196,100,USC Upstate,,"November 28, 2017","December 19,1990",South Carolina,11.3,17.2
+lopezro01,Robin Lopez,Center,Right,216,127,Stanford,2008.0,"October 29, 2008","April 1,1988",California,15.8,49.6
+mathega01,Garrison Mathews,Shooting Guard,Right,196,97,Lipscomb,,"October 23, 2019","October 24,1996",Tennessee,10.4,10.2
+samanlu01,Luka Å amaniÄ,Power Forward,Right,208,102,,2019.0,"March 6, 2020","January 9,2000",Croatia,9.5,0.0
+toscaju01,Juan Toscano-Anderson,Small Forward and Shooting Guard,Right,198,94,Marquette,,"February 8, 2020","April 10,1993",California,10.4,5.7
+nwabada01,David Nwaba,Small Forward and Shooting Guard,Right,196,99,Cal Poly,,"February 28, 2017","January 14,1993",California,13.1,8.0
+williro04,Robert Williams,Center,Right,206,112,Texas A&M,2018.0,"October 22, 2018","October 17,1997",Louisiana,22.0,28.3
+robinje01,Jerome Robinson,Shooting Guard,Right,196,86,Boston College,2018.0,"October 26, 2018","February 22,1997",North Carolina,6.7,-0.2
+chiozch01,Chris Chiozza,Point Guard,Right,180,81,Florida,,"March 24, 2019","November 21,1995",Tennessee,9.3,0.8
+brownst02,Sterling Brown,Shooting Guard and Small Forward,Right,196,99,SMU,2017.0,"October 20, 2017","February 10,1995",Illinois,10.0,6.6
+cookqu01,Quinn Cook,Point Guard,Right,185,81,Duke,,"February 27, 2017","March 23,1993",District of Columbia,12.3,4.1
+ellinwa01,Wayne Ellington,Shooting Guard,Right,193,93,UNC,2009.0,"October 28, 2009","November 29,1987",Pennsylvania,11.1,21.1
+gaffoda01,Daniel Gafford,Center and Power Forward,Right,208,120,Arkansas,2019.0,"October 26, 2019","October 1,1998",Arkansas,21.0,35.2
+netora01,Raul Neto,Point Guard,Right,188,81,,2013.0,"October 28, 2015","May 19,1992",Brazil,12.0,11.6
+allenka01,Kadeem Allen,Point Guard,Right,185,90,Arizona,2017.0,"December 11, 2017","January 15,1993",North Carolina,13.5,1.0
+bongais01,Isaac Bonga,Small Forward and Point Guard,Right,203,81,,2018.0,"December 7, 2018","November 8,1999",Germany,8.4,1.7
+cartevi01,Vince Carter,"Shooting Guard, Small Forward, and Power Forward",Right,198,99,UNC,1998.0,"February 5, 1999","January 26,1977",Florida,18.6,125.3
+crawfja01,Jamal Crawford,Shooting Guard and Point Guard,Right,196,83,Michigan,2000.0,"October 31, 2000","March 20,1980",Washington,15.1,60.7
+martico01,Cody Martin,Small Forward,Right,198,92,,2019.0,"October 25, 2019","September 28,1995",North Carolina,11.1,7.1
+bradlto01,Tony Bradley,Center,Right,208,112,UNC,2017.0,"November 5, 2017","January 8,1998",Florida,18.3,8.9
+carteje01,Jevon Carter,Point Guard,Right,183,90,West Virginia,2018.0,"December 15, 2018","September 14,1995",Illinois,10.4,9.4
+clemoch01,Chris Clemons,Shooting Guard,Right,175,81,Campbell,,"November 3, 2019","July 23,1997",North Carolina,13.1,0.4
+eubandr01,Drew Eubanks,Center and Power Forward,Right,208,111,Oregon State,,"October 20, 2018","February 1,1997",Mississippi,16.2,16.5
+harrish01,Shaquille Harrison,Shooting Guard and Point Guard,Left,193,88,Tulsa,,"February 23, 2018","October 6,1993",Missouri,13.3,4.3
+pattepa01,Patrick Patterson,Power Forward,Right,203,106,Kentucky,2010.0,"December 15, 2010","March 14,1989",District of Columbia,12.5,31.9
+sumneed01,Edmond Sumner,Shooting Guard and Point Guard,Right,193,86,Xavier,2017.0,"April 10, 2018","December 31,1995",Michigan,12.1,3.2
+thomama02,Matt Thomas,Shooting Guard,Right,190,86,Iowa State,,"October 26, 2019","August 4,1994",Illinois,10.9,2.0
+hezonma01,Mario Hezonja,Small Forward and Power Forward,Right,203,99,,2015.0,"October 28, 2015","February 25,1995",Croatia,10.5,3.2
+musadz01,DÅ¾anan Musa,Small Forward and Shooting Guard,Right,206,98,,2018.0,"October 20, 2018","May 8,1999",Bosnia and Herzegovina,9.1,0.0
+muscami01,Mike Muscala,Center and Power Forward,Right,208,108,Bucknell,2013.0,"March 2, 2014","July 1,1991",Minnesota,13.5,19.2
+wrighju02,Justin Wright-Foreman,Point Guard,Left,183,86,Hofstra,2019.0,"February 21, 2020","October 27,1997",New York,8.8,0.0
+diallch01,Cheick Diallo,Center and Power Forward,Right,203,99,Kansas,2016.0,"October 29, 2016","September 13,1996",Mali,17.0,6.3
+harteis01,Isaiah Hartenstein,Center and Power Forward,Left,213,113,,2017.0,"October 17, 2018","May 5,1998",Oregon,18.3,33.3
+makerth01,Thon Maker,Center and Power Forward,Right,213,100,,2016.0,"October 30, 2016","February 25,1997",South Sudan,12.0,6.6
+thybuma01,Matisse Thybulle,Shooting Guard and Small Forward,Right,196,91,Washington,2019.0,"October 23, 2019","March 4,1997",Arizona,11.0,15.4
+crabbal01,Allen Crabbe,Shooting Guard and Small Forward,Right,196,96,California,2013.0,"November 1, 2013","April 9,1992",California,10.8,13.7
+iguodan01,Andre Iguodala,"Small Forward, Shooting Guard, and Power Forward",Right,198,97,Arizona,2004.0,"November 3, 2004","January 28,1984",Illinois,15.4,100.4
+kurucro01,Rodions Kurucs,Small Forward and Power Forward,Right,206,103,,2018.0,"October 17, 2018","February 5,1998",Latvia,10.0,2.3
+mccawpa01,Patrick McCaw,Shooting Guard and Small Forward,Right,201,82,UNLV,2016.0,"October 25, 2016","October 25,1995",Missouri,7.8,4.4
+mckinal01,Alfonzo McKinnie,Small Forward,Right,201,97,Green Bay,,"October 19, 2017","September 17,1992",Illinois,10.4,3.1
+sampsja02,JaKarr Sampson,Small Forward and Power Forward,Right,201,97,St. John's,,"October 29, 2014","March 20,1993",Ohio,10.5,3.5
+exumda01,DantÃ© Exum,Point Guard and Shooting Guard,Right,196,97,,2014.0,"October 29, 2014","July 13,1995",Australia,9.6,6.6
+arcidry01,Ryan Arcidiacono,Point Guard,Right,190,88,Villanova,,"October 19, 2017","March 26,1994",Pennsylvania,9.8,6.0
+grantje02,Jerian Grant,Point Guard and Shooting Guard,Right,193,92,Notre Dame,2015.0,"October 28, 2015","October 9,1992",Maryland,12.5,8.3
+leeco01,Courtney Lee,Shooting Guard,Right,196,97,Western Kentucky,2008.0,"November 3, 2008","October 3,1985",Indiana,12.2,39.3
+grahatr01,Treveon Graham,Shooting Guard and Small Forward,Right,196,99,VCU,,"November 2, 2016","October 28,1993",Maryland,7.6,2.8
+evansja02,Jacob Evans,Shooting Guard,Right,193,95,Cincinnati,2018.0,"October 22, 2018","June 18,1997",North Carolina,4.8,-0.6
+birchkh01,Khem Birch,Center,Right,203,105,,,"October 21, 2017","September 28,1992",Quebec,14.6,13.4
+claxtni01,Nic Claxton,Center,Left,211,97,Georgia,2019.0,"November 8, 2019","April 17,1999",South Carolina,18.3,30.9
+ferreyo01,Yogi Ferrell,Point Guard and Shooting Guard,Right,183,80,Indiana,,"November 9, 2016","May 9,1993",Indiana,12.2,7.7
+zizican01,Ante Å½iÅ¾iÄ,Center,Right,208,120,,2016.0,"October 21, 2017","January 4,1997",Croatia,17.4,3.5
+halldo01,Donta Hall,Power Forward and Center,Right,208,104,Alabama,,"February 25, 2020","August 7,1997",Alabama,18.6,1.2
+aminual01,Al-Farouq Aminu,Power Forward and Small Forward,Right,206,99,Wake Forest,2010.0,"October 27, 2010","September 21,1990",Georgia,12.2,27.6
+danietr01,Troy Daniels,Shooting Guard,Right,193,90,VCU,,"March 5, 2014","July 15,1991",Virginia,10.4,5.1
+fernabr01,Bruno Fernando,Center,Right,206,108,Maryland,2019.0,"October 24, 2019","August 15,1998",Angola,13.9,3.8
+broekry01,Ryan Broekhoff,Small Forward and Shooting Guard,Right,198,97,Valparaiso,,"October 17, 2018","August 23,1990",Australia,11.4,1.2
+shumpim01,Iman Shumpert,"Shooting Guard, Small Forward, and Point Guard",Right,196,96,Georgia Tech,2011.0,"December 25, 2011","June 26,1990",Illinois,9.7,12.9
+smailal01,Alen SmailagiÄ,Power Forward and Center,Right,208,97,,2019.0,"December 27, 2019","August 18,2000",Serbia,12.4,0.3
+okoboel01,Elie Okobo,Point Guard,Left,190,86,,2018.0,"October 17, 2018","October 23,1997",France,8.9,0.5
+feliccr01,Cristiano FelÃ­cio,Center,Right,211,122,,,"November 9, 2015","July 7,1992",Brazil,14.0,9.0
+fergute01,Terrance Ferguson,Shooting Guard and Small Forward,Right,198,86,,2017.0,"October 19, 2017","May 17,1998",Oklahoma,5.6,4.4
+gudurma01,Marko GuduriÄ,Shooting Guard,Left,198,91,,,"October 23, 2019","March 8,1995",Serbia,8.8,0.1
+paytoga02,Gary Payton II,"Shooting Guard, Point Guard, and Small Forward",Left,188,88,Oregon State,,"April 2, 2017","December 1,1992",Washington,15.8,15.3
+jeffrda01,DaQuan Jeffries,Shooting Guard,Right,196,100,,,"November 15, 2019","August 30,1997",Oklahoma,8.3,1.3
+nowelja01,Jaylen Nowell,Shooting Guard,Right,193,91,Washington,2019.0,"November 6, 2019","July 9,1999",Washington,13.6,4.7
+vonleno01,Noah Vonleh,Power Forward and Center,Right,208,116,Indiana,2014.0,"November 15, 2014","August 24,1995",Massachusetts,11.8,9.4
+clarkga01,Gary Clark,Power Forward and Small Forward,Right,198,102,Cincinnati,,"October 17, 2018","November 16,1994",North Carolina,9.0,3.0
+carrode01,DeMarre Carroll,"Small Forward, Power Forward, and Center",Right,198,97,,2009.0,"October 28, 2009","July 27,1986",Alabama,13.3,29.5
+tollian01,Anthony Tolliver,Power Forward and Small Forward,Right,203,108,Creighton,,"November 7, 2008","June 1,1985",Missouri,10.9,25.9
+batumni01,Nicolas Batum,"Small Forward, Power Forward, and Shooting Guard",Right,201,104,,2008.0,"October 28, 2008","December 14,1988",France,13.8,75.6
+fraziti01,Tim Frazier,Point Guard,Right,185,77,Penn State,,"February 6, 2015","November 1,1990",Texas,11.3,6.3
+littlna01,Nassir Little,Small Forward and Power Forward,Right,198,99,UNC,2019.0,"October 25, 2019","February 11,2000",Florida,11.3,4.7
+pinsoth01,Theo Pinson,Shooting Guard and Small Forward,Right,196,96,UNC,,"October 20, 2018","November 5,1995",North Carolina,7.7,0.1
+watertr01,Tremont Waters,Point Guard,Right,178,79,LSU,2019.0,"November 25, 2019","January 10,1998",Connecticut,10.5,0.1
+wilsodj01,D.J. Wilson,Power Forward,Right,208,104,Michigan,2017.0,"October 20, 2017","February 19,1996",California,10.9,2.9
+kabenmf01,Mfiondu Kabengele,Power Forward and Center,Right,208,113,Florida State,2019.0,"October 24, 2019","August 14,1997",Ontario,10.9,0.4
+oquinky01,Kyle O'Quinn,Center and Power Forward,Right,206,113,Norfolk State,2012.0,"November 2, 2012","March 26,1990",New York,17.9,17.8
+onimi01,Miye Oni,Shooting Guard and Small Forward,Right,196,93,Yale,2019.0,"November 11, 2019","August 4,1997",California,6.6,1.0
+willike04,Kenrich Williams,Power Forward and Small Forward,Right,201,95,TCU,,"October 17, 2018","December 2,1994",Texas,12.5,18.4
+greenja02,Javonte Green,Shooting Guard and Small Forward,Right,196,92,Radford,,"October 25, 2019","July 23,1993",Virginia,13.4,15.2
+looneke01,Kevon Looney,Center and Power Forward,Right,206,100,UCLA,2015.0,"January 27, 2016","February 6,1996",Wisconsin,15.6,38.1
+ojelese01,Semi Ojeleye,Power Forward,Right,198,108,,2017.0,"October 17, 2017","December 5,1994",Kansas,7.0,5.2
+thomala01,Lance Thomas,Power Forward and Small Forward,Right,203,108,Duke,,"December 28, 2011","April 24,1988",New York,8.3,5.3
+willigr01,Grant Williams,Power Forward,Right,201,107,Tennessee,2019.0,"October 23, 2019","November 30,1998",Texas,10.2,17.4
+edwarca01,Carsen Edwards,Shooting Guard,Right,180,90,Purdue,2019.0,"October 23, 2019","March 12,1998",Texas,8.1,0.3
+fallta01,Tacko Fall,Center,Right,229,141,Central Florida,,"October 26, 2019","December 10,1995",Senegal,18.8,0.7
+jeromty01,Ty Jerome,Shooting Guard,Right,196,88,Virginia,2019.0,"December 2, 2019","July 8,1997",New York,15.8,11.2
+mcgruro01,Rodney McGruder,Shooting Guard,Right,193,92,Kansas State,,"October 26, 2016","July 29,1991",Maryland,9.6,9.0
+turneev01,Evan Turner,"Small Forward, Shooting Guard, and Point Guard",Right,198,99,Ohio State,2010.0,"October 27, 2010","October 27,1988",Illinois,11.9,20.2
+belljo01,Jordan Bell,Center,Right,203,97,Oregon,2017.0,"October 17, 2017","January 7,1995",California,15.0,4.9
+bitadgo01,Goga Bitadze,Center,Right,211,113,,2019.0,"October 26, 2019","July 20,1999",Georgia,17.9,19.3
+coffeam01,Amir Coffey,Shooting Guard and Small Forward,Left,201,95,Minnesota,,"December 31, 2019","June 17,1997",Minnesota,10.8,12.5
+metuch01,Chimezie Metu,Center and Power Forward,Right,208,102,USC,2018.0,"October 20, 2018","March 22,1997",California,14.2,5.7
+watsopa01,Paul Watson,Small Forward,Right,198,95,Fresno State,,"January 8, 2020","December 30,1994",Arizona,9.7,0.8
+dellama01,Matthew Dellavedova,Point Guard and Shooting Guard,Right,190,90,Saint Mary's,,"November 2, 2013","September 8,1990",Australia,9.7,10.2
+tuckera01,Rayjon Tucker,Shooting Guard and Point Guard,Right,190,94,,,"December 30, 2019","September 24,1997",North Carolina,12.8,0.8
+cabocbr01,Bruno Caboclo,"Small Forward, Center, and Power Forward",Right,206,98,,2014.0,"November 21, 2014","September 21,1995",Brazil,11.3,1.5
+cheatzy01,Zylan Cheatham,Small Forward and Power Forward,Right,196,99,,,"November 16, 2019","November 17,1995",Arizona,4.0,0.0
+hasleud01,Udonis Haslem,Power Forward and Center,Right,203,106,Florida,,"October 28, 2003","June 9,1980",Florida,12.9,50.9
+johnsbj01,B.J. Johnson,Small Forward,Left,201,90,,,"March 3, 2019","December 21,1995",Pennsylvania,9.4,0.0
+leaftj01,T.J. Leaf,Power Forward,Right,208,100,UCLA,2017.0,"October 18, 2017","April 30,1997",Israel,13.7,2.7
+schofad01,Admiral Schofield,Power Forward and Small Forward,Right,196,109,Tennessee,2019.0,"October 23, 2019","March 30,1997",United Kingdom,7.9,1.2
+silvach01,Chris Silva,Power Forward,Right,203,106,South Carolina,,"October 23, 2019","September 19,1996",Gabon,15.2,1.7
+willijo04,Johnathan Williams,Power Forward and Center,Left,206,103,,,"October 22, 2018","May 22,1995",Tennessee,14.8,1.5
+hoardja01,Jaylen Hoard,Small Forward and Power Forward,Right,203,97,Wake Forest,,"November 10, 2019","March 30,1999",France,15.3,1.3
+mokokad01,Adam Mokoka,Shooting Guard and Small Forward,Right,193,86,,,"December 28, 2019","July 18,1998",France,6.2,0.0
+roberan03,Andre Roberson,Shooting Guard and Small Forward,Right,201,95,Colorado,2013.0,"November 1, 2013","December 4,1991",New Mexico,9.7,12.6
+wallaty01,Tyrone Wallace,Shooting Guard and Point Guard,Left,196,89,California,2016.0,"January 6, 2018","June 10,1994",California,8.1,0.1
+anderju01,Justin Anderson,Small Forward and Shooting Guard,Left,198,104,Virginia,2015.0,"October 28, 2015","November 19,1993",Virginia,12.4,4.9
+antetth01,Thanasis Antetokounmpo,Small Forward and Power Forward,Right,201,99,,2014.0,"January 29, 2016","July 18,1992",Greece,10.6,2.1
+konchjo01,John Konchar,Shooting Guard and Small Forward,Right,196,95,Purdue-Fort Wayne,,"November 9, 2019","March 22,1996",Illinois,12.7,16.2
+mitrona01,Naz Mitrou-Long,Shooting Guard,Right,190,98,Iowa State,,"December 26, 2017","August 3,1993",Ontario,5.2,0.0
+noahjo01,Joakim Noah,Center,Right,211,104,Florida,2007.0,"November 6, 2007","February 25,1985",New York,17.6,61.9
+parsoch01,Chandler Parsons,Small Forward and Power Forward,Right,206,104,Florida,2011.0,"December 29, 2011","October 25,1988",Florida,14.7,28.9
+shayoma01,Marial Shayok,Shooting Guard,Right,196,89,,2019.0,"February 6, 2020","July 26,1995",Ontario,1.4,-0.1
+smithjr01,J.R. Smith,Shooting Guard and Small Forward,Right,198,102,North Carolina A&T,2004.0,"November 3, 2004","September 9,1985",New Jersey,13.9,46.3
+uthofja01,Jarrod Uthoff,Power Forward,Right,206,99,Iowa,,"March 10, 2017","May 19,1993",Iowa,12.3,0.2
+brantja01,Jarrell Brantley,Power Forward,Right,196,113,College of Charleston,2019.0,"October 25, 2019","June 7,1996",South Carolina,13.9,0.6
+burtode02,Deonte Burton,"Power Forward, Small Forward, and Shooting Guard",Left,193,108,,,"October 19, 2018","January 31,1994",Wisconsin,5.2,-0.4
+anderry01,Ryan Anderson,Power Forward and Center,Right,206,108,California,2008.0,"October 29, 2008","May 6,1988",California,16.5,46.7
+jamesju01,Justin James,Small Forward,Right,198,86,Wyoming,2019.0,"October 25, 2019","January 24,1997",Florida,11.2,0.3
+langfro01,Romeo Langford,Shooting Guard,Right,196,97,Indiana,2019.0,"October 30, 2019","October 25,1999",Indiana,8.5,2.0
+strusma01,Max Strus,Small Forward,Right,196,97,,,"November 22, 2019","March 28,1996",Illinois,11.8,16.0
+kiddgmi01,Michael Kidd-Gilchrist,Small Forward and Power Forward,Right,198,104,Kentucky,2012.0,"November 2, 2012","September 26,1993",Pennsylvania,13.4,21.0
+swanica01,Caleb Swanigan,Power Forward and Center,Right,206,117,Purdue,2017.0,"October 18, 2017","April 18,1997",Indiana,6.8,-0.2
+johnsst04,Stanley Johnson,Small Forward and Power Forward,Right,198,109,Arizona,2015.0,"October 27, 2015","May 29,1996",California,9.2,6.9
+mannte01,Terance Mann,Shooting Guard and Small Forward,Right,198,97,Florida State,2019.0,"October 24, 2019","October 18,1996",New York,12.5,23.3
+pelleno01,Norvel Pelle,Center,Right,208,104,,,"November 29, 2019","February 3,1993",Antigua and Barbuda,10.9,0.5
+vincega01,Gabe Vincent,Point Guard,Right,188,90,UC Santa Barbara,,"January 27, 2020","June 14,1996",California,8.3,5.6
+hernade01,Dewan Hernandez,Center,Right,208,106,Miami (FL),2019.0,"November 18, 2019","December 9,1996",Florida,12.9,0.0
+pondssh01,Shamorie Ponds,Point Guard,Left,183,79,St. John's,,"November 27, 2019","June 29,1998",New York,33.1,0.1
+motlejo01,Johnathan Motley,Power Forward,Right,203,104,Baylor,,"December 14, 2017","May 4,1995",Texas,19.1,0.9
+sefolth01,Thabo Sefolosha,"Shooting Guard, Small Forward, and Power Forward",Right,198,97,,2006.0,"October 31, 2006","May 2,1984",Switzerland,11.4,39.3
+gabriwe01,Wenyen Gabriel,Power Forward and Center,Right,206,92,Kentucky,,"October 23, 2019","March 26,1997",Sudan,12.4,3.8
+frazime01,Melvin Frazier,Shooting Guard,Left,198,95,Tulane,2018.0,"November 2, 2018","August 30,1996",Louisiana,4.2,-0.4
+frazimi01,Michael Frazier,Shooting Guard,Right,190,90,Florida,,"January 9, 2020","March 8,1994",New York,-0.9,-0.2
+thomakh01,Khyri Thomas,Shooting Guard,Right,190,95,Creighton,2018.0,"November 9, 2018","May 8,1996",Nebraska,11.4,0.5
+norveza01,Zach Norvell,Shooting Guard,Left,196,93,Gonzaga,,"October 25, 2019","December 9,1997",Illinois,2.6,-0.1
+waltode01,Derrick Walton,Point Guard,Right,183,85,Michigan,,"November 6, 2017","April 3,1995",Michigan,8.9,0.8
+brownch02,Charlie Brown Jr.,Shooting Guard,Right,198,90,Saint Joseph's,,"November 6, 2019","February 2,1997",Pennsylvania,5.2,-0.2
+johnsal02,Alize Johnson,Power Forward,Right,206,96,,2018.0,"October 19, 2018","April 22,1996",Pennsylvania,14.7,1.3
+kinglo02,Louis King,Small Forward and Power Forward,Right,201,92,Oregon,,"December 26, 2019","April 6,1999",New Jersey,13.0,0.4
+lecquja01,Jalen Lecque,Point Guard and Shooting Guard,Right,193,83,,,"January 16, 2020","June 13,2000",New York,3.2,-0.1
+newmama01,Malik Newman,Point Guard and Shooting Guard,Right,190,86,,,"February 9, 2020","February 21,1997",Louisiana,15.3,0.0
+reavejo02,Josh Reaves,Small Forward,Left,193,97,Penn State,,"January 2, 2020","June 4,1997",Virginia,5.8,0.0
+watanyu01,Yuta Watanabe,Small Forward,Left,206,97,George Washington,,"October 27, 2018","October 13,1994",Japan,10.3,4.2
+brazdig01,Ignas Brazdeikis,Small Forward,Left,198,100,Michigan,2019.0,"November 3, 2019","January 8,1999",Lithuania,9.6,0.4
+brissos01,Oshae Brissett,Small Forward and Power Forward,Right,201,95,Syracuse,,"November 18, 2019","June 20,1998",Ontario,12.5,7.0
+lawvi01,Vic Law,Power Forward,Right,201,90,Northwestern,,"January 26, 2020","December 19,1995",Illinois,3.7,-0.1
+poirivi01,Vincent Poirier,Center,Right,213,106,,,"October 26, 2019","October 17,1993",France,10.2,0.2
+cookty01,Tyler Cook,Power Forward and Small Forward,Right,203,115,Iowa,,"October 26, 2019","September 23,1997",Missouri,13.4,1.6
+davised01,Ed Davis,Power Forward and Center,Left,206,98,UNC,2010.0,"December 1, 2010","June 5,1989",District of Columbia,16.4,43.3
+hallde01,Devon Hall,Point Guard,Left,188,97,Virginia,2018.0,"November 12, 2019","July 7,1995",Virginia,3.1,-0.2
+pattoju01,Justin Patton,Center,Right,211,109,Creighton,2017.0,"April 1, 2018","June 14,1997",Nebraska,11.1,0.4
+herveke01,Kevin Hervey,Power Forward,Right,203,104,UT Arlington,2018.0,"December 26, 2019","July 9,1996",Texas,5.0,-0.1
+mbahalu01,Luc Mbah a Moute,Power Forward and Small Forward,Right,203,104,UCLA,2008.0,"October 28, 2008","September 9,1986",Cameroon,10.7,26.0
+morgaju01,Juwan Morgan,Power Forward,Right,201,105,Indiana,,"November 27, 2019","April 17,1997",Missouri,9.2,0.7
+randlch01,Chasson Randle,Point Guard,Right,188,83,Stanford,,"January 14, 2017","February 5,1993",Illinois,9.3,1.3
+wadede01,Dean Wade,Power Forward,Right,206,103,Kansas State,,"November 18, 2019","November 20,1996",Kansas,10.3,14.9
+dudleja01,Jared Dudley,"Power Forward, Small Forward, and Shooting Guard",Right,198,107,Boston College,2007.0,"November 2, 2007","July 10,1985",California,12.5,43.0
+magetjo01,Josh Magette,Point Guard,Left,185,72,Alabama-Huntsville,,"October 18, 2017","November 28,1989",Alabama,10.9,0.3
+boldejo01,Jonah Bolden,Center and Power Forward,Right,203,102,UCLA,2017.0,"October 16, 2018","January 2,1996",Australia,12.2,1.4
+antetko01,Kostas Antetokounmpo,Power Forward and Small Forward,Right,208,90,Dayton,2018.0,"March 20, 2019","November 20,1997",Greece,3.6,-0.2
+okpalkz01,KZ Okpala,Power Forward,Right,203,97,Stanford,2019.0,"October 23, 2019","April 28,1999",California,7.0,1.0
+robinju01,Justin Robinson,Point Guard,Left,185,88,Virginia Tech,,"October 23, 2019","October 12,1997",Virginia,4.6,-0.3
+willini01,Nigel Williams-Goss,Point Guard,Right,188,86,,2017.0,"October 25, 2019","September 16,1994",Oregon,8.1,0.0
+chandty01,Tyson Chandler,Center and Power Forward,Right,213,106,,2001.0,"October 31, 2001","October 2,1982",California,16.1,102.1
+guyky01,Kyle Guy,Shooting Guard and Point Guard,Right,185,75,Virginia,2019.0,"January 10, 2020","August 11,1997",Indiana,8.9,0.1
+millema01,Malcolm Miller,Small Forward,Right,201,95,Holy Cross,,"December 20, 2017","March 6,1993",Maryland,8.8,0.7
+owensta01,Tariq Owens,Power Forward,Right,208,92,,,"February 2, 2020","June 30,1995",New York,8.4,0.0
+bonejo01,Jordan Bone,Point Guard,Right,188,81,Tennessee,2019.0,"November 4, 2019","November 5,1997",Tennessee,7.1,0.1
+brownmo01,Moses Brown,Center,Right,218,117,UCLA,,"November 10, 2019","October 13,1999",New York,18.8,5.4
+cancavl01,Vlatko ÄanÄar,Power Forward,Right,203,107,,2017.0,"October 31, 2019","April 10,1997",Slovenia,10.4,2.4
+smithzh01,Zhaire Smith,Shooting Guard and Small Forward,Right,190,92,Texas Tech,2018.0,"March 25, 2019","June 4,1999",Texas,7.6,0.0
+vandeja01,Jarred Vanderbilt,Power Forward,Left,203,97,Kentucky,2018.0,"January 25, 2019","April 3,1999",Texas,14.2,18.6
+weathqu01,Quinndary Weatherspoon,Shooting Guard,Right,190,93,Mississippi State,2019.0,"February 8, 2020","September 10,1996",Mississippi,8.4,0.2
+alexaky01,Kyle Alexander,Center,Right,211,99,Tennessee,,"August 6, 2020","October 21,1996",Ontario,4.7,0.0
+bowenbr02,Brian Bowen,Small Forward,Right,201,90,,,"November 12, 2019","October 2,1998",Michigan,0.4,-0.1
+breweco01,Corey Brewer,"Small Forward, Shooting Guard, and Power Forward",Right,206,84,Florida,2007.0,"November 2, 2007","March 5,1986",Tennessee,11.8,22.5
+clevean01,Antonius Cleveland,Shooting Guard,Right,196,88,SE Missouri State,,"November 17, 2017","February 2,1994",Tennessee,4.0,-0.1
+grayjo01,Josh Gray,Point Guard,Right,183,81,LSU,,"February 2, 2018","September 9,1993",Louisiana,4.7,-0.3
+zellety01,Tyler Zeller,Center,Right,213,114,UNC,2012.0,"October 30, 2012","January 17,1990",California,14.9,17.1
+jeffeam01,Amile Jefferson,Power Forward,Right,206,100,Duke,,"December 31, 2018","May 7,1993",Pennsylvania,14.7,0.4
+maconda01,Daryl Macon,Point Guard and Shooting Guard,Right,188,83,Arkansas,,"October 26, 2018","November 29,1995",Arkansas,4.3,-0.1
+harpeja01,Jared Harper,Point Guard,Right,178,79,Auburn,,"October 23, 2019","September 14,1997",Georgia,20.5,0.2
+chealjo01,Joe Chealey,Point Guard,Right,193,86,College of Charleston,,"January 30, 2019","November 1,1995",Florida,-1.9,-0.1
+moonema01,Matt Mooney,Shooting Guard,Right,190,90,,,"January 20, 2020","February 7,1996",Illinois,5.4,0.0
+ellenhe01,Henry Ellenson,Power Forward and Center,Right,208,108,Marquette,2016.0,"October 26, 2016","January 13,1997",Wisconsin,10.7,0.4
+boldema01,Marques Bolden,Center,Right,208,112,Duke,,"February 1, 2020","April 17,1998",Texas,15.6,0.4
+howarwi01,William Howard,Power Forward,Right,203,93,,,"February 7, 2020","October 25,1993",France,-12.7,-0.1
+kiddst01,Stanton Kidd,Shooting Guard,Right,198,97,,,"October 25, 2019","March 18,1992",Maryland,-13.7,-0.1
+macurjp01,J.P. Macura,Shooting Guard,Right,193,92,Xavier,,"January 2, 2019","June 5,1995",Minnesota,5.4,0.0
+robyis01,Isaiah Roby,Power Forward,Right,198,104,Nebraska,2019.0,"January 29, 2020","February 3,1998",Illinois,13.5,4.0
+duranke01,Kevin Durant,"Small Forward, Power Forward, and Shooting Guard",Right,211,108,Texas,2007.0,"October 31, 2007","September 29,1988",District of Columbia,24.6,186.1
+walljo01,John Wall,Point Guard,Right,190,95,Kentucky,2010.0,"October 28, 2010","September 6,1990",North Carolina,19.0,44.5
+edwaran01,Anthony Edwards,Shooting Guard,Right,193,102,Georgia,2020.0,"December 23, 2020","August 5,2001",Georgia,18.2,31.4
+bryanel01,Elijah Bryant,Shooting Guard,Right,196,95,,,"May 16, 2021","April 19,1995",Georgia,10.6,0.0
+ballla01,LaMelo Ball,Point Guard,Right,201,81,,2020.0,"December 23, 2020","August 22,2001",California,19.1,19.8
+halibty01,Tyrese Haliburton,Point Guard and Shooting Guard,Right,196,83,Iowa State,2020.0,"December 23, 2020","February 29,2000",Wisconsin,20.6,37.6
+anthoco01,Cole Anthony,Point Guard,Right,188,83,UNC,2020.0,"December 23, 2020","May 15,2000",Oregon,13.9,10.5
+beysa01,Saddiq Bey,Small Forward,Right,203,97,Villanova,2020.0,"December 26, 2020","April 9,1999",North Carolina,14.3,20.0
+wisemja01,James Wiseman,Center,Left,211,108,Memphis,2020.0,"December 22, 2020","March 31,2001",Tennessee,14.4,4.3
+quickim01,Immanuel Quickley,Point Guard and Shooting Guard,Right,188,86,Kentucky,2020.0,"December 23, 2020","June 17,1999",Maryland,16.2,27.9
+tateja01,Jae'Sean Tate,Small Forward and Power Forward,Left,193,104,Ohio State,,"December 26, 2020","October 28,1995",Ohio,12.8,11.7
+brookar01,Armoni Brooks,Point Guard and Shooting Guard,Right,190,88,Houston,,"April 9, 2021","June 5,1998",Texas,9.1,0.5
+oliveca01,Cameron Oliver,Small Forward,Right,203,102,Nevada,,"May 10, 2021","July 11,1996",California,18.6,0.4
+maledth01,ThÃ©o Maledon,Point Guard,Right,193,79,,2020.0,"December 26, 2020","June 12,2001",France,9.2,-0.2
+okorois01,Isaac Okoro,Shooting Guard and Small Forward,Right,193,102,Auburn,2020.0,"December 23, 2020","January 26,2001",Georgia,10.0,18.2
+martike04,KJ Martin,Small Forward and Power Forward,Right,198,97,,2020.0,"January 8, 2021","January 6,2001",California,13.7,12.4
+banede01,Desmond Bane,Shooting Guard,Right,198,97,TCU,2020.0,"December 23, 2020","June 25,1998",Indiana,17.1,33.0
+willipa01,Patrick Williams,Power Forward,Right,198,97,Florida State,2020.0,"December 23, 2020","August 26,2001",North Carolina,10.2,8.3
+couside01,DeMarcus Cousins,Center,Right,208,122,Kentucky,2010.0,"October 27, 2010","August 13,1990",Alabama,22.0,46.8
+scrubja01,Jay Scrubb,Shooting Guard,Left,196,99,John A. Logan College,2020.0,"May 11, 2021","September 1,2000",Kentucky,8.8,-0.1
+deckga01,Gabriel Deck,Power Forward,Right,198,104,,,"April 29, 2021","February 8,1995",Argentina,15.1,0.6
+pokusal01,Aleksej Pokusevski,Power Forward,Right,213,95,,2020.0,"December 26, 2020","December 26,2001",Serbia,10.5,-0.2
+maxeyty01,Tyrese Maxey,Point Guard and Shooting Guard,Right,188,90,Kentucky,2020.0,"December 23, 2020","November 4,2000",Texas,18.6,35.1
+stewais01,Isaiah Stewart,Center and Power Forward,Right,203,113,Washington,2020.0,"December 28, 2020","May 22,2001",New York,14.1,19.5
+okekech01,Chuma Okeke,Power Forward and Small Forward,Right,201,103,Auburn,2019.0,"December 23, 2020","August 18,1998",Georgia,11.2,5.0
+jamesmi02,Mike James,Point Guard,Right,185,79,Lamar,,"October 18, 2017","August 18,1990",Oregon,13.4,0.4
+marshna01,Naji Marshall,Small Forward,Right,198,99,Xavier,,"January 15, 2021","January 24,1998",New Jersey,13.5,14.6
+pritcpa01,Payton Pritchard,Point Guard and Shooting Guard,Right,185,88,Oregon,2020.0,"December 23, 2020","January 28,1998",Oregon,15.5,29.4
+flynnma01,Malachi Flynn,Point Guard,Right,185,83,,2020.0,"December 23, 2020","May 10,1998",Washington,10.9,2.9
+harrija01,Jalen Harris,Shooting Guard,Right,196,88,,2020.0,"January 8, 2021","August 14,1998",Texas,15.2,0.3
+hamptrj01,R.J. Hampton,Shooting Guard and Point Guard,Right,193,79,,2020.0,"December 28, 2020","February 7,2001",Texas,9.6,0.8
+hayeski01,Killian Hayes,Point Guard,Left,193,88,,2020.0,"December 23, 2020","July 27,2001",Florida,9.4,-0.4
+mcdanja02,Jaden McDaniels,Power Forward and Small Forward,Right,206,83,Washington,2020.0,"December 27, 2020","September 29,2000",Washington,11.6,23.1
+tillmxa01,Xavier Tillman Sr.,Center and Power Forward,Right,203,111,Michigan State,2020.0,"January 3, 2021","January 12,1999",Michigan,14.1,10.3
+lewiski01,Kira Lewis Jr.,Point Guard,Right,185,77,Alabama,2020.0,"December 29, 2020","April 6,2001",Alabama,10.5,1.3
+avdijde01,Deni Avdija,Small Forward,Right,203,103,,2020.0,"December 23, 2020","January 3,2001",Israel,14.4,21.7
+campafa01,Facundo Campazzo,Point Guard,Right,178,88,,,"December 23, 2020","March 23,1991",Argentina,11.3,5.1
+frankro01,Robert Franks,Power Forward,Right,201,102,Washington State,,"April 12, 2021","December 18,1996",Washington,16.5,0.3
+mathida01,Dakota Mathias,Shooting Guard,Right,193,90,Purdue,,"December 27, 2020","July 11,1995",Ohio,9.9,0.2
+nworajo01,Jordan Nwora,Small Forward,Right,203,102,Louisville,2020.0,"December 25, 2020","September 9,1998",New York,12.0,3.0
+gillefr01,Freddie Gillespie,Power Forward,Right,206,111,,,"April 10, 2021","June 14,1997",Minnesota,12.5,1.1
+leesa01,Saben Lee,Point Guard,Right,188,83,Vanderbilt,2020.0,"January 6, 2021","June 23,1999",Missouri,13.7,3.5
+lamban01,Anthony Lamb,Small Forward,Right,198,102,University of Vermont,,"March 11, 2021","January 20,1998",New York,10.3,2.6
+vassede01,Devin Vassell,Shooting Guard and Small Forward,Right,196,90,Florida State,2020.0,"December 23, 2020","August 23,2000",Georgia,13.9,16.8
+jonesma05,Mason Jones,Shooting Guard,Right,193,90,,,"January 8, 2021","July 21,1998",Texas,13.2,0.6
+windldy01,Dylan Windler,Small Forward,Left,201,88,Belmont,2019.0,"December 23, 2020","September 22,1996",Indiana,10.3,1.6
+achiupr01,Precious Achiuwa,Center and Power Forward,Right,203,110,Memphis,2020.0,"December 23, 2020","September 19,1999",Nigeria,14.4,14.8
+nesmiaa01,Aaron Nesmith,Small Forward,Right,196,97,Vanderbilt,2020.0,"December 25, 2020","October 16,1999",South Carolina,11.4,11.2
+okongon01,Onyeka Okongwu,Center,Right,208,108,USC,2020.0,"January 15, 2021","December 11,2000",California,17.9,30.9
+cannade01,Devin Cannady,Point Guard,Right,188,83,Princeton,,"April 7, 2021","May 21,1996",Indiana,9.5,0.2
+halljo01,Josh Hall,Small Forward,Right,206,86,,,"December 29, 2020","October 8,2000",North Carolina,1.0,-0.9
+mannini01,Nico Mannion,Point Guard,Right,188,86,Arizona,2020.0,"January 4, 2021","March 14,2001",Italy,9.3,0.2
+milleda01,Darius Miller,Small Forward,Right,198,102,Kentucky,2012.0,"October 31, 2012","March 21,1990",Kentucky,8.7,6.5
+stevela01,Lamar Stevens,Power Forward and Small Forward,Right,201,104,Penn State,,"December 27, 2020","July 9,1997",Pennsylvania,11.1,4.9
+toppiob01,Obi Toppin,Power Forward,Right,206,99,Dayton,2020.0,"December 23, 2020","March 4,1998",New York,16.4,17.7
+thomabr01,Brodric Thomas,Shooting Guard,Right,196,83,Truman State University,,"December 26, 2020","January 28,1997",Illinois,8.2,0.1
+knighna01,Nathan Knight,Power Forward and Center,Right,203,114,William & Mary,,"December 23, 2020","September 20,1997",New York,15.6,2.1
+mayssk01,Skylar Mays,Shooting Guard and Point Guard,Right,193,92,LSU,2020.0,"December 23, 2020","September 5,1997",Louisiana,14.4,2.1
+joeis01,Isaiah Joe,Shooting Guard,Right,193,74,Arkansas,2020.0,"December 27, 2020","July 2,1999",Arkansas,13.5,19.0
+reedpa01,Paul Reed,Center and Power Forward,Right,206,95,DePaul,2020.0,"January 4, 2021","June 14,1999",Florida,19.8,15.9
+nnajize01,Zeke Nnaji,Power Forward,Right,208,108,Arizona,2020.0,"December 28, 2020","January 9,2001",Minnesota,12.1,7.5
+tilliki02,Killian Tillie,Center,Right,206,99,Gonzaga,,"February 28, 2021","March 5,1998",France,7.9,0.8
+diakima01,Mamadi Diakite,Power Forward and Center,Right,206,103,Virginia,,"March 11, 2021","January 21,1997",Guinea,11.2,0.9
+gillan01,Anthony Gill,Power Forward,Right,201,104,,,"December 29, 2020","October 17,1992",North Carolina,12.5,5.8
+ramseja01,Jahmi'us Ramsey,Shooting Guard,Right,190,86,Texas Tech,2020.0,"December 27, 2020","June 9,2001",Texas,9.5,-0.1
+reynoca01,Cameron Reynolds,Small Forward and Shooting Guard,Left,201,102,Tulane,,"March 3, 2019","February 7,1995",Texas,9.9,0.4
+merrisa01,Sam Merrill,Shooting Guard,Right,193,92,Utah State University,2020.0,"December 23, 2020","May 15,1996",Utah,12.5,10.5
+perryre01,Reggie Perry,Power Forward,Right,203,113,Mississippi State,2020.0,"December 22, 2020","March 21,2000",Mississippi,13.1,0.4
+forretr01,Trent Forrest,Shooting Guard and Point Guard,Right,193,95,Florida State,,"January 5, 2021","June 12,1998",Alabama,9.7,2.2
+howarma02,Markus Howard,Shooting Guard,Right,178,79,Marquette,,"December 25, 2020","March 3,1999",New Jersey,10.9,0.0
+louzama01,Didi Louzada,Small Forward and Shooting Guard,Right,196,85,,2019.0,"May 12, 2021","February 7,1999",Brazil,4.2,-0.1
+brimaam01,Amida Brimah,Center,Right,208,104,UConn,,"April 25, 2021","February 11,1994",Ghana,16.6,0.0
+greenjo02,Josh Green,Shooting Guard,Right,198,90,Arizona,2020.0,"December 23, 2020","November 16,2000",Australia,9.8,11.1
+rillegr01,Grant Riller,Point Guard,Right,188,86,College of Charleston,2020.0,"April 4, 2021","February 8,1997",Florida,23.6,0.1
+varejan01,Anderson VarejÃ£o,Center and Power Forward,Right,211,123,,2004.0,"November 4, 2004","September 28,1982",Brazil,15.6,46.4
+jonestr01,Tre Jones,Point Guard,Right,185,83,Duke,2020.0,"December 30, 2020","January 8,2000",Minnesota,16.0,20.3
+careyve01,Vernon Carey Jr.,Center,Left,208,122,Duke,2020.0,"December 30, 2020","February 25,2001",Florida,12.5,0.2
+ellebcj01,CJ Elleby,Small Forward,Left,198,90,Washington State,2020.0,"December 23, 2020","June 16,2000",Washington,9.2,0.5
+mcderse01,Sean McDermott,Small Forward,Right,198,88,Butler,,"December 30, 2020","November 3,1996",Indiana,7.2,0.2
+dotsode01,Devon Dotson,Point Guard,Right,185,83,Kansas,,"January 1, 2021","August 2,1999",Illinois,11.0,0.2
+sirvyde01,Deividas Sirvydis,Shooting Guard,Left,203,86,,2019.0,"January 6, 2021","June 10,2000",Lithuania,4.7,-0.1
+hintona01,Nate Hinton,Shooting Guard and Small Forward,Right,196,95,Houston,,"January 3, 2021","June 8,1999",North Carolina,12.9,0.2
+portejo01,Jontay Porter,Power Forward,Left,211,108,Missouri,,"March 15, 2021","November 15,1999",Missouri,14.1,0.7
+smithja04,Jalen Smith,Center and Power Forward,Right,203,97,Maryland,2020.0,"December 23, 2020","March 16,2000",Virginia,17.7,14.6
+spaldra01,Ray Spalding,Power Forward and Center,Right,208,97,Louisville,2018.0,"October 17, 2018","March 11,1997",Kentucky,13.1,0.1
+winstca01,Cassius Winston,Point Guard,Right,185,83,Michigan State,2020.0,"January 11, 2021","February 28,1998",Michigan,9.4,0.1
+oturuda01,Daniel Oturu,Center,Right,208,108,Minnesota,2020.0,"December 25, 2020","September 20,1999",New York,12.6,0.3
+toupaax01,Axel Toupane,Small Forward,Right,201,95,,,"March 4, 2016","July 23,1992",France,7.3,0.5
+hugheel01,Elijah Hughes,Shooting Guard and Small Forward,Right,196,97,,2020.0,"December 23, 2020","March 10,1998",New York,5.8,-0.4
+nunnaja01,James Nunnally,Small Forward,Right,201,92,UC Santa Barbara,,"January 16, 2014","July 14,1990",California,6.8,0.0
+stanlca01,Cassius Stanley,Shooting Guard,Right,196,86,Duke,2020.0,"December 26, 2020","August 18,1999",California,7.1,0.0
+woodaro01,Robert Woodard II,Small Forward,Right,198,106,Mississippi State,2020.0,"December 27, 2020","September 22,1999",Mississippi,7.5,-0.1
+darlina01,Nate Darling,Shooting Guard,Right,196,90,,,"March 13, 2021","August 30,1998",Nova Scotia,8.2,0.0
+azubuud01,Udoka Azubuike,Center,Right,211,122,Kansas,2020.0,"December 23, 2020","September 17,1999",Nigeria,15.5,2.0
+maneka01,Karim ManÃ©,Point Guard,Right,190,86,Vanier College,,"December 31, 2020","May 16,2000",Senegal,1.3,-0.1
+beyty01,Tyler Bey,Small Forward,Right,201,97,Colorado,2020.0,"January 13, 2021","February 10,1998",Nevada,5.9,0.0
+fittsma01,Malik Fitts,Power Forward,Right,196,104,,,"April 9, 2021","July 4,1997",California,9.6,0.1
+terryty01,Tyrell Terry,Point Guard,Right,188,72,Stanford,2020.0,"December 25, 2020","September 28,2000",Minnesota,6.7,0.0
+richani01,Nick Richards,Center and Power Forward,Right,211,111,Kentucky,2020.0,"December 30, 2020","November 29,1997",Jamaica,16.2,13.9
+blevike01,Keljin Blevins,Small Forward,Right,193,90,,,"December 23, 2020","November 24,1995",Arkansas,3.8,-0.7
+alexaty01,Ty-Shon Alexander,Shooting Guard,Right,190,88,Creighton,,"December 27, 2020","July 16,1998",North Carolina,4.2,0.0
+adamsja01,Jaylen Adams,Point Guard,Right,183,102,St. Bonaventure,,"October 17, 2018","May 4,1996",Maryland,7.0,0.0
+haganas01,Ashton Hagans,Point Guard,Right,190,86,Kentucky,,"January 25, 2021","July 8,1999",Georgia,8.2,0.0
+magnawi01,Will Magnay,Center,Right,208,106,Tulsa,,"March 23, 2021","June 10,1998",Australia,-35.1,0.0
+whittgr01,Greg Whittington,Power Forward,Right,203,95,Georgetown,,"February 27, 2021","February 7,1993",Maryland,-10.2,-0.1
+thompkl01,Klay Thompson,Shooting Guard and Small Forward,Right,196,99,Washington State,2011.0,"December 25, 2011","February 8,1990",California,15.6,57.6
+cunnica01,Cade Cunningham,Point Guard and Shooting Guard,Right,198,99,Oklahoma State,2021.0,"October 30, 2021","September 25,2001",Texas,18.0,14.9
+greenja05,Jalen Green,Shooting Guard,Right,193,84,,2021.0,"October 20, 2021","February 9,2002",California,14.3,11.0
+barnesc01,Scottie Barnes,"Power Forward, Shooting Guard, and Small Forward",Right,203,107,Florida State,2021.0,"October 20, 2021","August 1,2001",Florida,17.6,27.2
+wagnefr01,Franz Wagner,Small Forward,Right,208,99,Michigan,2021.0,"October 20, 2021","August 27,2001",Germany,17.2,24.2
+mobleev01,Evan Mobley,Power Forward,Right,211,97,USC,2021.0,"October 20, 2021","June 18,2001",California,19.1,34.8
+duartch01,Chris Duarte,Small Forward and Shooting Guard,Right,196,86,Oregon,2021.0,"October 20, 2021","June 13,1997",Dominican Republic,10.5,1.9
+willibr03,Brandon Williams,Point Guard,Right,185,86,Arizona,,"December 27, 2021","November 22,1999",California,15.4,3.2
+giddejo01,Josh Giddey,"Point Guard, Shooting Guard, Power Forward, and Small Forward",Right,201,97,,2021.0,"October 20, 2021","October 10,2002",Australia,16.7,17.2
+suggsja01,Jalen Suggs,Point Guard and Shooting Guard,Right,196,92,Gonzaga,2021.0,"October 20, 2021","June 3,2001",Minnesota,13.2,8.3
+mitchda01,Davion Mitchell,Point Guard,Right,183,91,,2021.0,"October 20, 2021","September 5,1998",Georgia,10.5,10.3
+simpsza01,Zavier Simpson,Point Guard,Right,183,86,Michigan,,"April 5, 2022","February 11,1997",Ohio,7.0,-0.2
+manntr01,Tre Mann,Point Guard,Right,193,80,Florida,2021.0,"October 20, 2021","February 3,2001",Florida,10.9,1.9
+hylanbo01,Bones Hyland,Point Guard and Shooting Guard,Right,188,76,VCU,2021.0,"October 25, 2021","September 14,2000",Delaware,14.4,7.4
+washidu02,Duane Washington Jr.,Shooting Guard and Point Guard,Right,188,89,Ohio State,,"October 29, 2021","March 24,2000",Germany,10.0,-0.6
+sengual01,Alperen ÅengÃ¼n,Center,Right,211,110,,2021.0,"October 20, 2021","July 25,2002",Turkey,20.4,30.5
+taylote01,Terry Taylor,Power Forward,Left,196,104,Austin Peay State University,,"January 5, 2022","September 23,1999",Kentucky,15.7,3.0
+joneshe01,Herbert Jones,Small Forward and Power Forward,Left,201,93,Alabama,2021.0,"October 20, 2021","October 6,1998",Alabama,11.8,16.4
+kuminjo01,Jonathan Kuminga,Power Forward and Small Forward,Right,201,102,,2021.0,"October 30, 2021","October 6,2002",Democratic Republic of the Congo,15.3,13.0
+dosunay01,Ayo Dosunmu,Shooting Guard,Right,193,90,Illinois,2021.0,"October 20, 2021","January 17,2000",Illinois,12.7,17.5
+thomaca02,Cam Thomas,Shooting Guard,Right,190,95,LSU,2021.0,"October 19, 2021","October 13,2001",Japan,14.7,5.0
+stephla01,Lance Stephenson,"Shooting Guard, Small Forward, and Point Guard",Right,198,104,Cincinnati,2010.0,"February 27, 2011","September 5,1990",New York,12.2,17.5
+jacksis01,Isaiah Jackson,Center,Right,203,92,Kentucky,2021.0,"October 23, 2021","January 10,2002",Michigan,18.9,10.3
+wiggiaa01,Aaron Wiggins,Shooting Guard,Right,196,86,Maryland,2021.0,"November 14, 2021","January 2,1999",North Carolina,13.4,15.0
+kispeco01,Corey Kispert,Small Forward,Right,198,101,Gonzaga,2021.0,"October 22, 2021","March 3,1999",Washington,11.8,11.1
+willizi02,Ziaire Williams,Small Forward,Right,206,83,Stanford,2021.0,"October 20, 2021","September 12,2001",California,10.6,6.2
+waterli01,Lindy Waters III,Shooting Guard,Right,196,95,Oklahoma State,,"February 11, 2022","July 28,1997",Oklahoma,11.0,4.2
+chrisjo01,Josh Christopher,Shooting Guard,Right,193,97,Arizona State,2021.0,"October 20, 2021","December 8,2001",California,11.9,0.2
+watfotr01,Trendon Watford,Power Forward and Small Forward,Right,203,107,LSU,,"November 14, 2021","November 9,2000",Alabama,14.2,7.9
+robinje02,Jeremiah Robinson-Earl,Power Forward and Center,Right,206,108,Villanova,2021.0,"October 20, 2021","November 3,2000",Missouri,12.1,5.9
+reaveau01,Austin Reaves,Shooting Guard,Right,196,89,,,"October 22, 2021","May 29,1998",Arkansas,16.3,27.5
+johnske07,Keon Johnson,Shooting Guard,Right,196,83,Tennessee,2021.0,"November 7, 2021","March 10,2002",Tennessee,9.9,-0.3
+keybr01,Braxton Key,Small Forward,Right,201,102,,,"January 7, 2022","February 14,1997",North Carolina,14.0,0.4
+sarrol01,Olivier Sarr,Center,Right,208,108,,,"December 28, 2021","February 20,1999",France,13.9,1.8
+bostobr01,Brandon Boston Jr.,Shooting Guard and Small Forward,Right,198,85,Kentucky,2021.0,"October 25, 2021","November 28,2001",Georgia,11.7,1.0
+kalaige01,Georgios Kalaitzakis,Small Forward,Right,203,87,,2021.0,"October 19, 2021","January 2,1999",Greece,8.6,-0.1
+liveris01,Isaiah Livers,Power Forward and Small Forward,Right,198,105,Michigan,2021.0,"December 16, 2021","July 28,1998",Michigan,8.1,2.0
+graveha01,Hassani Gravett,Point Guard,Right,188,85,,,"December 17, 2021","July 16,1996",Georgia,10.1,0.3
+brownch05,Chaundee Brown Jr.,Shooting Guard and Small Forward,Right,196,97,,,"December 17, 2021","December 4,1998",Florida,6.4,0.0
+krejcvi01,VÃ­t KrejÄÃ­,Point Guard and Shooting Guard,Right,203,88,,2020.0,"October 20, 2021","June 19,2000",Czechia,10.6,6.9
+sharpda01,Day'Ron Sharpe,Center and Power Forward,Right,208,120,UNC,2021.0,"October 24, 2021","November 6,2001",North Carolina,19.9,11.9
+alvarjo01,Jose Alvarado,Point Guard,Right,183,81,Georgia Tech,,"November 3, 2021","April 12,1998",New York,13.0,9.4
+grimequ01,Quentin Grimes,Shooting Guard,Right,193,95,,2021.0,"October 20, 2021","May 8,2000",Texas,12.6,14.4
+edwarke02,Kessler Edwards,Small Forward,Right,203,92,Pepperdine,2021.0,"November 16, 2021","August 9,2000",California,9.4,2.7
+garzalu01,Luka Garza,Center,Right,208,110,Iowa,2021.0,"October 23, 2021","December 27,1998",District of Columbia,19.5,8.2
+moonxa01,Xavier Moon,Shooting Guard,Right,183,74,,,"December 27, 2021","January 2,1995",Alabama,12.1,0.3
+primojo01,Joshua Primo,Shooting Guard and Small Forward,Right,193,85,Alabama,2021.0,"October 20, 2021","December 24,2002",Ontario,6.9,-0.2
+sykeske01,Keifer Sykes,Point Guard,Right,180,75,Green Bay,,"December 29, 2021","December 30,1993",Illinois,5.9,-0.5
+monrogr01,Greg Monroe,Center and Power Forward,Left,211,120,Georgetown,2010.0,"October 30, 2010","June 4,1990",Louisiana,20.1,50.4
+murphtr02,Trey Murphy III,Small Forward,Right,203,93,,2021.0,"October 20, 2021","June 18,2000",North Carolina,16.3,24.4
+yurtsom01,Omer Yurtseven,Center,Right,211,124,,,"October 21, 2021","June 19,1998",Uzbekistan,15.8,3.2
+landajo01,Jock Landale,Center,Right,211,115,Saint Mary's,,"October 20, 2021","October 25,1995",Australia,16.2,12.0
+browngr01,Greg Brown III,Power Forward and Small Forward,Right,201,93,Texas,2021.0,"October 23, 2021","September 1,2001",Texas,10.4,0.2
+dukeda01,David Duke Jr.,Shooting Guard and Point Guard,Right,193,92,Providence,,"December 8, 2021","October 13,1999",Rhode Island,10.0,0.4
+mcgrica01,Cameron McGriff,Small Forward,Right,201,99,Oklahoma State,,"December 27, 2021","September 30,1997",Texas,12.5,0.1
+bouknja01,James Bouknight,Shooting Guard,Right,193,86,UConn,2021.0,"October 22, 2021","September 18,2000",New York,8.4,-0.3
+moodymo01,Moses Moody,Shooting Guard,Right,196,95,Arkansas,2021.0,"October 19, 2021","May 31,2002",Arkansas,12.4,11.6
+reedda01,Davon Reed,Shooting Guard,Right,196,93,Miami (FL),2017.0,"January 14, 2018","June 11,1995",New Jersey,9.1,1.5
+queentr01,Trevelin Queen,Shooting Guard,Right,196,86,,,"December 18, 2021","February 25,1997",Maryland,11.1,0.8
+wiggili01,Lindell Wigginton,Point Guard,Right,185,85,Iowa State,,"January 13, 2022","March 28,1998",Nova Scotia,10.6,0.2
+aldamsa01,Santi Aldama,Power Forward,Right,213,97,Loyola (MD),2021.0,"October 27, 2021","January 10,2001",Spain,14.7,14.5
+mccluma01,Mac McClung,Shooting Guard and Point Guard,Right,188,83,,,"December 29, 2021","January 6,1999",Virginia,11.0,0.1
+hopsosc01,Scotty Hopson,Shooting Guard,Right,201,97,Tennessee,,"April 2, 2014","August 8,1989",Kentucky,-2.5,-0.1
+pottemi01,Micah Potter,Center and Power Forward,Right,206,112,,,"January 1, 2022","April 6,1998",Ohio,13.2,3.5
+yorkga01,Gabe York,Shooting Guard,Right,190,83,Arizona,,"April 9, 2022","August 2,1993",California,12.1,0.1
+hillma01,Malcolm Hill,Small Forward and Shooting Guard,Right,198,99,Illinois,,"December 25, 2021","October 26,1995",Missouri,12.8,0.6
+butleja02,Jared Butler,Point Guard and Shooting Guard,Right,190,87,Baylor,2021.0,"October 20, 2021","August 25,2000",Louisiana,14.5,2.5
+mamuksa01,Sandro Mamukelashvili,Center and Power Forward,Left,206,108,Seton Hall,2021.0,"October 19, 2021","May 23,1999",New York,17.0,11.4
+pickeja01,Jamorko Pickett,Small Forward and Power Forward,Right,206,93,Georgetown,,"October 23, 2021","December 24,1997",District of Columbia,7.6,0.1
+lundbga01,Gabriel Lundberg,Shooting Guard,Right,193,92,,,"April 3, 2022","December 4,1994",Denmark,7.7,0.0
+bantoda01,Dalano Banton,Point Guard,Right,203,92,Nebraska,2021.0,"October 20, 2021","November 7,1999",Ontario,12.5,2.0
+nixda01,Daishen Nix,Point Guard and Shooting Guard,Right,190,102,,,"November 29, 2021","February 13,2002",Alaska,6.0,-1.4
+smartja01,Javonte Smart,Point Guard,Right,193,92,LSU,,"December 4, 2021","June 3,1999",Louisiana,5.1,-0.2
+basspa01,Paris Bass,Small Forward,Right,203,90,Detroit Mercy,,"January 2, 2022","August 29,1995",Michigan,13.9,0.0
+bassech01,Charles Bassey,Center,Right,208,104,Western Kentucky,2021.0,"October 20, 2021","October 28,2000",Nigeria,19.5,4.5
+quetane01,Neemias Queta,Center,Right,213,112,Utah State University,2021.0,"December 17, 2021","July 13,1999",Portugal,19.2,14.2
+ryanma01,Matt Ryan,Small Forward,Right,198,97,,,"April 10, 2022","April 17,1997",New York,8.3,0.7
+scotttr01,Tre Scott,Power Forward and Small Forward,Right,203,102,Cincinnati,,"December 22, 2021","November 25,1996",Georgia,10.1,0.1
+fordal03,Aleem Ford,Small Forward,Right,203,99,Wisconsin,,"December 17, 2021","December 22,1997",Georgia,0.5,-0.2
+hausesa01,Sam Hauser,Small Forward and Power Forward,Right,201,98,,,"November 20, 2021","December 8,1997",Wisconsin,12.6,18.2
+johnsja05,Jalen Johnson,Small Forward and Power Forward,Right,203,99,Duke,2021.0,"October 21, 2021","December 18,2001",Wisconsin,17.6,15.9
+wainris01,Ish Wainright,Small Forward and Power Forward,Right,196,113,Baylor,,"November 19, 2021","September 12,1994",Missouri,9.3,2.3
+stausni01,Nik Stauskas,Shooting Guard,Right,198,92,Michigan,2014.0,"October 29, 2014","October 7,1993",Ontario,9.1,3.9
+champju01,Justin Champagnie,Small Forward,Right,198,93,Pitt,,"October 22, 2021","June 29,2001",New York,16.0,7.0
+highsha01,Haywood Highsmith,Small Forward and Power Forward,Right,196,99,Wheeling University,,"January 8, 2019","December 9,1996",Maryland,10.0,7.9
+mcbrimi01,Miles McBride,Point Guard and Shooting Guard,Right,188,88,West Virginia,2021.0,"October 22, 2021","September 8,2000",Ohio,11.7,10.5
+simsje01,Jericho Sims,Center and Power Forward,Right,208,113,Texas,2021.0,"October 20, 2021","October 20,1998",Minnesota,12.1,10.1
+dowtije01,Jeff Dowtin Jr.,Point Guard,Right,190,80,Rhode Island,,"November 3, 2021","May 10,1997",Maryland,14.1,2.3
+wieskjo01,Joe Wieskamp,Small Forward and Shooting Guard,Right,198,92,Iowa,2021.0,"November 10, 2021","August 23,1999",Iowa,5.6,0.1
+caverah01,Ahmad Caver,Shooting Guard,Right,188,78,Old Dominion,,"January 5, 2022","September 12,1996",Georgia,76.2,0.0
+garubus01,Usman Garuba,Power Forward and Center,Right,203,103,,2021.0,"October 20, 2021","March 9,2002",Spain,12.8,2.3
+johnsjo02,Joe Johnson,Shooting Guard and Small Forward,Right,201,108,Arkansas,2001.0,"October 30, 2001","June 29,1981",Arkansas,15.4,82.9
+jonesje01,Jemerrio Jones,Small Forward,Right,196,78,,,"March 31, 2019","April 9,1995",Tennessee,12.4,0.3
+swordcr01,Craig Sword,Shooting Guard,Right,190,88,Mississippi State,,"December 28, 2021","January 16,1994",Alabama,14.2,0.1
+thorjt01,JT Thor,Power Forward,Left,206,92,Auburn,2021.0,"October 22, 2021","August 26,2002",Nebraska,8.4,1.2
+simonma01,Marko Simonovic,Center,Right,213,99,,2020.0,"November 22, 2021","October 15,1999",Montenegro,6.4,0.0
+omorueu01,Eugene Omoruyi,Small Forward,Right,198,106,,,"October 29, 2021","February 14,1997",Nigeria,12.9,1.2
+seldewa01,Wayne Selden,Shooting Guard,Right,193,105,Kansas,,"March 14, 2017","September 30,1994",Massachusetts,9.1,0.2
+toddis01,Isaiah Todd,Power Forward,Right,206,99,,2021.0,"October 25, 2021","October 17,2001",Maryland,2.2,-0.3
+pangoke01,Kevin Pangos,Point Guard,Right,185,81,Gonzaga,,"October 22, 2021","January 26,1993",Ontario,6.5,0.1
+edwarro01,Rob Edwards,Shooting Guard,Right,196,92,,,"December 29, 2021","January 20,1997",Michigan,-0.8,0.0
+bolmale01,Leandro Bolmaro,Small Forward and Shooting Guard,Right,198,90,,2020.0,"October 20, 2021","September 11,2000",Argentina,3.1,-0.3
+wrighmo01,Moses Wright,Power Forward,Right,203,102,Georgia Tech,,"December 22, 2021","December 23,1998",North Carolina,18.3,0.1
+collida01,Darren Collison,Point Guard,Right,183,79,UCLA,2009.0,"October 28, 2009","August 23,1987",California,16.2,49.9
+schakjo01,Jordan Schakel,Small Forward and Shooting Guard,Right,198,90,San Diego State,,"December 26, 2021","June 13,1998",California,3.0,-0.1
+powelmy01,Myles Powell,Point Guard,Right,188,88,Seton Hall,,"December 20, 2021","July 7,1997",New Jersey,0.2,-0.1
+cornepe01,Petr Cornelie,Power Forward,Right,211,99,,2016.0,"October 25, 2021","July 26,1995",France,9.6,0.0
+garrema01,Marcus Garrett,Shooting Guard,Right,196,92,Kansas,,"October 21, 2021","November 9,1998",Texas,6.2,0.1
+nembhrj01,RJ Nembhard Jr.,Shooting Guard,Right,196,90,TCU,,"October 22, 2021","March 22,1999",Texas,8.0,0.0
+ponsyv01,Yves Pons,Small Forward,Left,196,93,Tennessee,,"November 12, 2021","May 7,1999",Haiti,5.9,0.0
+buchash01,Shaq Buchanan,Shooting Guard,Right,190,86,,,"December 26, 2021","January 30,1997",Mississippi,0.6,0.0
+joneska01,Kai Jones,Center,Right,211,100,Texas,2021.0,"October 22, 2021","January 19,2001",Bahamas,14.8,2.8
+sprinja01,Jaden Springer,Shooting Guard and Point Guard,Right,193,91,Tennessee,2021.0,"October 20, 2021","September 25,2002",North Carolina,11.4,1.4
+wrighmc01,McKinley Wright IV,Point Guard,Right,180,87,Colorado,,"October 20, 2021","October 25,1998",Minnesota,12.3,0.5
+jonesca03,Carlik Jones,Point Guard,Right,183,78,,,"December 23, 2021","December 23,1997",Ohio,7.4,0.0
+cumbeja01,Jarron Cumberland,Shooting Guard,Right,196,92,Cincinnati,,"December 27, 2021","September 22,1997",Ohio,8.4,0.0
+morrija01,Jaylen Morris,Shooting Guard,Right,196,83,Molloy,,"February 28, 2018","September 19,1995",New York,5.6,-0.2
+sneedxa01,Xavier Sneed,Small Forward,Right,196,97,Kansas State,,"December 31, 2021","December 21,1997",Missouri,5.4,0.0
+coopesh01,Sharife Cooper,Point Guard,Right,183,79,Auburn,2021.0,"October 21, 2021","June 11,2001",New Jersey,12.7,0.4
+lewissc01,Scottie Lewis,Shooting Guard,Right,193,85,Florida,2021.0,"December 13, 2021","March 12,2000",New York,14.6,0.0
+ayayijo01,Joel Ayayi,Shooting Guard,Right,193,81,Gonzaga,,"October 25, 2021","March 5,2000",France,3.4,0.0
+henryaa01,Aaron Henry,Small Forward,Left,196,95,Michigan State,,"October 20, 2021","August 30,1999",Kentucky,-7.4,-0.1
+kingge03,George King,Small Forward,Right,198,99,Colorado,2018.0,"December 11, 2018","January 15,1994",North Carolina,-8.9,-0.1
+barbeca01,Cat Barber,Point Guard,Right,188,81,NC State,,"December 25, 2021","July 25,1994",Virginia,-11.2,-0.1
+dekkesa01,Sam Dekker,Power Forward,Right,206,104,Wisconsin,2015.0,"October 28, 2015","May 6,1994",Wisconsin,12.7,5.4
+delauja01,Javin DeLaurier,Center,Right,208,107,Duke,,"January 1, 2022","April 7,1998",Virginia,15.6,0.0
+echenja01,Jaime Echenique,Center,Right,211,117,,,"December 30, 2021","April 27,1997",Colombia,0.0,0.0
+goodwjo01,Jordan Goodwin,Point Guard and Shooting Guard,Right,190,97,Saint Louis,,"December 28, 2021","October 23,1998",Illinois,13.8,8.2
+hallty01,Tyler Hall,Shooting Guard,Right,196,95,Montana State,,"December 25, 2021","March 25,1997",Illinois,0.0,0.0
+huffja01,Jay Huff,Center,Right,216,108,Virginia,,"November 6, 2021","August 25,1998",North Carolina,16.3,6.4
+huntfe01,Feron Hunt,Small Forward,Right,203,88,SMU,,"April 8, 2022","July 5,1999",Texas,-3.0,0.0
+jarrede01,DeJon Jarreau,Shooting Guard,Right,196,83,,,"October 29, 2021","January 23,1998",Louisiana,9.7,-0.2
+johnsda08,David Johnson,Point Guard and Shooting Guard,Right,193,92,Louisville,2021.0,"October 27, 2021","February 26,2001",Kentucky,-20.0,0.0
+kulboar01,Arnoldas Kulboka,Small Forward,Right,208,99,,2018.0,"December 10, 2021","January 4,1998",Lithuania,-10.7,0.0
+mclauja01,JaQuori McLaughlin,Point Guard,Right,193,86,,,"November 2, 2021","January 29,1998",Washington,-2.9,0.0
+murkead01,Ade Murkey,Shooting Guard,Right,196,90,Denver,,"December 22, 2021","January 29,1998",Minnesota,0.0,0.0
+paigeja01,Jaysean Paige,Point Guard,Right,188,90,,,"January 1, 2022","July 30,1994",New York,-22.2,-0.1
+palmetr01,Trayvon Palmer,Shooting Guard,Right,198,90,,,"December 29, 2021","November 13,1994",Wisconsin,-5.7,0.0
+terryem01,Emanuel Terry,Power Forward,Right,206,99,Lincoln Memorial,,"January 27, 2019","August 21,1996",Alabama,11.0,0.0
+teskejo01,Jon Teske,Center,Right,216,120,Michigan,,"January 3, 2022","May 4,1997",Indiana,1.5,0.0
+walkemj01,M.J. Walker,Shooting Guard,Right,196,96,Florida State,,"December 31, 2021","March 28,1998",Georgia,-3.3,0.0
+banchpa01,Paolo Banchero,Power Forward,Right,208,113,Duke,2022.0,"October 19, 2022","November 12,2002",Washington,17.2,16.1
+mathube01,Bennedict Mathurin,Small Forward and Shooting Guard,Right,196,95,Arizona,2022.0,"October 19, 2022","June 19,2002",Quebec,13.6,8.3
+iveyja01,Jaden Ivey,Shooting Guard,Right,190,88,Purdue,2022.0,"October 19, 2022","February 13,2002",Indiana,12.7,2.9
+grayra01,RaiQuan Gray,Power Forward,Right,201,117,Florida State,2021.0,"April 9, 2023","July 7,1999",Florida,19.3,0.2
+willija06,Jalen Williams,Shooting Guard and Power Forward,Right,196,95,Santa Clara,2022.0,"October 19, 2022","April 14,2001",Colorado,18.4,23.8
+smithja05,Jabari Smith Jr.,Power Forward,Right,211,99,Auburn,2022.0,"October 19, 2022","May 13,2003",Georgia,12.8,18.3
+murrake02,Keegan Murray,Power Forward and Small Forward,Right,203,102,Iowa,2022.0,"October 22, 2022","August 19,2000",Iowa,12.5,14.1
+sochaje01,Jeremy Sochan,Power Forward,Right,203,104,Baylor,2022.0,"October 19, 2022","May 20,2003",Oklahoma,12.6,5.4
+willije02,Nate Williams,Shooting Guard,Left,196,92,Buffalo,,"April 2, 2023","February 12,1999",New York,12.4,0.8
+branhma01,Malaki Branham,Shooting Guard and Point Guard,Right,193,81,Ohio State,2022.0,"October 30, 2022","May 12,2003",Ohio,9.8,0.1
+sharpsh01,Shaedon Sharpe,Shooting Guard,Right,196,95,Kentucky,2022.0,"October 19, 2022","May 30,2003",Ontario,13.4,5.9
+champju02,Julian Champagnie,Small Forward,Right,201,98,St. John's,,"November 22, 2022","June 29,2001",New York,12.2,10.9
+nembhan01,Andrew Nembhard,Point Guard and Shooting Guard,Right,193,86,,2022.0,"October 21, 2022","January 16,2000",Ontario,12.1,8.9
+easonta01,Tari Eason,Power Forward,Right,203,97,,2022.0,"October 19, 2022","May 10,2001",Virginia,15.6,11.8
+kesslwa01,Walker Kessler,Center,Right,218,111,,2022.0,"October 19, 2022","July 26,2001",Georgia,19.9,17.1
+durenja01,Jalen Duren,Center,Right,208,113,Memphis,2022.0,"October 19, 2022","November 18,2003",Pennsylvania,21.1,29.5
+willima07,Mark Williams,Center,Right,216,108,Duke,2022.0,"October 19, 2022","December 16,2001",Virginia,22.1,16.0
+griffaj01,AJ Griffin,Small Forward,Right,198,99,Duke,2022.0,"October 23, 2022","August 25,2003",Texas,11.3,1.8
+hardyja02,Jaden Hardy,Shooting Guard,Right,190,89,,2022.0,"October 22, 2022","July 5,2002",Michigan,11.6,0.5
+agbajoc01,Ochai Agbaji,Shooting Guard,Right,196,97,Kansas,2022.0,"October 19, 2022","April 20,2000",Wisconsin,9.6,5.5
+comanch01,Chance Comanche,Center,Right,208,95,Arizona,,"April 9, 2023","April 14,1996",California,12.2,0.0
+roddyda01,David Roddy,Power Forward,Right,196,115,Colorado State,2022.0,"October 19, 2022","March 27,2001",Minnesota,9.5,2.0
+fontesi01,Simone Fontecchio,Small Forward,Right,201,94,,,"October 19, 2022","December 9,1995",Italy,11.2,6.2
+jacksqu01,Quenton Jackson,Point Guard,Right,193,78,Texas A&M,,"February 11, 2023","September 15,1998",California,14.3,2.7
+willija07,Jaylin Williams,Power Forward and Center,Right,206,108,Arkansas,2022.0,"October 23, 2022","June 29,2002",Arkansas,13.5,11.7
+davisjo06,Johnny Davis,Shooting Guard,Right,193,88,Wisconsin,2022.0,"October 25, 2022","February 27,2002",Wisconsin,7.3,-0.4
+jovicni01,Nikola JoviÄ,Power Forward,Right,208,92,,2022.0,"October 26, 2022","June 9,2003",United Kingdom,12.1,4.7
+cainja01,Jamal Cain,Small Forward and Power Forward,Right,201,86,,,"November 12, 2022","March 20,1999",Michigan,12.8,2.9
+mcgowbr01,Bryce McGowens,Shooting Guard,Right,198,86,Nebraska,2022.0,"October 19, 2022","November 8,2002",South Carolina,9.4,2.3
+beaucma01,MarJon Beauchamp,Small Forward,Right,201,90,Yakima Valley Community College,2022.0,"October 22, 2022","October 12,2000",Washington,9.7,1.4
+loftoke01,Kenneth Lofton Jr.,Power Forward,Left,198,124,Louisiana Tech,,"October 22, 2022","August 14,2002",Texas,17.3,0.8
+weslebl01,Blake Wesley,Shooting Guard,Right,193,86,Notre Dame,2022.0,"October 28, 2022","March 16,2003",Indiana,8.4,-0.2
+diengou01,Ousmane Dieng,Center and Power Forward,Right,206,83,,2022.0,"October 19, 2022","May 21,2003",France,10.2,2.0
+juzanjo01,Johnny Juzang,Shooting Guard,Right,201,102,,,"February 28, 2023","March 17,2001",California,10.8,1.9
+braunch01,Christian Braun,Shooting Guard,Right,198,99,Kansas,2022.0,"October 19, 2022","April 17,2001",Kansas,13.4,16.4
+washity02,TyTy Washington Jr.,Point Guard,Right,190,88,Kentucky,2022.0,"November 14, 2022","November 15,2001",Arizona,7.8,-0.2
+greenaj01,A.J. Green,Shooting Guard,Right,193,86,University of Northern Iowa,,"October 22, 2022","September 27,1999",Iowa,9.6,7.1
+minayju01,Justin Minaya,Small Forward,Left,196,92,,,"April 4, 2023","March 26,1999",New Jersey,5.4,-0.1
+harrike01,Kevon Harris,Shooting Guard,Right,196,97,Stephen F. Austin,,"October 21, 2022","June 24,1997",Georgia,9.2,0.6
+baldwpa01,Patrick Baldwin Jr.,Small Forward,Right,213,99,UW-Milwaukee,2022.0,"October 30, 2022","November 18,2002",Wisconsin,11.1,0.7
+barlodo01,Dominick Barlow,Power Forward and Small Forward,Right,206,97,,,"November 2, 2022","May 26,2003",New Jersey,13.5,6.8
+walkeja01,Jabari Walker,Power Forward,Right,201,107,Colorado,2022.0,"October 24, 2022","July 30,2002",Kansas,12.7,6.8
+cooksxa01,Xavier Cooks,Power Forward,Right,203,83,Winthrop University,,"March 18, 2023","August 19,1995",Australia,14.3,0.2
+daniedy01,Dyson Daniels,Point Guard and Shooting Guard,Right,201,90,,2022.0,"October 19, 2022","March 17,2003",Australia,14.0,15.8
+daysda01,Darius Days,Power Forward and Small Forward,Right,201,111,LSU,,"February 6, 2023","October 20,1999",Florida,18.3,0.1
+houstca01,Caleb Houstan,Small Forward,Right,203,92,Michigan,2022.0,"October 19, 2022","January 9,2003",Ontario,8.2,4.2
+lawsoaj01,A.J. Lawson,Shooting Guard,Right,198,81,South Carolina,,"November 16, 2022","July 15,2000",Ontario,12.5,1.8
+robinor01,Orlando Robinson,Center,Right,208,106,Fresno State,,"November 18, 2022","July 10,2000",Nevada,13.3,3.3
+watsope01,Peyton Watson,Small Forward and Shooting Guard,Right,203,90,UCLA,2022.0,"October 19, 2022","September 11,2002",California,12.5,7.8
+rhodeja01,Jared Rhoden,Shooting Guard,Right,196,95,Seton Hall,,"January 10, 2023","August 27,1999",New York,11.2,1.0
+chrisma02,Max Christie,Shooting Guard,Right,196,86,Michigan State,2022.0,"October 18, 2022","February 10,2003",Illinois,10.1,6.7
+halljo02,Jordan Hall,Small Forward,Right,201,99,Saint Joseph's,,"November 2, 2022","January 14,2002",New Jersey,5.5,-0.1
+kolokch01,Christian Koloko,Center,Right,211,102,Arizona,2022.0,"October 19, 2022","June 20,2000",Cameroon,11.1,2.9
+minotjo01,Josh Minott,Small Forward and Power Forward,Right,203,92,Memphis,2022.0,"November 28, 2022","November 25,2002",Florida,16.4,4.0
+bouyeja01,Jamaree Bouyea,Point Guard,Right,188,81,San Francisco,,"February 10, 2023","June 27,1999",California,11.3,0.9
+dorsety01,Tyler Dorsey,Shooting Guard and Small Forward,Right,193,81,Oregon,2017.0,"October 20, 2017","February 18,1996",California,10.7,1.1
+gilyaja01,Jacob Gilyard,Point Guard,Right,173,72,Richmond,,"April 9, 2023","July 14,1998",Missouri,10.9,1.5
+laravja01,Jake LaRavia,Power Forward,Right,201,106,,2022.0,"October 19, 2022","November 3,2001",California,11.7,8.2
+smithdr01,Dru Smith,Shooting Guard,Right,188,92,,,"October 26, 2022","December 30,1997",Indiana,13.9,4.3
+prestja01,Jason Preston,Point Guard,Right,190,82,Ohio University,2021.0,"October 23, 2022","August 10,1999",Florida,10.4,0.1
+diabamo01,Moussa DiabatÃ©,Center,Right,208,95,Michigan,2022.0,"October 27, 2022","January 21,2002",France,16.9,11.4
+mobleis01,Isaiah Mobley,Power Forward,Right,203,107,USC,2022.0,"October 22, 2022","September 24,1999",California,11.9,0.3
+quinole01,Lester QuiÃ±ones,Shooting Guard,Right,196,94,Memphis,,"March 31, 2023","November 16,2000",New York,10.0,0.4
+butlejo01,John Butler,Center,Right,213,86,Florida State,,"November 5, 2022","December 4,2002",South Carolina,5.7,0.0
+pippesc02,Scotty Pippen Jr.,Point Guard,Right,188,77,Vanderbilt,,"October 18, 2022","November 10,2000",Oregon,15.8,5.8
+chandke01,Kennedy Chandler,Point Guard,Right,183,77,Tennessee,2022.0,"October 22, 2022","September 16,2002",Tennessee,11.9,0.5
+harpero02,Ron Harper Jr.,Small Forward and Power Forward,Right,196,105,Rutgers University,,"October 31, 2022","April 12,2000",New Jersey,13.0,0.9
+terryda01,Dalen Terry,Shooting Guard,Right,198,88,Arizona,2022.0,"October 22, 2022","July 12,2002",Arizona,10.6,3.1
+umudest01,Stanley Umude,Shooting Guard,Right,198,95,,,"February 15, 2023","April 12,1999",Oregon,9.9,0.4
+willido02,Donovan Williams,Shooting Guard,Right,198,86,,,"April 4, 2023","September 6,2001",Texas,14.5,0.0
+willivi01,Vince Williams Jr.,Shooting Guard and Point Guard,Left,193,92,VCU,2022.0,"October 22, 2022","August 30,2000",Ohio,11.2,3.2
+rolliry01,Ryan Rollins,Point Guard,Right,190,81,Toledo,2022.0,"October 18, 2022","July 3,2002",Michigan,15.5,5.1
+hudgitr01,Trevor Hudgins,Point Guard,Left,183,81,Northwest Missouri State University,,"October 22, 2022","March 23,1999",Kansas,4.2,0.0
+boehebu01,Buddy Boeheim,Small Forward,Right,196,92,Syracuse,,"October 21, 2022","November 11,1999",New York,4.6,-0.1
+davisjd01,JD Davison,Point Guard and Shooting Guard,Right,185,88,Alabama,2022.0,"November 11, 2022","October 3,2002",Alabama,10.8,0.6
+brownke03,Kendall Brown,Shooting Guard,Right,198,92,Baylor,2022.0,"November 23, 2022","May 11,2003",Minnesota,8.2,0.1
+elliske01,Keon Ellis,Shooting Guard,Right,193,79,,,"November 17, 2022","January 8,2000",Florida,12.3,9.7
+moorewe01,Wendell Moore Jr.,Shooting Guard,Right,196,97,Duke,2022.0,"October 23, 2022","September 18,2001",Virginia,10.3,1.0
+martity01,Tyrese Martin,Shooting Guard,Right,198,97,,2022.0,"October 23, 2022","March 7,1999",Pennsylvania,10.6,1.0
+swideco01,Cole Swider,Small Forward,Right,208,99,,,"October 18, 2022","May 8,1999",Rhode Island,6.8,-0.1
+whiteja03,Jack White,Small Forward,Right,201,102,Duke,,"October 26, 2022","August 5,1997",Australia,6.9,0.0
+keelstr01,Trevor Keels,Shooting Guard,Right,190,97,Duke,2022.0,"October 21, 2022","August 26,2003",Maryland,3.1,-0.1
+monekch01,Chima Moneke,Small Forward,Right,196,101,,,"October 27, 2022","December 24,1995",Nigeria,-3.5,0.0
+simmoko01,Kobi Simmons,Point Guard and Shooting Guard,Right,196,81,Arizona,,"November 29, 2017","July 4,1997",Georgia,8.3,0.0
+seabrde01,Dereon Seabron,Shooting Guard,Right,196,81,NC State,,"October 28, 2022","May 26,2000",Virginia,8.4,0.1
+fostemi02,Michael Foster Jr.,Power Forward,Right,203,113,,,"November 22, 2022","January 16,2003",Wisconsin,0.0,0.0
+willial06,Alondes Williams,Shooting Guard,Right,193,95,,,"December 10, 2022","June 19,1999",Wisconsin,15.1,0.2
+wembavi01,Victor Wembanyama,Center and Power Forward,Right,224,106,,2023.0,"October 25, 2023","January 4,2004",France,25.7,17.5
+millebr02,Brandon Miller,Small Forward,Right,201,90,Alabama,2023.0,"October 25, 2023","November 22,2002",Tennessee,14.6,5.7
+holmgch01,Chet Holmgren,Center and Power Forward,Right,216,94,Gonzaga,2022.0,"October 25, 2023","May 1,2002",Minnesota,20.7,21.2
+jacksgg01,GG Jackson II,Power Forward,Right,206,95,South Carolina,2023.0,"October 30, 2023","December 17,2004",South Carolina,13.8,2.6
+hendesc01,Scoot Henderson,Point Guard,Right,190,93,,2023.0,"October 25, 2023","February 3,2004",Georgia,11.3,1.1
+georgke01,Keyonte George,Point Guard and Shooting Guard,Right,193,83,Baylor,2023.0,"October 25, 2023","November 8,2003",Texas,13.7,4.0
+whitmca01,Cam Whitmore,Small Forward,Right,198,104,Villanova,2023.0,"October 25, 2023","July 8,2004",Maryland,15.7,3.3
+jaqueja01,Jaime Jaquez Jr.,Small Forward,Right,198,102,UCLA,2023.0,"October 25, 2023","February 18,2001",California,14.3,10.5
+thompam01,Amen Thompson,Small Forward and Point Guard,Right,201,90,,2023.0,"October 25, 2023","January 30,2003",California,18.7,22.6
+podzibr01,Brandin Podziemski,Shooting Guard,Left,193,92,,2023.0,"October 30, 2023","February 25,2003",Wisconsin,14.2,13.4
+reathdu01,Duop Reath,Center,Right,206,111,,,"November 12, 2023","June 26,1996",South Sudan,14.2,4.0
+livelde01,Dereck Lively II,Center,Right,216,104,Duke,2023.0,"October 25, 2023","February 12,2004",Pennsylvania,18.7,8.7
+thompau01,Ausar Thompson,Small Forward,Right,201,92,,2023.0,"October 25, 2023","January 30,2003",California,15.4,11.3
+dickgr01,Gradey Dick,Shooting Guard,Right,201,90,Kansas,2023.0,"October 25, 2023","November 20,2003",Kansas,10.2,3.1
+vukcetr01,Tristan Vukcevic,Center,Right,213,99,,2023.0,"March 23, 2024","March 11,2003",Italy,17.3,1.6
+coulibi01,Bilal Coulibaly,Small Forward and Shooting Guard,Right,201,88,,2023.0,"October 25, 2023","July 26,2004",France,11.0,1.7
+sassema01,Marcus Sasser,Point Guard,Right,185,88,Houston,2023.0,"October 25, 2023","September 21,2000",Texas,12.4,3.6
+jackstr02,Trayce Jackson-Davis,Center and Power Forward,Left,206,111,Indiana,2023.0,"October 27, 2023","February 22,2000",Indiana,19.5,9.6
+hawkijo01,Jordan Hawkins,Shooting Guard,Right,196,86,UConn,2023.0,"October 25, 2023","April 29,2002",Maryland,9.4,0.3
+camarto01,Toumani Camara,Power Forward,Left,201,104,,2023.0,"October 25, 2023","May 8,2000",Belgium,11.6,11.9
+sensabr01,Brice Sensabaugh,Small Forward,Right,198,106,Ohio State,2023.0,"October 25, 2023","October 30,2003",Florida,13.1,2.0
+hendrta01,Taylor Hendricks,Power Forward,Right,206,97,Central Florida,2023.0,"October 25, 2023","November 22,2003",Florida,11.8,2.4
+micicva01,Vasilije MiciÄ,Point Guard,Right,190,85,,2014.0,"October 27, 2023","January 13,1994",Serbia,9.0,-0.6
+freemja01,Javon Freeman-Liberty,Point Guard,Right,190,86,,,"January 17, 2024","October 20,1999",Illinois,10.7,0.2
+pereima01,MÃ£ozinha Pereira,Small Forward,Right,203,80,,,"March 20, 2024","August 28,2000",Brazil,15.7,0.3
+jemistr01,Trey Jemison,Center,Right,208,122,,,"January 24, 2024","November 28,1999",Alabama,10.1,1.1
+wallaca01,Cason Wallace,Shooting Guard,Right,190,88,Kentucky,2023.0,"October 25, 2023","November 7,2003",Texas,12.1,14.4
+murrakr01,Kris Murray,Small Forward,Left,203,98,Iowa,2023.0,"October 25, 2023","August 19,2000",Iowa,9.3,3.6
+evbuoto01,Tosan Evbuomwan,Small Forward,Right,203,98,Princeton,,"February 2, 2024","February 16,2001",United Kingdom,10.9,1.1
+smithni01,Nick Smith Jr.,Shooting Guard,Right,188,83,Arkansas,2023.0,"October 25, 2023","April 18,2004",Arkansas,8.5,-1.0
+clownno01,Noah Clowney,Power Forward,Right,208,95,Alabama,2023.0,"November 25, 2023","July 14,2004",South Carolina,10.9,2.4
+portecr01,Craig Porter Jr.,Point Guard,Right,185,81,,,"October 28, 2023","February 26,2000",Indiana,14.1,5.3
+dennide01,Dexter Dennis,Shooting Guard,Right,196,95,,,"December 1, 2023","February 9,1999",Louisiana,18.3,0.0
+councri01,Ricky Council IV,Shooting Guard and Small Forward,Right,198,93,,,"January 2, 2024","August 3,2001",North Carolina,12.9,1.6
+vezenal01,Sasha Vezenkov,Power Forward,Left,203,102,,2017.0,"October 25, 2023","August 6,1995",Cyprus,13.3,1.0
+wilsoja03,Jalen Wilson,Power Forward,Right,198,99,Kansas,2023.0,"November 1, 2023","November 4,2000",Texas,9.6,3.2
+bufkiko01,Kobe Bufkin,Shooting Guard,Left,193,88,Michigan,2023.0,"October 29, 2023","September 21,2003",Michigan,8.7,-0.2
+blackan01,Anthony Black,Point Guard,Right,201,90,Arkansas,2023.0,"October 25, 2023","January 20,2004",Texas,11.7,6.7
+mooreta02,Taze Moore,Shooting Guard,Left,196,88,,,"January 21, 2024","June 29,1998",Tennessee,10.2,-0.1
+strawju01,Julian Strawther,Shooting Guard and Small Forward,Right,198,92,Gonzaga,2023.0,"October 27, 2023","April 18,2002",Nevada,10.2,2.7
+sheppbe01,Ben Sheppard,Shooting Guard,Right,198,86,Belmont,2023.0,"October 25, 2023","July 16,2001",Georgia,9.1,4.3
+brockiz01,Izaiah Brockington,Point Guard,Left,193,88,,,"March 5, 2024","July 12,1999",Maryland,26.6,0.0
+gueyemo02,Mouhamed Gueye,Power Forward,Right,211,95,Washington State,2023.0,"October 29, 2023","November 9,2002",Senegal,12.9,4.1
+hurtma01,Matthew Hurt,Power Forward,Right,206,105,Duke,,"January 29, 2024","April 20,2000",Minnesota,8.4,0.1
+ruperra01,Rayan Rupert,Shooting Guard,Right,201,92,,2023.0,"October 25, 2023","May 31,2004",France,7.5,0.5
+sanogad01,Adama Sanogo,Power Forward and Center,Right,206,111,UConn,,"December 28, 2023","February 12,2002",Mali,20.3,0.2
+bernaju01,Jules Bernard,Shooting Guard,Left,198,95,UCLA,,"December 8, 2023","January 21,2000",California,12.7,0.1
+cissosi01,Sidy Cissoko,Small Forward,Right,198,99,,2023.0,"November 20, 2023","April 2,2004",France,7.5,1.6
+peterdr01,Drew Peterson,Power Forward,Right,203,92,,,"December 23, 2023","November 9,1999",Illinois,8.8,0.4
+gilleco01,Collin Gillespie,Point Guard,Right,185,88,Villanova,,"October 24, 2023","June 25,1999",Pennsylvania,15.2,7.8
+santogu01,Gui Santos,Power Forward,Right,201,83,,2022.0,"November 16, 2023","June 22,2002",Brazil,13.5,5.2
+walkeja02,Jarace Walker,Power Forward,Right,201,106,Houston,2023.0,"October 25, 2023","September 4,2003",Pennsylvania,11.7,2.5
+bitimon01,Onuralp Bitim,Shooting Guard,Right,198,97,,,"November 4, 2023","March 31,1999",Turkey,5.0,-0.1
+smithte01,Terquavion Smith,Point Guard,Right,193,72,NC State,,"January 19, 2024","December 31,2002",North Carolina,14.8,0.1
+tshieos01,Oscar Tshiebwe,Center and Power Forward,Right,203,115,,,"December 9, 2023","November 27,1999",Democratic Republic of the Congo,20.7,2.5
+prospol01,Olivier-Maxence Prosper,Power Forward,Right,201,104,,2023.0,"November 3, 2023","July 3,2002",Quebec,14.6,3.8
+cartodj01,D.J. Carton,Shooting Guard,Left,188,90,,,"February 22, 2024","August 5,2000",North Carolina,3.7,-0.1
+drellhe01,Henri Drell,Small Forward,Right,203,83,,,"March 14, 2024","April 25,2000",Estonia,10.7,0.0
+batesem01,Emoni Bates,Small Forward,Right,206,91,,2023.0,"October 28, 2023","January 28,2004",Michigan,5.2,-0.2
+blackle01,Leaky Black,Small Forward,Right,198,94,UNC,,"November 8, 2023","June 14,1999",North Carolina,9.3,0.5
+willima11,Malik Williams,Center,Right,211,113,Louisville,,"April 3, 2024","August 26,1998",Indiana,4.9,-0.2
+allenti01,Timmy Allen,Small Forward,Right,198,95,,,"April 6, 2024","January 9,2000",Arizona,0.8,-0.1
+fudgeal01,Alex Fudge,Small Forward,Right,203,90,,,"November 4, 2023","May 6,2003",Florida,9.8,0.0
+gueyemo01,Mouhamadou Gueye,Power Forward and Small Forward,Right,206,95,,,"February 12, 2024","July 6,1998",New York,6.9,-0.3
+baileam01,Amari Bailey,Point Guard,Left,190,83,UCLA,2023.0,"November 12, 2023","February 17,2004",Louisiana,9.7,-0.1
+jacksan01,Andre Jackson Jr.,Shooting Guard,Right,198,94,UConn,2023.0,"October 29, 2023","November 13,2001",New York,8.2,1.8
+phillju01,Julian Phillips,Small Forward,Right,198,89,Tennessee,2023.0,"October 25, 2023","November 5,2003",Texas,9.4,2.5
+jonesco02,Colby Jones,Shooting Guard,Right,198,93,Xavier,2023.0,"October 25, 2023","May 28,2002",Alabama,10.7,0.6
+brownko01,Kobe Brown,Power Forward,Right,201,113,Missouri,2023.0,"October 25, 2023","January 1,2000",Alabama,10.7,2.3
+fordjo01,Jordan Ford,Point Guard,Right,185,79,Saint Mary's,,"October 25, 2023","May 26,1998",California,16.8,0.1
+hodgedm01,D'Moi Hodge,Shooting Guard,Right,190,85,,,"November 4, 2023","December 20,1998",British Virgin Islands,6.1,0.0
+nowelma01,Markquis Nowell,Shooting Guard,Right,170,72,,,"November 15, 2023","December 25,1999",New York,55.5,0.1
+wongis01,Isaiah Wong,Shooting Guard,Right,190,83,Miami (FL),2023.0,"December 9, 2023","January 28,2001",New Jersey,10.7,0.0
+millele01,Leonard Miller,Small Forward,Left,208,99,,2023.0,"October 28, 2023","November 26,2003",Ontario,16.8,2.0
+walshjo01,Jordan Walsh,Power Forward and Small Forward,Right,198,92,Arkansas,2023.0,"January 17, 2024","March 3,2004",Texas,11.4,4.3
+hoodsja01,Jalen Hood-Schifino,Shooting Guard,Right,196,95,Indiana,2023.0,"November 27, 2023","June 19,2003",Pennsylvania,5.5,-0.6
+howarje01,Jett Howard,Small Forward,Right,203,97,Michigan,2023.0,"October 25, 2023","September 14,2003",Illinois,9.1,1.4
+lundyse01,Seth Lundy,Small Forward,Right,193,99,Penn State,2023.0,"December 15, 2023","April 2,2000",New Jersey,0.0,-0.1
+millejo02,Jordan Miller,Small Forward,Left,196,87,,2023.0,"October 25, 2023","January 23,2000",California,14.6,4.0
+pickeja02,Jalen Pickett,Shooting Guard,Right,188,91,,2023.0,"October 24, 2023","October 22,1999",New York,10.5,2.2
+badjiib01,Ibou Badji,Center,Right,208,108,,,"December 26, 2023","October 13,2002",Senegal,8.1,0.2
+castlco01,Colin Castleton,Center and Power Forward,Right,208,113,,,"November 4, 2023","May 25,2000",Florida,11.3,0.8
+flaglad01,Adam Flagler,Shooting Guard,Right,185,81,,,"February 23, 2024","December 1,1999",Georgia,3.5,-0.3
+whiteda01,Dariq Whitehead,Small Forward,Right,198,99,Duke,2023.0,"November 25, 2023","August 1,2004",New Jersey,8.9,-0.1
+samueje01,Jermaine Samuels,Small Forward,Right,198,104,Villanova,,"October 25, 2023","November 13,1998",Massachusetts,15.1,0.2
+toppija01,Jacob Toppin,Small Forward,Right,206,90,,,"December 5, 2023","May 8,2000",New York,11.5,0.2
+mensana01,Nathan Mensah,Center,Left,206,104,San Diego State,,"December 15, 2023","April 9,1998",Ghana,5.0,0.1
+johnske08,Keyontae Johnson,Small Forward,Right,193,104,,2023.0,"October 29, 2023","May 24,2000",Virginia,1.6,-0.1
+livinch01,Chris Livingston,Small Forward,Right,198,99,Kentucky,2023.0,"November 1, 2023","October 15,2003",Ohio,9.0,0.2
+tysonhu01,Hunter Tyson,Power Forward,Right,203,97,Clemson,2023.0,"October 29, 2023","June 13,2000",North Carolina,8.0,0.4
+petrufi01,Filip PetruÅ¡ev,Center,Right,211,102,Gonzaga,2021.0,"October 29, 2023","April 15,2000",Serbia,5.1,0.0
+slawsja01,Jalen Slawson,Small Forward,Right,201,97,Furman University,2023.0,"November 15, 2023","October 22,1999",South Carolina,11.9,0.5
+spencpa01,Pat Spencer,Point Guard,Right,188,92,,,"February 25, 2024","July 4,1996",Maryland,12.1,1.8
+liddeej01,E.J. Liddell,Power Forward,Right,198,108,Ohio State,2022.0,"October 28, 2023","December 18,2000",Illinois,12.0,0.6
+nancepe01,Pete Nance,Power Forward and Center,Right,206,102,,,"January 20, 2024","February 19,2000",Ohio,10.6,1.2
+lewisma05,Maxwell Lewis,Small Forward,Right,201,97,Pepperdine,2023.0,"October 24, 2023","July 27,2002",Nevada,6.6,-0.2
+cazalma01,Malcolm Cazalon,Shooting Guard,Left,198,83,,,"November 5, 2023","August 27,2001",France,0.0,0.0
+crutcja01,Jalen Crutcher,Point Guard,Right,185,79,Dayton,,"February 27, 2024","July 18,1999",Tennessee,-12.6,0.0
+funkan01,Andrew Funk,Shooting Guard,Right,196,90,,,"March 14, 2024","September 21,1999",Pennsylvania,-5.0,-0.1
+gateska01,Kaiser Gates,Small Forward,Right,203,101,Xavier,,"October 30, 2023","November 8,1996",Georgia,-19.9,-0.1
+skapidm01,Dmytro Skapintsev,Center,Right,216,117,Cal State Northridge,,"December 23, 2023","May 12,1998",Ukraine,-19.3,0.0
