@@ -82,7 +82,7 @@ class Player_Season_Stats(Base):
     field_goal_percentage: Mapped[float]
     three_point_percentage: Mapped[float]
     free_throw_percentage: Mapped[float]
-    Player_salaries:Mapped[int]
+    salary:Mapped[int]
     player: Mapped["Player"] = relationship(back_populates="season_stats")
     season: Mapped["Season"] = relationship(back_populates="player_stats")
     team: Mapped["Team"] = relationship(back_populates="season_stats")
