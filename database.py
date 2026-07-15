@@ -63,25 +63,31 @@ class Season(Base):
 
 # --------------------------------------------------------------------------------------------------
 
-class Player_Season_Stats(Base):
+class PlayerSeasonStats(Base):
     __tablename__ = 'player_season_stats'
     id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
     player_id: Mapped[int] = mapped_column(db.ForeignKey('players.player_id'))
     season_id: Mapped[int] = mapped_column(db.ForeignKey('seasons.season_id'))
-    team_id: Mapped[int] = mapped_column(db.ForeignKey('teams.team_id'))            
-    experience: Mapped[int]        
+    team_id: Mapped[int] = mapped_column(db.ForeignKey('teams.team_id'))
+    experience: Mapped[int]
     is_active: Mapped[bool]
     games_played: Mapped[int]
     minutes_per_game: Mapped[float]
     points_per_game: Mapped[float]
-    rebounds_per_game: Mapped[float]
+    personal_fouls: Mapped[int]
+    offensive_rebounds : Mapped[int]
+    defensive_rebounds : Mapped[int]
     assists_per_game: Mapped[float]
     steals_per_game: Mapped[float]
     blocks_per_game: Mapped[float]
     turnovers_per_game: Mapped[float]
-    field_goal_percentage: Mapped[float]
-    three_point_percentage: Mapped[float]
-    free_throw_percentage: Mapped[float]
+    free_throws: Mapped[int]
+    free_throw_attempts: Mapped[int]
+    three_point_goals : Mapped[int]
+    three_point_goal_attempts : Mapped[int]
+    two_point_goals : Mapped[int]
+    two_point_goal_attempts : Mapped[int]
+    effective_field_game_percentage : Mapped[float]
     salary:Mapped[int]
     player: Mapped["Player"] = relationship(back_populates="season_stats")
     season: Mapped["Season"] = relationship(back_populates="player_stats")
@@ -98,7 +104,7 @@ class Player_Season_Stats(Base):
 # ADDED: entire new table - per-team, per-season record (wins, losses, coach, star player, roster averages)
 # --------------------------------------------------------------------------------------------------
 
-class Team_Season_Info(Base):  # ADDED: new table
+class TeamSeasonInfo(Base):  # ADDED: new table
     __tablename__ = 'team_season_info'
     id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)  # ADDED
     team_id: Mapped[int] = mapped_column(db.ForeignKey('teams.team_id'))  # ADDED
@@ -110,10 +116,10 @@ class Team_Season_Info(Base):  # ADDED: new table
     avg_height: Mapped[float]  # ADDED: roster average height for the season
     avg_weight: Mapped[float]  # ADDED: roster average weight for the season
     avg_age: Mapped[float]     # ADDED: roster average age for the season
-
+    attend : Mapped[int]
     team: Mapped["Team"] = relationship(back_populates="season_info")  # ADDED
     season: Mapped["Season"] = relationship(back_populates="team_info")  # ADDED
-    star_player: Mapped["Player"] = relationship()  # ADDED: one-way, no back_populates 
+    star_player: Mapped["Player"] = relationship()  # ADDED: one-way, no back_populates
 
     __table_args__ = (
         UniqueConstraint('team_id', 'season_id', name='uq_team_season'),  # ADDED
@@ -127,7 +133,7 @@ class Award(Base):
     award_id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
     player_id: Mapped[int] = mapped_column(db.ForeignKey('players.player_id'))
     season_id: Mapped[int] = mapped_column(db.ForeignKey('seasons.season_id'))
-    award_name: Mapped[str]   
+    award_name: Mapped[str]
 
     player: Mapped["Player"] = relationship(back_populates="awards")
     season: Mapped["Season"] = relationship(back_populates="awards")
@@ -150,8 +156,9 @@ class Game(Base):
     away_team: Mapped["Team"] = relationship(back_populates="games_as_away", foreign_keys=[away_team_id])
     team_game_stats: Mapped[list["Team_Game_Stats"]] = relationship(back_populates="game")
 
+# --------------------------------------------------------------------------------------------------
 
-class Team_Game_Stats(Base):
+class TeamGameStats(Base):
     __tablename__ = 'team_game_stats'
     id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
     team_id: Mapped[int] = mapped_column(db.ForeignKey('teams.team_id'))
