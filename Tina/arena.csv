@@ -1,0 +1,211 @@
+team_id,year,arena,attendance,attendance_rank
+ATL,2020,State Farm Arena,545453,20th of 30
+ATL,2021,State Farm Arena,59288,13th of 30
+ATL,2022,State Farm Arena,672742,17th of 30
+ATL,2023,State Farm Arena,719787,18th of 30
+ATL,2024,State Farm Arena,696418,25th of 30
+ATL,2025,State Farm Arena,657613,30th of 30
+ATL,2026,State Farm Arena,670581,27th of 30
+BOS,2020,TD Garden,610864,11th of 30
+BOS,2021,TD Garden,30067,18th of 30
+BOS,2022,TD Garden,785396,5th of 30
+BOS,2023,TD Garden,785396,8th of 30
+BOS,2024,TD Garden,785396,10th of 30
+BOS,2025,TD Garden,785396,8th of 30
+BOS,2026,TD Garden,785396,8th of 30
+NJN,2020,,,
+NJN,2021,,,
+NJN,2022,,,
+NJN,2023,,,
+NJN,2024,,,
+NJN,2025,,,
+NJN,2026,,,
+CHA,2020,,,
+CHA,2021,,,
+CHA,2022,,,
+CHA,2023,,,
+CHA,2024,,,
+CHA,2025,,,
+CHA,2026,,,
+CHI,2020,United Center,639352,4th of 30
+CHI,2021,United Center,13655,25th of 30
+CHI,2022,United Center,856148,1st of 30
+CHI,2023,United Center,841632,1st of 30
+CHI,2024,United Center,845620,1st of 30
+CHI,2025,United Center,825659,1st of 30
+CHI,2026,United Center,829997,1st of 30
+CLE,2020,Rocket Mortgage Fieldhouse,643008,2nd of 30
+CLE,2021,Rocket Mortgage Fieldhouse,91476,7th of 30
+CLE,2022,Rocket Mortgage Fieldhouse,758228,8th of 30
+CLE,2023,Rocket Mortgage Fieldhouse,777280,9th of 30
+CLE,2024,Rocket Mortgage Fieldhouse,793167,9th of 30
+CLE,2025,Rocket Arena,796712,7th of 30
+CLE,2026,Rocket Arena,796712,5th of 30
+DAL,2020,American Airlines Center,682096,1st of 30
+DAL,2021,American Airlines Center,94849,5th of 30
+DAL,2022,American Airlines Center,808037,3rd of 30
+DAL,2023,American Airlines Center,827282,3rd of 30
+DAL,2024,American Airlines Center,828897,2nd of 30
+DAL,2025,American Airlines Center,803174,6th of 30
+DAL,2026,American Airlines Center,790821,7th of 30
+DEN,2020,Pepsi Center,633153,6th of 30
+DEN,2021,Ball Arena,54563,14th of 30
+DEN,2022,Ball Arena,695262,15th of 30
+DEN,2023,Ball Arena,788635,7th of 30
+DEN,2024,Ball Arena,807062,6th of 30
+DEN,2025,Ball Arena,811211,4th of 30
+DEN,2026,Ball Arena,812868,2nd of 30
+DET,2020,Little Caesars Arena,509469,28th of 30
+DET,2021,Little Caesars Arena,14250,23rd of 30
+DET,2022,Little Caesars Arena,663556,18th of 30
+DET,2023,Little Caesars Arena,759715,12th of 30
+DET,2024,Little Caesars Arena,726378,20th of 30
+DET,2025,Little Caesars Arena,781929,9th of 30
+DET,2026,Little Caesars Arena,806422,4th of 30
+GSW,2020,Chase Center,614176,10th of 30
+GSW,2021,Chase Center,33457,16th of 30
+GSW,2022,Chase Center,740624,10th of 30
+GSW,2023,Chase Center,740624,13th of 30
+GSW,2024,Chase Center,740624,17th of 30
+GSW,2025,Chase Center,740624,16th of 30
+GSW,2026,Chase Center,740624,17th of 30
+HOU,2020,Toyota Center,578458,15th of 30
+HOU,2021,Toyota Center,117009,3rd of 30
+HOU,2022,Toyota Center,638977,22nd of 30
+HOU,2023,Toyota Center,668865,28th of 30
+HOU,2024,Toyota Center,720045,22nd of 30
+HOU,2025,Toyota Center,716853,20th of 30
+HOU,2026,Toyota Center,740378,18th of 30
+IND,2020,Bankers Life Fieldhouse,529002,23rd of 30
+IND,2021,Bankers Life Fieldhouse,0,27th of 30
+IND,2022,Gainbridge Fieldhouse,588743,28th of 30
+IND,2023,Gainbridge Fieldhouse,641562,29th of 30
+IND,2024,Gainbridge Fieldhouse,677554,29th of 30
+IND,2025,Gainbridge Fieldhouse,685434,26th of 30
+IND,2026,Gainbridge Fieldhouse,682287,25th of 30
+LAC,2020,STAPLES Center,610176,12th of 30
+LAC,2021,STAPLES Center,13901,24th of 30
+LAC,2022,Crypto.com Arena,694005,16th of 30
+LAC,2023,Crypto.com Arena,720543,17th of 30
+LAC,2024,Crypto.com Arena,776782,11th of 30
+LAC,2025,Intuit Dome,679593,28th of 30
+LAC,2026,Intuit Dome,722504,20th of 30
+LAL,2020,STAPLES Center,588907,14th of 30
+LAL,2021,STAPLES Center,23313,20th of 30
+LAL,2022,Crypto.com Arena,764631,6th of 30
+LAL,2023,Crypto.com Arena,763168,11th of 30
+LAL,2024,Crypto.com Arena,793945,8th of 30
+LAL,2025,Crypto.com Arena,767626,12th of 30
+LAL,2026,Crypto.com Arena,773047,10th of 30
+MEM,2020,FedEx Forum,523297,26th of 30
+MEM,2021,FedEx Forum,61449,11th of 30
+MEM,2022,FedEx Forum,646785,21st of 30
+MEM,2023,FedEx Forum,707836,22nd of 30
+MEM,2024,FedEx Forum,681875,28th of 30
+MEM,2025,FedEx Forum,683067,27th of 30
+MEM,2026,FedExForum,632000,30th of 30
+MIA,2020,AmericanAirlines Arena,629771,7th of 30
+MIA,2021,AmericanAirlines Arena,0,27th of 30
+MIA,2022,FTX Arena,804761,4th of 30
+MIA,2023,Kaseya Center,807190,5th of 30
+MIA,2024,Kaseya Center,809743,4th of 30
+MIA,2025,Kaseya Center,808337,5th of 30
+MIA,2026,Kaseya Center,808063,3rd of 30
+MIL,2020,Fiserv Forum,549036,19th of 30
+MIL,2021,Fiserv Forum,64780,10th of 30
+MIL,2022,Fiserv Forum,715581,11th of 30
+MIL,2023,Fiserv Forum,718786,19th of 30
+MIL,2024,Fiserv Forum,740850,16th of 30
+MIL,2025,Fiserv Forum,732014,17th of 30
+MIL,2026,Fiserv Forum,682644,24th of 30
+MIN,2020,Target Center,482112,29th of 30
+MIN,2021,Target Center,15774,22nd of 30
+MIN,2022,Target Center,657148,20th of 30
+MIN,2023,Target Center,687510,27th of 30
+MIN,2024,Target Center,738984,18th of 30
+MIN,2025,Target Center,772249,10th of 30
+MIN,2026,Target Center,732465,19th of 30
+NOH,2020,,,
+NOH,2021,,,
+NOH,2022,,,
+NOH,2023,,,
+NOH,2024,,,
+NOH,2025,,,
+NOH,2026,,,
+NYK,2020,Madison Square Garden (IV),620789,IV
+NYK,2021,Madison Square Garden (IV),42131,IV
+NYK,2022,Madison Square Garden (IV),763484,IV
+NYK,2023,Madison Square Garden (IV),795110,IV
+NYK,2024,Madison Square Garden (IV),808885,IV
+NYK,2025,Madison Square Garden (IV),811794,IV
+NYK,2026,Madison Square Garden (IV),792480,IV
+OKC,2020,Chesapeake Energy Arena,600699,13th of 30
+OKC,2021,Chesapeake Energy Arena,0,27th of 30
+OKC,2022,Paycom Center,595112,27th of 30
+OKC,2023,Paycom Center,636903,30th of 30
+OKC,2024,Paycom Center,715509,23rd of 30
+OKC,2025,Paycom Center,754832,14th of 30
+OKC,2026,Paycom Center,764842,14th of 30
+ORL,2020,Amway Center,529870,22nd of 30
+ORL,2021,Amway Center,126463,2nd of 30
+ORL,2022,Amway Center,622881,25th of 30
+ORL,2023,Amway Center,728405,14th of 30
+ORL,2024,Kia Center,773939,12th of 30
+ORL,2025,Kia Center,762121,13th of 30
+ORL,2026,Kia Center,768906,12th of 30
+PHI,2020,Wells Fargo Center,639491,3rd of 30
+PHI,2021,Wells Fargo Center,68583,8th of 30
+PHI,2022,Wells Fargo Center,846867,2nd of 30
+PHI,2023,Wells Fargo Center,839261,2nd of 30
+PHI,2024,Wells Fargo Center,821714,3rd of 30
+PHI,2025,Wells Fargo Center,813621,2nd of 30
+PHI,2026,Xfinity Mobile Arena,778871,9th of 30
+PHO,2020,Talking Stick Resort Arena,550633,17th of 30
+PHO,2021,Phoenix Suns Arena,104027,4th of 30
+PHO,2022,Phoenix Suns Arena,663171,19th of 30
+PHO,2023,Footprint Center,699911,24th of 30
+PHO,2024,Footprint Center,699911,24th of 30
+PHO,2025,Footprint Center,699911,23rd of 30
+PHO,2026,Mortgage Matchup Center,699911,23rd of 30
+POR,2020,Moda Center,628303,8th of 30
+POR,2021,Moda Center,5817,26th of 30
+POR,2022,Moda Center,705608,13th of 30
+POR,2023,Moda Center,767374,10th of 30
+POR,2024,Moda Center,751395,13th of 30
+POR,2025,Moda Center,719369,19th of 30
+POR,2026,Moda Center,718863,21st of 30
+SAC,2020,Golden 1 Center,520663,27th of 30
+SAC,2021,Golden 1 Center,0,27th of 30
+SAC,2022,Golden 1 Center,577583,29th of 30
+SAC,2023,Golden 1 Center,715491,20th of 30
+SAC,2024,Golden 1 Center,735015,19th of 30
+SAC,2025,Golden 1 Center,696409,24th of 30
+SAC,2026,Golden 1 Center,661735,28th of 30
+SAS,2020,AT&T Center,550515,18th of 30
+SAS,2021,AT&T Center,61053,12th of 30
+SAS,2022,AT&T Center,615588,26th of 30
+SAS,2023,AT&T Center,694434,25th of 30
+SAS,2024,Frost Bank Center,742522,15th of 30
+SAS,2025,Frost Bank Center,731474,18th of 30
+SAS,2026,Frost Bank Center,743129,16th of 30
+TOR,2020,Scotiabank Arena,633456,5th of 30
+TOR,2021,Amalie Arena,26024,19th of 30
+TOR,2022,Scotiabank Arena,547343,30th of 30
+TOR,2023,Scotiabank Arena,811261,4th of 30
+TOR,2024,Scotiabank Arena,800129,7th of 30
+TOR,2025,Scotiabank Arena,768573,11th of 30
+TOR,2026,Scotiabank Arena,772141,11th of 30
+UTA,2020,Vivint Smart Home Arena,567486,16th of 30
+UTA,2021,Vivint Smart Home Arena,151300,1st of 30
+UTA,2022,Vivint Smart Home Arena,750546,9th of 30
+UTA,2023,Vivint Arena,728240,15th of 30
+UTA,2024,Delta Center,746446,14th of 30
+UTA,2025,Delta Center,745175,15th of 30
+UTA,2026,Delta Center,745626,15th of 30
+WAS,2020,Capital One Arena,532702,21st of 30
+WAS,2021,Capital One Arena,19198,21st of 30
+WAS,2022,Capital One Arena,637215,23rd of 30
+WAS,2023,Capital One Arena,710481,21st of 30
+WAS,2024,Capital One Arena,692851,26th of 30
+WAS,2025,Capital One Arena,663691,29th of 30
+WAS,2026,Capital One Arena,660376,29th of 30
