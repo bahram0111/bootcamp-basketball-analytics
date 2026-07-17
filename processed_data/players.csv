@@ -1,0 +1,1173 @@
+﻿player_id,name,position,shoots,height_cm,weight_kg,draft_year,nba_debut,experience_years,is_active,birth_date,birth_place
+1001,Precious Achiuwa,Center and Power Forward,Right,203,110,2020,2020,6,True,1999-09-19,Nigeria
+1002,Jaylen Adams,Point Guard,Right,183,102,,2018,3,False,1996-05-04,Maryland
+1003,Steven Adams,Center,Right,211,120,2013,2013,12,True,1993-07-20,New Zealand
+1004,Bam Adebayo,Center and Power Forward,Right,206,115,2017,2017,9,True,1997-07-18,New Jersey
+1005,Ochai Agbaji,Shooting Guard,Right,196,97,2022,2022,4,True,2000-04-20,Wisconsin
+1006,Santi Aldama,Power Forward,Right,213,97,2021,2021,5,True,2001-01-10,Spain
+1007,LaMarcus Aldridge,Power Forward and Center,Right,211,113,2006,2006,16,False,1985-07-19,Texas
+1008,Kyle Alexander,Center,Right,211,99,,2020,1,False,1996-10-21,Ontario
+1009,Nickeil Alexander-Walker,Shooting Guard,Right,196,92,2019,2019,7,True,1998-09-02,Ontario
+1010,Trey Alexander,Shooting Guard,Right,196,83,,2024,2,True,2003-05-02,Oklahoma
+1011,Ty-Shon Alexander,Shooting Guard,Right,190,88,,2020,1,False,1998-07-16,North Carolina
+1012,Grayson Allen,Shooting Guard,Right,190,89,2018,2018,8,True,1995-10-08,Florida
+1013,Jarrett Allen,Center,Right,206,110,2017,2017,9,True,1998-04-21,California
+1014,Kadeem Allen,Point Guard,Right,185,90,2017,2017,3,False,1993-01-15,North Carolina
+1015,Timmy Allen,Small Forward,Right,198,95,,2024,1,False,2000-01-09,Arizona
+1016,Jose Alvarado,Point Guard,Right,183,81,,2021,5,True,1998-04-12,New York
+1017,Al-Farouq Aminu,Power Forward and Small Forward,Right,206,99,2010,2010,11,False,1990-09-21,Georgia
+1018,Justin Anderson,Small Forward and Shooting Guard,Left,198,104,2015,2015,6,False,1993-11-19,Virginia
+1019,Kyle Anderson,Small Forward and Power Forward,Right,203,104,2014,2014,12,True,1993-09-20,New York
+1020,Ryan Anderson,Power Forward and Center,Right,206,108,2008,2008,12,False,1988-05-06,California
+1021,Alex Antetokounmpo,Small Forward,Right,203,97,,2026,1,True,2001-08-27,Greece
+1022,Giannis Antetokounmpo,"Power Forward, Small Forward, Point Guard, and Shooting Guard",Right,211,110,2013,2013,13,True,1994-12-06,Greece
+1023,Kostas Antetokounmpo,Power Forward and Small Forward,Right,208,90,2018,2019,3,True,1997-11-20,Greece
+1024,Thanasis Antetokounmpo,Small Forward and Power Forward,Right,201,99,2014,2016,7,True,1992-07-18,Greece
+1025,Carmelo Anthony,Small Forward and Power Forward,Right,201,107,2003,2003,19,False,1984-05-29,New York
+1026,Cole Anthony,Point Guard,Right,188,83,2020,2020,6,True,2000-05-15,Oregon
+1027,OG Anunoby,Small Forward and Power Forward,Right,201,108,2017,2017,9,True,1997-07-17,United Kingdom
+1028,Ryan Arcidiacono,Point Guard,Right,190,88,,2017,7,False,1994-03-26,Pennsylvania
+1029,Trevor Ariza,Small Forward and Shooting Guard,Right,203,97,2004,2004,18,False,1985-06-30,Florida
+1030,Armel TraorA,Small Forward,Right,206,111,,2024,1,False,2003-01-23,France
+1031,D.J. Augustin,Point Guard,Right,180,83,2008,2008,14,False,1987-11-10,Louisiana
+1032,Deni Avdija,Small Forward,Right,203,103,2020,2020,6,True,2001-01-03,Israel
+1033,Joel Ayayi,Shooting Guard,Right,193,81,,2021,1,False,2000-03-05,France
+1034,Deandre Ayton,Center,Right,213,114,2018,2018,8,True,1998-07-23,Bahamas
+1035,Udoka Azubuike,Center,Right,211,122,2020,2020,4,True,1999-09-17,Nigeria
+1036,Dwayne Bacon,Shooting Guard,Right,198,100,2017,2017,4,False,1995-08-30,Florida
+1037,Ibou Badji,Center,Right,208,108,,2023,1,True,2002-10-13,Senegal
+1038,Marvin Bagley III,Power Forward and Center,Left,208,106,2018,2018,8,True,1999-03-14,Arizona
+1039,Marcus Bagley,Small Forward,Right,203,97,,2025,1,True,2001-10-23,Arizona
+1040,Ace Bailey,Small Forward,Right,206,90,2025,2025,1,True,2006-08-13,Tennessee
+1041,Amari Bailey,Point Guard,Left,190,83,2023,2023,1,False,2004-02-17,Louisiana
+1042,Adama-Alpha Bal,Shooting Guard,Right,201,86,,2026,1,True,2003-12-18,France
+1043,Patrick Baldwin Jr.,Small Forward,Right,213,99,2022,2022,4,True,2002-11-18,Wisconsin
+1044,LaMelo Ball,Point Guard,Right,201,81,2020,2020,6,True,2001-08-22,California
+1045,Lonzo Ball,Point Guard,Right,196,86,2017,2017,7,True,1997-10-27,California
+1046,Mo Bamba,Center,Right,213,104,2018,2018,8,True,1998-05-12,New York
+1047,Paolo Banchero,Power Forward,Right,208,113,2022,2022,4,True,2002-11-12,Washington
+1048,Desmond Bane,Shooting Guard,Right,198,97,2020,2020,6,True,1998-06-25,Indiana
+1049,Dalano Banton,Point Guard,Right,203,92,2021,2021,5,True,1999-11-07,Ontario
+1050,Cat Barber,Point Guard,Right,188,81,,2021,1,False,1994-07-25,Virginia
+1051,J.J. Barea,Point Guard and Shooting Guard,Right,178,81,,2006,14,False,1984-06-26,Puerto Rico
+1052,Dominick Barlow,Power Forward and Small Forward,Right,206,97,,2022,4,True,2003-05-26,New Jersey
+1053,Harrison Barnes,Power Forward and Small Forward,Right,201,102,2012,2012,14,True,1992-05-30,Iowa
+1054,Scottie Barnes,"Power Forward, Shooting Guard, and Small Forward",Right,203,107,2021,2021,5,True,2001-08-01,Florida
+1055,Brooks Barnhizer,Shooting Guard,Right,196,104,2025,2025,1,True,2002-03-02,Indiana
+1056,RJ Barrett,Shooting Guard and Small Forward,Left,198,97,2019,2019,7,True,2000-06-14,Ontario
+1057,Will Barton,Shooting Guard and Small Forward,Right,196,82,2012,2012,11,False,1991-01-06,Maryland
+1058,Charles Bassey,Center,Right,208,104,2021,2021,5,True,2000-10-28,Nigeria
+1059,Paris Bass,Small Forward,Right,203,90,,2022,1,False,1995-08-29,Michigan
+1060,Emoni Bates,Small Forward,Right,206,91,2023,2023,2,True,2004-01-28,Michigan
+1061,Keita Bates-Diop,Small Forward and Power Forward,Right,203,103,2018,2018,6,True,1996-01-23,Illinois
+1062,Jamison Battle,Small Forward,Left,201,99,,2024,2,True,2001-05-10,Minnesota
+1063,Nicolas Batum,"Small Forward, Power Forward, and Shooting Guard",Right,201,104,2008,2008,18,True,1988-12-14,France
+1064,Damion Baugh,Shooting Guard,Right,193,87,,2025,1,True,2000-08-03,Tennessee
+1065,Aron Baynes,Center,Right,208,117,,2013,9,False,1986-12-09,New Zealand
+1066,Kent Bazemore,Shooting Guard and Small Forward,Left,193,88,,2012,10,False,1989-07-01,North Carolina
+1067,Darius Bazley,Power Forward and Center,Left,206,97,2019,2019,5,False,2000-06-12,Massachusetts
+1068,Bradley Beal,Shooting Guard,Right,193,93,2012,2012,14,True,1993-06-28,Missouri
+1069,Malik Beasley,Shooting Guard,Right,193,84,2016,2016,9,False,1996-11-26,Georgia
+1070,MarJon Beauchamp,Small Forward,Right,201,90,2022,2022,4,True,2000-10-12,Washington
+1071,Reece Beekman,Point Guard,Right,190,86,,2024,1,True,2001-10-08,Wisconsin
+1072,Marco Belinelli,Shooting Guard and Small Forward,Right,196,99,2007,2007,13,False,1986-03-25,Italy
+1073,Jordan Bell,Center,Right,203,97,2017,2017,5,False,1995-01-07,California
+1074,DeAndre' Bembry,Small Forward and Shooting Guard,Right,196,95,2016,2016,6,False,1994-07-04,North Carolina
+1075,Dragan Bender,Power Forward and Center,Right,213,112,2016,2016,4,False,1997-11-17,Bosnia and Herzegovina
+1076,Joan Beringer,Power Forward and Center,Right,211,104,2025,2025,1,True,2006-11-11,France
+1077,Jules Bernard,Shooting Guard,Left,198,95,,2023,1,True,2000-01-21,California
+1078,DAvis BertAns,Power Forward,Right,208,102,2011,2016,8,False,1992-11-12,Latvia
+1079,Patrick Beverley,Point Guard and Shooting Guard,Right,188,81,2009,2013,12,False,1988-07-12,Illinois
+1080,Saddiq Bey,Small Forward,Right,203,97,2020,2020,5,True,1999-04-09,North Carolina
+1081,Tyler Bey,Small Forward,Right,201,97,2020,2021,1,True,1998-02-10,Nevada
+1082,Khem Birch,Center,Right,203,105,,2017,6,False,1992-09-28,Quebec
+1083,Goga Bitadze,Center,Right,211,113,2019,2019,7,True,1999-07-20,Georgia
+1084,Onuralp Bitim,Shooting Guard,Right,198,97,,2023,1,False,1999-03-31,Turkey
+1085,Bismack Biyombo,Center,Right,203,115,2011,2011,15,True,1992-08-28,Democratic Republic of the Congo
+1086,Nemanja Bjelica,Power Forward and Center,Right,208,106,2010,2015,7,False,1988-05-09,Serbia
+1087,Anthony Black,Point Guard,Right,201,90,2023,2023,3,True,2004-01-20,Texas
+1088,Leaky Black,Small Forward,Right,198,94,,2023,2,True,1999-06-14,North Carolina
+1089,Eric Bledsoe,Point Guard and Shooting Guard,Right,185,97,2010,2010,12,False,1989-12-09,Alabama
+1090,Keljin Blevins,Small Forward,Right,193,90,,2020,2,False,1995-11-24,Arkansas
+1091,Buddy Boeheim,Small Forward,Right,196,92,,2022,3,True,1999-11-11,New York
+1092,Bogdan BogdanoviA,Shooting Guard,Right,196,102,2014,2017,9,True,1992-08-18,Serbia
+1093,Bojan BogdanoviA,Small Forward and Power Forward,Right,201,102,2011,2014,10,False,1989-04-18,Bosnia and Herzegovina
+1094,Bol Bol,Power Forward,Right,221,99,2019,2020,6,True,1999-11-16,Sudan
+1095,Jonah Bolden,Center and Power Forward,Right,203,102,2017,2018,2,False,1996-01-02,Australia
+1096,Marques Bolden,Center,Right,208,112,,2020,3,True,1998-04-17,Texas
+1097,Leandro Bolmaro,Small Forward and Shooting Guard,Right,198,90,2020,2021,2,False,2000-09-11,Argentina
+1098,Adem Bona,Center and Power Forward,Right,208,106,2024,2024,2,True,2003-03-28,Nigeria
+1099,Jordan Bone,Point Guard,Right,188,81,2019,2019,2,True,1997-11-05,Tennessee
+1100,Isaac Bonga,Small Forward and Point Guard,Right,203,81,2018,2018,4,False,1999-11-08,Germany
+1101,Devin Booker,Shooting Guard and Point Guard,Right,196,93,2015,2015,11,True,1996-10-30,Michigan
+1102,Brandon Boston Jr.,Shooting Guard and Small Forward,Right,198,85,2021,2021,4,False,2001-11-28,Georgia
+1103,Chris Boucher,"Power Forward, Center, and Small Forward",Right,203,90,,2018,9,True,1993-01-11,Saint Lucia
+1104,James Bouknight,Shooting Guard,Right,193,86,2021,2021,3,True,2000-09-18,New York
+1105,Jamaree Bouyea,Point Guard,Right,188,81,,2023,4,True,1999-06-27,California
+1106,Brian Bowen,Small Forward,Right,201,90,,2019,2,False,1998-10-02,Michigan
+1107,Ky Bowman,Point Guard,Right,185,84,,2019,1,False,1997-06-16,North Carolina
+1108,Avery Bradley,Shooting Guard and Point Guard,Right,190,81,2010,2010,12,False,1990-11-26,Washington
+1109,Tony Bradley,Center,Right,208,112,2017,2017,8,True,1998-01-08,Florida
+1110,Malaki Branham,Shooting Guard and Point Guard,Right,193,81,2022,2022,4,True,2003-05-12,Ohio
+1111,Jarrell Brantley,Power Forward,Right,196,113,2019,2019,3,True,1996-06-07,South Carolina
+1112,Christian Braun,Shooting Guard,Right,198,99,2022,2022,4,True,2001-04-17,Kansas
+1113,Ignas Brazdeikis,Small Forward,Left,198,100,2019,2019,3,True,1999-01-08,Lithuania
+1114,Koby Brea,Shooting Guard,Right,196,97,2025,2025,1,True,2002-11-06,New York
+1115,Corey Brewer,"Small Forward, Shooting Guard, and Power Forward",Right,206,84,2007,2007,13,False,1986-03-05,Tennessee
+1116,Jalen Bridges,Small Forward,Right,201,102,,2024,1,True,2001-05-14,West Virginia
+1117,Mikal Bridges,Small Forward and Shooting Guard,Right,198,94,2018,2018,8,True,1996-08-30,Pennsylvania
+1118,Miles Bridges,Small Forward and Power Forward,Left,201,102,2018,2018,7,True,1998-03-21,Michigan
+1119,Amida Brimah,Center,Right,208,104,,2021,1,False,1994-02-11,Ghana
+1120,Oshae Brissett,Small Forward and Power Forward,Right,201,95,,2019,6,False,1998-06-20,Ontario
+1121,Izaiah Brockington,Point Guard,Left,193,88,,2024,1,False,1999-07-12,Maryland
+1122,Ryan Broekhoff,Small Forward and Shooting Guard,Right,198,97,,2018,2,False,1990-08-23,Australia
+1123,Malcolm Brogdon,Point Guard and Shooting Guard,Right,193,103,2016,2016,9,False,1992-12-11,Georgia
+1124,Armoni Brooks,Point Guard and Shooting Guard,Right,190,88,,2021,3,False,1998-06-05,Texas
+1125,Dillon Brooks,Small Forward and Shooting Guard,Right,201,102,2017,2017,9,True,1996-01-22,Ontario
+1126,Keion Brooks Jr.,Small Forward,Right,201,95,,2025,1,True,2000-08-07,Indiana
+1127,Johni Broome,Center and Power Forward,Left,208,106,2025,2025,1,True,2002-07-19,Florida
+1128,Bruce Brown,"Point Guard, Small Forward, and Shooting Guard",Right,193,91,2018,2018,8,True,1996-08-15,Massachusetts
+1129,Charlie Brown Jr.,Shooting Guard,Right,198,90,,2019,4,True,1997-02-02,Pennsylvania
+1130,Chaundee Brown Jr.,Shooting Guard and Small Forward,Right,196,97,,2021,1,False,1998-12-04,Florida
+1131,Darius Brown II,Shooting Guard,Right,188,87,,2026,1,True,1999-07-28,California
+1132,Greg Brown III,Power Forward and Small Forward,Right,201,93,2021,2021,3,False,2001-09-01,Texas
+1133,Jaylen Brown,Small Forward and Shooting Guard,Right,198,101,2016,2016,10,True,1996-10-24,Georgia
+1134,Kendall Brown,Shooting Guard,Right,198,92,2022,2022,2,True,2003-05-11,Minnesota
+1135,Kobe Brown,Power Forward,Right,201,113,2023,2023,3,True,2000-01-01,Alabama
+1136,Moses Brown,Center,Right,218,117,,2019,6,True,1999-10-13,New York
+1137,Sterling Brown,Shooting Guard and Small Forward,Right,196,99,2017,2017,6,False,1995-02-10,Illinois
+1138,Troy Brown Jr.,Small Forward,Right,201,97,2018,2018,6,True,1999-07-28,Nevada
+1139,Jalen Brunson,Point Guard and Shooting Guard,Left,188,86,2018,2018,8,True,1996-08-31,New Jersey
+1140,Carter Bryant,Power Forward,Right,198,99,2025,2025,1,True,2005-11-26,California
+1141,Elijah Bryant,Shooting Guard,Right,196,95,,2021,1,False,1995-04-19,Georgia
+1142,Thomas Bryant,Center,Right,206,112,2017,2017,9,True,1997-07-31,New York
+1143,Shaq Buchanan,Shooting Guard,Right,190,86,,2021,1,False,1997-01-30,Mississippi
+1144,Kobe Bufkin,Shooting Guard,Left,193,88,2023,2023,3,True,2003-09-21,Michigan
+1145,Reggie Bullock,Small Forward and Shooting Guard,Right,198,92,2013,2013,11,False,1991-03-16,Maryland
+1146,Trey Burke,Point Guard,Right,183,83,2013,2013,9,False,1992-11-12,Ohio
+1147,Alec Burks,Shooting Guard and Small Forward,Right,196,97,2011,2011,14,False,1991-07-20,Missouri
+1148,Deonte Burton,"Power Forward, Small Forward, and Shooting Guard",Left,193,108,,2018,3,False,1994-01-31,Wisconsin
+1149,Tyler Burton,Small Forward,Right,201,97,,2026,1,True,2000-02-11,Massachusetts
+1150,Jared Butler,Point Guard and Shooting Guard,Right,190,87,2021,2021,4,True,2000-08-25,Louisiana
+1151,Jimmy Butler,"Small Forward, Shooting Guard, and Power Forward",Right,198,104,2011,2012,15,True,1989-09-14,Texas
+1152,John Butler,Center,Right,213,86,,2022,1,True,2002-12-04,South Carolina
+1153,Matas Buzelis,Small Forward and Power Forward,Right,203,94,2024,2024,2,True,2004-10-13,Illinois
+1154,Bruno Caboclo,"Small Forward, Center, and Power Forward",Right,206,98,2014,2014,7,False,1995-09-21,Brazil
+1155,Devontae Cacok,Power Forward and Center,Right,201,108,,2020,3,False,1996-10-08,Illinois
+1156,Jamal Cain,Small Forward and Power Forward,Right,201,86,,2022,4,True,1999-03-20,Michigan
+1157,Kentavious Caldwell-Pope,Shooting Guard,Right,196,92,2013,2013,13,True,1993-02-18,Georgia
+1158,Toumani Camara,Power Forward,Left,201,104,2023,2023,3,True,2000-05-08,Belgium
+1159,Facundo Campazzo,Point Guard,Right,178,88,,2020,3,False,1991-03-23,Argentina
+1160,Vlatko AanAar,Power Forward,Right,203,107,2017,2019,5,False,1997-04-10,Slovenia
+1161,Devin Cannady,Point Guard,Right,188,83,,2021,2,False,1996-05-21,Indiana
+1162,Clint Capela,Center,Right,208,116,2014,2014,12,True,1994-05-18,Switzerland
+1163,Dylan Cardwell,Center,Right,208,115,,2025,1,True,2001-12-16,Georgia
+1164,Vernon Carey Jr.,Center,Left,208,122,2020,2020,3,True,2001-02-25,Florida
+1165,Branden Carlson,Center,Right,213,99,,2024,2,True,1999-06-14,Utah
+1166,Bub Carrington,Point Guard,Right,193,86,2024,2024,2,True,2005-07-21,Maryland
+1167,DeMarre Carroll,"Small Forward, Power Forward, and Center",Right,198,97,2009,2009,11,False,1986-07-27,Alabama
+1168,Devin Carter,Point Guard,Right,188,88,2024,2025,2,True,2002-03-18,Florida
+1169,Jevon Carter,Point Guard,Right,183,90,2018,2018,8,True,1995-09-14,Illinois
+1170,Michael Carter-Williams,Point Guard and Shooting Guard,Right,198,92,2013,2013,9,False,1991-10-10,Massachusetts
+1171,Vince Carter,"Shooting Guard, Small Forward, and Power Forward",Right,198,99,1998,1999,22,False,1977-01-26,Florida
+1172,Wendell Carter Jr.,Center and Power Forward,Right,208,122,2018,2018,8,True,1999-04-16,Georgia
+1173,D.J. Carton,Shooting Guard,Left,188,90,,2024,2,True,2000-08-05,North Carolina
+1174,Alex Caruso,Point Guard and Shooting Guard,Right,196,84,,2017,9,True,1994-02-28,Texas
+1175,Colin Castleton,Center and Power Forward,Right,208,113,,2023,3,True,2000-05-25,Florida
+1176,Stephon Castle,Point Guard and Shooting Guard,Right,198,97,2024,2024,2,True,2004-11-01,Georgia
+1177,Willie Cauley-Stein,Center,Right,213,108,2015,2015,7,False,1993-08-18,Kansas
+1178,Ahmad Caver,Shooting Guard,Right,188,78,,2022,1,True,1996-09-12,Georgia
+1179,Malcolm Cazalon,Shooting Guard,Left,198,83,,2023,1,False,2001-08-27,France
+1180,Justin Champagnie,Small Forward,Right,198,93,,2021,5,True,2001-06-29,New York
+1181,Julian Champagnie,Small Forward,Right,201,98,,2022,4,True,2001-06-29,New York
+1182,Kennedy Chandler,Point Guard,Right,183,77,2022,2022,2,True,2002-09-16,Tennessee
+1183,Tyson Chandler,Center and Power Forward,Right,213,106,2001,2001,19,False,1982-10-02,California
+1184,Wilson Chandler,"Small Forward, Power Forward, and Shooting Guard",Right,203,106,2007,2007,12,False,1987-05-10,Michigan
+1185,Joe Chealey,Point Guard,Right,193,86,,2019,2,False,1995-11-01,Florida
+1186,Zylan Cheatham,Small Forward and Power Forward,Right,196,99,,2019,2,False,1995-11-17,Arizona
+1187,Chris Chiozza,Point Guard,Right,180,81,,2019,4,False,1995-11-21,Tennessee
+1188,Ulrich Chomche,Power Forward,Right,211,106,2024,2024,1,True,2005-12-30,Cameroon
+1189,Cam Christie,Shooting Guard,Right,196,86,2024,2024,2,True,2005-07-24,Illinois
+1190,Josh Christopher,Shooting Guard,Right,193,97,2021,2021,3,True,2001-12-08,California
+1191,Marquese Chriss,Power Forward,Right,206,108,2016,2016,6,False,1997-07-02,California
+1192,Max Christie,Shooting Guard,Right,196,86,2022,2022,4,True,2003-02-10,Illinois
+1193,Moussa Cisse,Center,Right,211,99,,2025,1,True,2002-09-10,Guinea
+1194,Sidy Cissoko,Small Forward,Right,198,99,2023,2023,3,True,2004-04-02,France
+1195,Brandon Clarke,Power Forward,Right,203,97,2019,2019,7,True,1996-09-19,British Columbia
+1196,Gary Clark,Power Forward and Small Forward,Right,198,102,,2018,4,False,1994-11-16,North Carolina
+1197,Jaylen Clark,Shooting Guard,Right,196,92,2023,2025,2,True,2001-10-13,California
+1198,Jordan Clarkson,Shooting Guard and Point Guard,Right,196,87,2014,2014,12,True,1992-06-07,Florida
+1199,Nic Claxton,Center,Left,211,97,2019,2019,7,True,1999-04-17,South Carolina
+1200,Walter Clayton,Point Guard,Right,193,88,2025,2025,1,True,2003-03-06,Florida
+1201,Chris Clemons,Shooting Guard,Right,175,81,,2019,1,False,1997-07-23,North Carolina
+1202,Antonius Cleveland,Shooting Guard,Right,196,88,,2017,2,False,1994-02-02,Tennessee
+1203,Nique Clifford,Shooting Guard,Right,196,79,2025,2025,1,True,2002-02-09,Colorado
+1204,Donovan Clingan,Center,Right,218,127,2024,2024,2,True,2004-02-23,Connecticut
+1205,Noah Clowney,Power Forward,Right,208,95,2023,2023,3,True,2004-07-14,South Carolina
+1206,Amir Coffey,Shooting Guard and Small Forward,Left,201,95,,2019,7,True,1997-06-17,Minnesota
+1207,Darren Collison,Point Guard,Right,183,79,2009,2009,11,False,1987-08-23,California
+1208,Isaiah Collier,Point Guard,Right,193,95,2024,2024,2,True,2004-10-08,Georgia
+1209,John Collins,Power Forward,Right,206,102,2017,2017,9,True,1997-09-23,Utah
+1210,Yuri Collins,Point Guard,Right,183,86,,2025,1,True,2001-03-07,Missouri
+1211,Zach Collins,Center and Power Forward,Right,206,113,2017,2017,8,True,1997-11-19,Nevada
+1212,Chance Comanche,Center,Right,208,95,,2023,1,False,1996-04-14,California
+1213,Mike Conley,Point Guard,Left,185,79,2007,2007,19,True,1987-10-11,Arkansas
+1214,Pat Connaughton,Shooting Guard and Small Forward,Right,196,94,2015,2015,11,True,1993-01-06,Massachusetts
+1215,Javonte Cooke,Shooting Guard,Right,198,83,,2025,1,True,1999-07-11,South Carolina
+1216,Quinn Cook,Point Guard,Right,185,81,,2017,5,False,1993-03-23,District of Columbia
+1217,Xavier Cooks,Power Forward,Right,203,83,,2023,1,False,1995-08-19,Australia
+1218,Tyler Cook,Power Forward and Small Forward,Right,203,115,,2019,3,False,1997-09-23,Missouri
+1219,Sharife Cooper,Point Guard,Right,183,79,2021,2021,2,True,2001-06-11,New Jersey
+1220,Petr Cornelie,Power Forward,Right,211,99,2016,2021,1,False,1995-07-26,France
+1221,Bilal Coulibaly,Small Forward and Shooting Guard,Right,201,88,2023,2023,3,True,2004-07-26,France
+1222,Ricky Council IV,Shooting Guard and Small Forward,Right,198,93,,2024,2,True,2001-08-03,North Carolina
+1223,DeMarcus Cousins,Center,Right,208,122,2010,2010,11,False,1990-08-13,Alabama
+1224,Robert Covington,"Small Forward, Power Forward, and Center",Right,201,94,,2014,11,False,1990-12-14,Illinois
+1225,Cedric Coward,Shooting Guard,Right,196,93,2025,2025,1,True,2003-09-11,California
+1226,Allen Crabbe,Shooting Guard and Small Forward,Right,196,96,2013,2013,7,False,1992-04-09,California
+1227,Torrey Craig,Small Forward and Power Forward,Right,196,100,,2017,8,False,1990-12-19,South Carolina
+1228,Isaiah Crawford,Small Forward,Right,198,99,,2024,2,True,2001-11-01,Texas
+1229,Jamal Crawford,Shooting Guard and Point Guard,Right,196,83,2000,2000,20,False,1980-03-20,Washington
+1230,Jae Crowder,Small Forward and Power Forward,Right,198,106,2012,2012,13,False,1990-07-06,Georgia
+1231,Jalen Crutcher,Point Guard,Right,185,79,,2024,1,True,1999-07-18,Tennessee
+1232,LJ Cryer,Point Guard,Right,185,91,,2026,1,True,2001-10-09,Louisiana
+1233,Cui Yongxi,Shooting Guard,Right,196,86,,2024,1,False,2003-05-28,China
+1234,Jarrett Culver,Shooting Guard and Small Forward,Right,198,88,2019,2019,4,True,1999-02-20,Texas
+1235,Jarron Cumberland,Shooting Guard,Right,196,92,,2021,1,False,1997-09-22,Ohio
+1236,Cade Cunningham,Point Guard and Shooting Guard,Right,198,99,2021,2021,5,True,2001-09-25,Texas
+1237,Seth Curry,Shooting Guard and Point Guard,Right,185,83,,2014,12,True,1990-08-23,North Carolina
+1238,Stephen Curry,Point Guard,Right,188,83,2009,2009,17,True,1988-03-14,Ohio
+1239,PacA me Dadiet,Shooting Guard,Right,206,95,2024,2024,2,True,2005-07-27,France
+1240,Dyson Daniels,Point Guard and Shooting Guard,Right,201,90,2022,2022,4,True,2003-03-17,Australia
+1241,Troy Daniels,Shooting Guard,Right,193,90,,2014,7,False,1991-07-15,Virginia
+1242,Nate Darling,Shooting Guard,Right,196,90,,2021,1,False,1998-08-30,Nova Scotia
+1243,Tristan Da Silva,Small Forward,Right,203,98,2024,2024,2,True,2001-05-15,Germany
+1244,Anthony Davis,Power Forward and Center,Right,208,114,2012,2012,14,True,1993-03-11,Illinois
+1245,Ed Davis,Power Forward and Center,Left,206,98,2010,2010,12,False,1989-06-05,District of Columbia
+1246,JD Davison,Point Guard and Shooting Guard,Right,185,88,2022,2022,4,True,2002-10-03,Alabama
+1247,Johnny Davis,Shooting Guard,Right,193,88,2022,2022,3,True,2002-02-27,Wisconsin
+1248,Terence Davis,Shooting Guard,Right,193,91,,2019,5,True,1997-05-16,Mississippi
+1249,Darius Days,Power Forward and Small Forward,Right,201,111,,2023,1,False,1999-10-20,Florida
+1250,Gabriel Deck,Power Forward,Right,198,104,,2021,2,False,1995-02-08,Argentina
+1251,Dewayne Dedmon,Center,Right,208,111,,2013,10,False,1989-08-12,California
+1252,Sam Dekker,Power Forward,Right,206,104,2015,2015,5,False,1994-05-06,Wisconsin
+1253,Javin DeLaurier,Center,Right,208,107,,2022,1,False,1998-04-07,Virginia
+1254,Matthew Dellavedova,Point Guard and Shooting Guard,Right,190,90,,2013,9,False,1990-09-08,Australia
+1255,Egor DNmin,Point Guard,Right,203,90,2025,2025,1,True,2006-03-03,Russia
+1256,Dexter Dennis,Shooting Guard,Right,196,95,,2023,1,True,1999-02-09,Louisiana
+1257,RayJ Dennis,Point Guard,Right,185,81,,2025,2,True,2001-03-30,Illinois
+1258,DeMar DeRozan,"Shooting Guard, Small Forward, and Power Forward",Right,198,99,2009,2009,17,True,1989-08-07,California
+1259,Moussa DiabatA,Center,Right,208,95,2022,2022,4,True,2002-01-21,France
+1260,Mamadi Diakite,Power Forward and Center,Right,206,103,,2021,4,False,1997-01-21,Guinea
+1261,Cheick Diallo,Center and Power Forward,Right,203,99,2016,2016,5,False,1996-09-13,Mali
+1262,Hamidou Diallo,Small Forward and Shooting Guard,Right,196,91,2018,2018,6,True,1998-07-31,New York
+1263,Mohamed Diawara,Small Forward,Right,206,102,2025,2025,1,True,2005-04-29,France
+1264,Gradey Dick,Shooting Guard,Right,201,90,2023,2023,3,True,2003-11-20,Kansas
+1265,Hunter Dickinson,Center,Left,216,115,,2025,1,True,2000-11-25,Virginia
+1266,Gorgui Dieng,Center and Power Forward,Right,208,114,2013,2013,10,False,1990-01-18,Senegal
+1267,Ousmane Dieng,Center and Power Forward,Right,206,83,2022,2022,4,True,2003-05-21,France
+1268,Rob Dillingham,Point Guard,Right,188,79,2024,2024,2,True,2005-01-04,North Carolina
+1269,Spencer Dinwiddie,Point Guard and Shooting Guard,Right,196,97,2014,2014,11,True,1993-04-06,California
+1270,Donte DiVincenzo,Shooting Guard,Right,193,92,2018,2018,8,True,1997-01-31,Delaware
+1271,Luka DonAiA,Point Guard and Shooting Guard,Right,203,104,2018,2018,8,True,1999-02-28,Slovenia
+1272,Tyler Dorsey,Shooting Guard and Small Forward,Right,193,81,2017,2017,3,False,1996-02-18,California
+1273,Luguentz Dort,Small Forward and Shooting Guard,Right,193,99,,2019,7,True,1999-04-19,Quebec
+1274,Ayo Dosunmu,Shooting Guard,Right,193,90,2021,2021,5,True,2000-01-17,Illinois
+1275,Damyean Dotson,Shooting Guard,Right,196,95,2017,2017,5,False,1994-05-06,Texas
+1276,Devon Dotson,Point Guard,Right,185,83,,2021,3,False,1999-08-02,Illinois
+1277,Sekou Doumbouya,Power Forward,Right,203,104,2019,2019,3,False,2000-12-23,Guinea
+1278,Jeff Dowtin Jr.,Point Guard,Right,190,80,,2021,4,False,1997-05-10,Maryland
+1279,PJ Dozier,"Shooting Guard, Small Forward, and Point Guard",Right,198,96,,2018,7,False,1996-10-25,South Carolina
+1280,Goran DragiA,Point Guard and Shooting Guard,Left,193,86,2008,2008,15,False,1986-05-06,Slovenia
+1281,Henri Drell,Small Forward,Right,203,83,,2024,1,False,2000-04-25,Estonia
+1282,Andre Drummond,Center,Right,211,126,2012,2012,14,True,1993-08-10,New York
+1283,Chris Duarte,Small Forward and Shooting Guard,Right,196,86,2021,2021,4,False,1997-06-13,Dominican Republic
+1284,Alex Ducas,Shooting Guard,Right,201,99,,2024,1,False,2000-12-11,Australia
+1285,Jared Dudley,"Power Forward, Small Forward, and Shooting Guard",Right,198,107,2007,2007,14,False,1985-07-10,California
+1286,David Duke Jr.,Shooting Guard and Point Guard,Right,193,92,,2021,4,True,1999-10-13,Rhode Island
+1287,Kris Dunn,Point Guard,Right,190,92,2016,2016,10,True,1994-03-18,Connecticut
+1288,Ryan Dunn,Small Forward,Right,201,97,2024,2024,2,True,2003-01-07,New York
+1289,Kevin Durant,"Small Forward, Power Forward, and Shooting Guard",Right,211,108,2007,2007,18,True,1988-09-29,District of Columbia
+1290,Jalen Duren,Center,Right,208,113,2022,2022,4,True,2003-11-18,Pennsylvania
+1291,Tari Eason,Power Forward,Right,203,97,2022,2022,4,True,2001-05-10,Virginia
+1292,Jaime Echenique,Center,Right,211,117,,2021,1,False,1997-04-27,Colombia
+1293,Zach Edey,Center,Right,221,138,2024,2024,2,True,2002-05-14,Ontario
+1294,VJ Edgecombe,Shooting Guard,Right,193,81,2025,2025,1,True,2005-07-30,Bahamas
+1295,Anthony Edwards,Shooting Guard,Right,193,102,2020,2020,6,True,2001-08-05,Georgia
+1296,Carsen Edwards,Shooting Guard,Right,180,90,2019,2019,3,True,1998-03-12,Texas
+1297,Jesse Edwards,Center,Right,213,107,,2025,1,False,2000-03-18,Netherlands
+1298,Justin Edwards,Small Forward,Left,201,92,,2024,2,True,2003-12-16,Pennsylvania
+1299,Kessler Edwards,Small Forward,Right,203,92,2021,2021,4,True,2000-08-09,California
+1300,Rob Edwards,Shooting Guard,Right,196,92,,2021,1,False,1997-01-20,Michigan
+1301,CJ Elleby,Small Forward,Left,198,90,2020,2020,2,True,2000-06-16,Washington
+1302,Henry Ellenson,Power Forward and Center,Right,208,108,2016,2016,5,False,1997-01-13,Wisconsin
+1303,Wayne Ellington,Shooting Guard,Right,193,93,2009,2009,13,False,1987-11-29,Pennsylvania
+1304,Keon Ellis,Shooting Guard,Right,193,79,,2022,4,True,2000-01-08,Florida
+1305,Joel Embiid,Center,Right,213,127,2014,2016,10,True,1994-03-16,Cameroon
+1306,Tristan Enaruna,Small Forward,Right,201,99,,2026,1,True,2001-06-26,Netherlands
+1307,James Ennis III,Small Forward and Shooting Guard,Right,198,97,2013,2014,8,False,1990-07-01,California
+1308,Noa Essengue,Power Forward,Right,203,90,2025,2025,1,True,2006-12-18,France
+1309,Tyson Etienne,Point Guard,Right,183,90,,2025,2,True,1999-09-17,New Jersey
+1310,Drew Eubanks,Center and Power Forward,Right,208,111,,2018,8,True,1997-02-01,Mississippi
+1311,Jacob Evans,Shooting Guard,Right,193,95,2018,2018,2,True,1997-06-18,North Carolina
+1312,Tosan Evbuomwan,Small Forward,Right,203,98,,2024,3,True,2001-02-16,United Kingdom
+1313,DantA Exum,Point Guard and Shooting Guard,Right,196,97,2014,2014,8,True,1995-07-13,Australia
+1314,Tacko Fall,Center,Right,229,141,,2019,3,False,1995-12-10,Senegal
+1315,Derrick Favors,Power Forward and Center,Right,206,120,2010,2010,12,False,1991-07-15,Georgia
+1316,Jeremiah Fears,Point Guard,Right,190,86,2025,2025,1,True,2006-10-14,Illinois
+1317,Cristiano FelAcio,Center,Right,211,122,,2015,6,False,1992-07-07,Brazil
+1318,Terrance Ferguson,Shooting Guard and Small Forward,Right,198,86,2017,2017,4,False,1998-05-17,Oklahoma
+1319,Bruno Fernando,Center,Right,206,108,2019,2019,6,True,1998-08-15,Angola
+1320,Yogi Ferrell,Point Guard and Shooting Guard,Right,183,80,,2016,5,False,1993-05-09,Indiana
+1321,Kyle Filipowski,Center,Right,211,113,2024,2024,2,True,2003-11-07,New York
+1322,Dorian Finney-Smith,Power Forward and Small Forward,Right,201,99,,2016,10,True,1993-05-04,Virginia
+1323,Malik Fitts,Power Forward,Right,196,104,,2021,2,False,1997-07-04,California
+1324,Cooper Flagg,Small Forward,Right,206,92,2025,2025,1,True,2006-12-21,Maine
+1325,Adam Flagler,Shooting Guard,Right,185,81,,2024,2,True,1999-12-01,Georgia
+1326,Rasheer Fleming,Power Forward,Right,206,108,2025,2025,1,True,2004-07-10,New Jersey
+1327,Trentyn Flowers,Small Forward,Right,206,83,,2024,2,True,2005-03-08,Maryland
+1328,Malachi Flynn,Point Guard,Right,185,83,2020,2020,5,True,1998-05-10,Washington
+1329,Simone Fontecchio,Small Forward,Right,201,94,,2022,4,True,1995-12-09,Italy
+1330,Bryn Forbes,Shooting Guard,Right,188,92,,2016,7,False,1993-07-23,Michigan
+1331,Aleem Ford,Small Forward,Right,203,99,,2021,1,False,1997-12-22,Georgia
+1332,Jordan Ford,Point Guard,Right,185,79,,2023,1,False,1998-05-26,California
+1333,Trent Forrest,Shooting Guard and Point Guard,Right,193,95,,2021,4,False,1998-06-12,Alabama
+1334,Michael Foster Jr.,Power Forward,Right,203,113,,2022,1,False,2003-01-16,Wisconsin
+1335,Evan Fournier,Shooting Guard and Small Forward,Right,198,92,2012,2012,12,False,1992-10-29,France
+1336,De'Aaron Fox,Point Guard,Left,190,83,2017,2017,9,True,1997-12-20,Louisiana
+1337,Robert Franks,Power Forward,Right,201,102,,2021,1,False,1996-12-18,Washington
+1338,Melvin Frazier,Shooting Guard,Left,198,95,2018,2018,3,True,1996-08-30,Louisiana
+1339,Michael Frazier,Shooting Guard,Right,190,90,,2020,1,False,1994-03-08,New York
+1340,Tim Frazier,Point Guard,Right,185,77,,2015,8,False,1990-11-01,Texas
+1341,Enrique Freeman,Power Forward,Right,206,99,2024,2024,2,True,2000-07-29,Ohio
+1342,Javon Freeman-Liberty,Point Guard,Right,190,86,,2024,1,False,1999-10-20,Illinois
+1343,Alex Fudge,Small Forward,Right,203,90,,2023,1,True,2003-05-06,Florida
+1344,Markelle Fultz,Point Guard and Shooting Guard,Right,193,94,2017,2017,9,True,1998-05-29,Maryland
+1345,Andrew Funk,Shooting Guard,Right,196,90,,2024,1,False,1999-09-21,Pennsylvania
+1346,Johnny Furphy,Shooting Guard,Right,203,90,2024,2024,2,True,2004-12-08,Australia
+1347,Wenyen Gabriel,Power Forward and Center,Right,206,92,,2019,5,False,1997-03-26,Sudan
+1348,Daniel Gafford,Center and Power Forward,Right,208,120,2019,2019,7,True,1998-10-01,Arkansas
+1349,Danilo Gallinari,"Small Forward, Power Forward, and Shooting Guard",Right,208,107,2008,2008,14,False,1988-08-08,Italy
+1350,Langston Galloway,Shooting Guard and Point Guard,Right,185,90,,2015,8,False,1991-12-09,Louisiana
+1351,Andersson Garcia,Small Forward,Right,201,99,,2026,1,True,2000-08-23,Dominican Republic
+1352,Myron Gardner,Small Forward,Right,196,99,,2025,1,True,2001-05-21,Michigan
+1353,Darius Garland,Point Guard and Shooting Guard,Right,185,87,2019,2019,7,True,2000-01-26,Indiana
+1354,Marcus Garrett,Shooting Guard,Right,196,92,,2021,2,True,1998-11-09,Texas
+1355,Usman Garuba,Power Forward and Center,Right,203,103,2021,2021,3,False,2002-03-09,Spain
+1356,Luka Garza,Center,Right,208,110,2021,2021,5,True,1998-12-27,District of Columbia
+1357,Marc Gasol,Center,Right,211,115,2007,2008,13,False,1985-01-29,Spain
+1358,Kaiser Gates,Small Forward,Right,203,101,,2023,1,False,1996-11-08,Georgia
+1359,Rudy Gay,Small Forward and Power Forward,Right,203,113,2006,2006,17,False,1986-08-17,New York
+1360,Keyonte George,Point Guard and Shooting Guard,Right,193,83,2023,2023,3,True,2003-11-08,Texas
+1361,Kyshawn George,Shooting Guard and Small Forward,Right,203,90,2024,2024,2,True,2003-12-12,Switzerland
+1362,Paul George,"Small Forward, Power Forward, and Shooting Guard",Right,203,99,2010,2010,16,True,1990-05-02,California
+1363,Taj Gibson,Power Forward and Center,Right,206,105,2009,2009,17,True,1985-06-24,New York
+1364,Josh Giddey,"Point Guard, Shooting Guard, Power Forward, and Small Forward",Right,201,97,2021,2021,5,True,2002-10-10,Australia
+1365,Keshon Gilbert,Point Guard and Shooting Guard,Right,193,90,,2026,1,True,2003-06-30,Missouri
+1366,Harry Giles,Center and Power Forward,Right,208,108,2017,2018,4,False,1998-04-22,North Carolina
+1367,Shai Gilgeous-Alexander,Point Guard and Shooting Guard,Right,198,88,2018,2018,8,True,1998-07-12,Ontario
+1368,Anthony Gill,Power Forward,Right,201,104,,2020,6,True,1992-10-17,North Carolina
+1369,Collin Gillespie,Point Guard,Right,185,88,,2023,3,True,1999-06-25,Pennsylvania
+1370,Freddie Gillespie,Power Forward,Right,206,111,,2021,2,False,1997-06-14,Minnesota
+1371,Jacob Gilyard,Point Guard,Right,173,72,,2023,2,False,1998-07-14,Missouri
+1372,Rudy Gobert,Center,Right,216,117,2013,2013,13,True,1992-06-26,France
+1373,Vladislav Goldin,Center,Right,213,113,,2025,1,True,2001-05-12,Russia
+1374,Hugo GonzAlez,Small Forward and Shooting Guard,Right,198,90,2025,2025,1,True,2006-02-05,Spain
+1375,Brandon Goodwin,Point Guard,Right,183,81,,2018,4,False,1995-10-02,Georgia
+1376,Jordan Goodwin,Point Guard and Shooting Guard,Right,190,97,,2021,5,True,1998-10-23,Illinois
+1377,Aaron Gordon,Power Forward and Small Forward,Right,203,106,2014,2014,12,True,1995-09-16,California
+1378,Eric Gordon,Shooting Guard and Small Forward,Right,190,97,2008,2008,18,True,1988-12-25,Indiana
+1379,Jazian Gortman,Point Guard,Right,188,83,,2024,1,True,2003-04-14,South Carolina
+1380,Devonte' Graham,Point Guard,Right,185,88,2018,2018,6,True,1995-02-22,North Carolina
+1381,Treveon Graham,Shooting Guard and Small Forward,Right,196,99,,2016,4,False,1993-10-28,Maryland
+1382,Jerami Grant,Power Forward and Small Forward,Right,201,96,2014,2014,12,True,1994-03-12,Oregon
+1383,Jerian Grant,Point Guard and Shooting Guard,Right,193,92,2015,2015,5,False,1992-10-09,Maryland
+1384,Hassani Gravett,Point Guard,Right,188,85,,2021,1,False,1996-07-16,Georgia
+1385,Hayden Gray,Shooting Guard,Right,193,86,,2026,1,True,2003-05-11,California
+1386,Josh Gray,Point Guard,Right,183,81,,2018,2,False,1993-09-09,Louisiana
+1387,RaiQuan Gray,Power Forward,Right,201,117,2021,2023,2,False,1999-07-07,Florida
+1388,A.J. Green,Shooting Guard,Right,193,86,,2022,4,True,1999-09-27,Iowa
+1389,Danny Green,Shooting Guard and Small Forward,Right,198,97,2009,2009,15,False,1987-06-22,New York
+1390,Draymond Green,Power Forward and Small Forward,Right,198,104,2012,2012,14,True,1990-03-04,Michigan
+1391,JaMychal Green,Power Forward,Right,206,102,,2015,9,False,1990-06-21,Alabama
+1392,Javonte Green,Shooting Guard and Small Forward,Right,196,92,,2019,7,True,1993-07-23,Virginia
+1393,Jalen Green,Shooting Guard,Right,193,84,2021,2021,5,True,2002-02-09,California
+1394,Jeff Green,"Power Forward, Small Forward, and Center",Right,203,106,2007,2007,18,True,1986-08-28,Maryland
+1395,Josh Green,Shooting Guard,Right,198,90,2020,2020,6,True,2000-11-16,Australia
+1396,AJ Griffin,Small Forward,Right,198,99,2022,2022,2,False,2003-08-25,Texas
+1397,Blake Griffin,Power Forward and Center,Right,206,113,2009,2010,13,False,1989-03-16,Oklahoma
+1398,Quentin Grimes,Shooting Guard,Right,193,95,2021,2021,5,True,2000-05-08,Texas
+1399,Marko GuduriA,Shooting Guard,Left,198,91,,2019,1,False,1995-03-08,Serbia
+1400,Mouhamadou Gueye,Power Forward and Small Forward,Right,206,95,,2024,2,True,1998-07-06,New York
+1401,Mouhamed Gueye,Power Forward,Right,211,95,2023,2023,3,True,2002-11-09,Senegal
+1402,Kyle Guy,Shooting Guard and Point Guard,Right,185,75,2019,2020,3,True,1997-08-11,Indiana
+1403,Rui Hachimura,Power Forward,Right,203,104,2019,2019,7,True,1998-02-08,Japan
+1404,Ashton Hagans,Point Guard,Right,190,86,,2021,2,False,1999-07-08,Georgia
+1405,Tyrese Haliburton,Point Guard and Shooting Guard,Right,196,83,2020,2020,5,True,2000-02-29,Wisconsin
+1406,Devon Hall,Point Guard,Left,188,97,2018,2019,1,True,1995-07-07,Virginia
+1407,Donta Hall,Power Forward and Center,Right,208,104,,2020,2,False,1997-08-07,Alabama
+1408,Josh Hall,Small Forward,Right,206,86,,2020,1,False,2000-10-08,North Carolina
+1409,Jordan Hall,Small Forward,Right,201,99,,2022,1,True,2002-01-14,New Jersey
+1410,PJ Hall,Center,Right,203,111,,2024,2,True,2002-02-21,South Carolina
+1411,Tyler Hall,Shooting Guard,Right,196,95,,2021,1,False,1997-03-25,Illinois
+1412,R.J. Hampton,Shooting Guard and Point Guard,Right,193,79,2020,2020,4,False,2001-02-07,Texas
+1413,Dusty Hannahs,Shooting Guard,Right,193,88,,2019,2,False,1993-09-02,Arkansas
+1414,Tim Hardaway Jr.,Shooting Guard and Small Forward,Right,196,92,2013,2013,13,True,1992-03-16,California
+1415,James Harden,Point Guard and Shooting Guard,Left,196,99,2009,2009,17,True,1989-08-26,California
+1416,Jaden Hardy,Shooting Guard,Right,190,89,2022,2022,4,True,2002-07-05,Michigan
+1417,Elijah Harkless,Shooting Guard,Right,190,88,,2025,2,True,2000-02-03,California
+1418,Maurice Harkless,Small Forward and Power Forward,Right,201,99,2012,2012,10,False,1993-05-11,New York
+1419,Dylan Harper,Shooting Guard,Left,196,97,2025,2025,1,True,2006-03-02,New Jersey
+1420,Jared Harper,Point Guard,Right,178,79,,2019,3,False,1997-09-14,Georgia
+1421,Ron Harper Jr.,Small Forward and Power Forward,Right,196,105,,2022,4,True,2000-04-12,New Jersey
+1422,Montrezl Harrell,Center and Power Forward,Right,201,108,2015,2015,8,False,1994-01-26,North Carolina
+1423,Gary Harris,Shooting Guard,Right,193,95,2014,2014,12,True,1994-09-14,Indiana
+1424,Jalen Harris,Shooting Guard,Right,196,88,2020,2021,1,True,1998-08-14,Texas
+1425,Joe Harris,Shooting Guard and Small Forward,Right,198,99,2014,2014,10,False,1991-09-06,Washington
+1426,Kevon Harris,Shooting Guard,Right,196,97,,2022,2,True,1997-06-24,Georgia
+1427,Shaquille Harrison,Shooting Guard and Point Guard,Left,193,88,,2018,7,False,1993-10-06,Missouri
+1428,Tobias Harris,Power Forward and Small Forward,Right,203,102,2011,2012,15,True,1992-07-15,New York
+1429,Isaiah Hartenstein,Center and Power Forward,Left,213,113,2017,2018,8,True,1998-05-05,Oregon
+1430,Josh Hart,Small Forward and Shooting Guard,Right,196,97,2017,2017,9,True,1995-03-06,Maryland
+1431,Udonis Haslem,Power Forward and Center,Right,203,106,,2003,20,False,1980-06-09,Florida
+1432,Sam Hauser,Small Forward and Power Forward,Right,201,98,,2021,5,True,1997-12-08,Wisconsin
+1433,Jordan Hawkins,Shooting Guard,Right,196,86,2023,2023,3,True,2002-04-29,Maryland
+1434,Jaxson Hayes,Center,Right,213,99,2019,2019,7,True,2000-05-23,Oklahoma
+1435,Killian Hayes,Point Guard,Left,193,88,2020,2020,6,True,2001-07-27,Florida
+1436,Nigel Hayes-Davis,Small Forward,Right,201,115,,2018,2,True,1994-12-16,Ohio
+1437,Gordon Hayward,Small Forward and Power Forward,Right,201,102,2010,2010,14,False,1990-03-23,Indiana
+1438,Scoot Henderson,Point Guard,Right,190,93,2023,2023,3,True,2004-02-03,Georgia
+1439,Taylor Hendricks,Power Forward,Right,206,97,2023,2023,3,True,2003-11-22,Florida
+1440,Aaron Henry,Small Forward,Left,196,95,,2021,1,False,1999-08-30,Kentucky
+1441,John Henson,Center and Power Forward,Right,206,99,2012,2012,8,False,1990-12-28,North Carolina
+1442,Chucky Hepburn,Point Guard,Right,183,86,,2025,1,True,2003-02-09,Nebraska
+1443,Dewan Hernandez,Center,Right,208,106,2019,2019,1,True,1996-12-09,Florida
+1444,Juancho HernangA3mez,Power Forward,Right,206,97,2016,2016,7,False,1995-09-28,Spain
+1445,Willy HernangA3mez,Center,Right,211,113,2015,2016,7,False,1994-05-27,Spain
+1446,Tyler Herro,Shooting Guard,Right,196,88,2019,2019,7,True,2000-01-20,Wisconsin
+1447,Kevin Hervey,Power Forward,Right,203,104,2018,2019,1,True,1996-07-09,Texas
+1448,Mario Hezonja,Small Forward and Power Forward,Right,203,99,2015,2015,5,False,1995-02-25,Croatia
+1449,Buddy Hield,Shooting Guard and Small Forward,Right,193,99,2016,2016,10,True,1992-12-17,Bahamas
+1450,Haywood Highsmith,Small Forward and Power Forward,Right,196,99,,2019,6,True,1996-12-09,Maryland
+1451,George Hill,Point Guard and Shooting Guard,Right,193,85,2008,2008,15,False,1986-05-04,Indiana
+1452,Malcolm Hill,Small Forward and Shooting Guard,Right,198,99,,2021,2,True,1995-10-26,Missouri
+1453,Solomon Hill,Small Forward and Power Forward,Right,198,102,2013,2013,9,False,1991-03-18,California
+1454,Blake Hinson,Small Forward,Right,203,108,,2026,1,True,1999-12-26,Florida
+1455,Nate Hinton,Shooting Guard and Small Forward,Right,196,95,,2021,3,True,1999-06-08,North Carolina
+1456,Jaylen Hoard,Small Forward and Power Forward,Right,203,97,,2019,3,False,1999-03-30,France
+1457,D'Moi Hodge,Shooting Guard,Right,190,85,,2023,1,True,1998-12-20,British Virgin Islands
+1458,Aaron Holiday,Point Guard,Right,183,83,2018,2018,8,True,1996-09-30,Louisiana
+1459,Jrue Holiday,Point Guard and Shooting Guard,Right,193,99,2009,2009,17,True,1990-06-12,California
+1460,Justin Holiday,Shooting Guard and Small Forward,Right,198,81,,2013,11,False,1989-04-05,California
+1461,Ron Holland,Small Forward,Right,203,93,2024,2024,2,True,2005-07-07,Texas
+1462,Rondae Hollis-Jefferson,Small Forward and Power Forward,Left,198,98,2015,2015,6,False,1995-01-03,Pennsylvania
+1463,DaRon Holmes,Power Forward,Right,206,102,2024,2025,1,True,2002-08-15,Kansas
+1464,Richaun Holmes,Center and Power Forward,Right,206,106,2015,2015,10,False,1993-10-15,Illinois
+1465,Chet Holmgren,Center and Power Forward,Right,216,94,2022,2023,3,True,2002-05-01,Minnesota
+1466,Rodney Hood,"Shooting Guard, Small Forward, and Power Forward",Left,203,94,2014,2014,8,False,1992-10-20,Mississippi
+1467,Jalen Hood-Schifino,Shooting Guard,Right,196,95,2023,2023,2,True,2003-06-19,Pennsylvania
+1468,Scotty Hopson,Shooting Guard,Right,201,97,,2014,3,False,1989-08-08,Kentucky
+1469,Al Horford,Center,Right,203,108,2007,2007,19,True,1986-06-03,Dominican Republic
+1470,Talen Horton-Tucker,Shooting Guard and Point Guard,Right,193,106,2019,2019,6,True,2000-11-25,Illinois
+1471,Danuel House Jr.,Small Forward and Shooting Guard,Right,198,99,,2016,8,False,1993-06-07,Texas
+1472,Caleb Houstan,Small Forward,Right,203,92,2022,2022,4,True,2003-01-09,Ontario
+1473,Dwight Howard,Center and Power Forward,Right,208,120,2004,2004,18,False,1985-12-08,Georgia
+1474,Jett Howard,Small Forward,Right,203,97,2023,2023,3,True,2003-09-14,Illinois
+1475,Markus Howard,Shooting Guard,Right,178,79,,2020,2,False,1999-03-03,New Jersey
+1476,William Howard,Power Forward,Right,203,93,,2020,1,False,1993-10-25,France
+1477,Trevor Hudgins,Point Guard,Left,183,81,,2022,1,False,1999-03-23,Kansas
+1478,Kevin Huerter,Shooting Guard and Small Forward,Right,198,89,2018,2018,8,True,1998-08-27,New York
+1479,Jay Huff,Center,Right,216,108,,2021,5,True,1998-08-25,North Carolina
+1480,Elijah Hughes,Shooting Guard and Small Forward,Right,196,97,2020,2020,2,True,1998-03-10,New York
+1481,Ariel Hukporti,Center,Left,213,111,2024,2024,2,True,2002-04-12,Germany
+1482,De'Andre Hunter,Small Forward,Right,201,100,2019,2019,7,True,1997-12-02,Pennsylvania
+1483,Feron Hunt,Small Forward,Right,203,88,,2022,1,False,1999-07-05,Texas
+1484,CJ Huntley,Small Forward,Right,206,86,,2026,1,True,2002-01-06,North Carolina
+1485,Matthew Hurt,Power Forward,Right,206,105,,2024,1,False,2000-04-20,Minnesota
+1486,Chandler Hutchison,Small Forward,Right,198,95,2018,2018,4,True,1996-04-26,California
+1487,Bones Hyland,Point Guard and Shooting Guard,Right,188,76,2021,2021,5,True,2000-09-14,Delaware
+1488,Serge Ibaka,Power Forward and Center,Right,211,106,2008,2009,14,False,1989-09-18,Republic of the Congo
+1489,Oso Ighodaro,Power Forward,Right,211,106,2024,2024,2,True,2002-07-14,Arizona
+1490,Andre Iguodala,"Small Forward, Shooting Guard, and Power Forward",Right,198,97,2004,2004,19,False,1984-01-28,Illinois
+1491,Ersan Alyasova,Power Forward,Right,206,106,2005,2006,13,False,1987-05-15,Turkey
+1492,Joe Ingles,Small Forward and Power Forward,Left,203,99,,2014,12,True,1987-10-02,Australia
+1493,Brandon Ingram,Small Forward and Power Forward,Right,203,86,2016,2016,10,True,1997-09-02,North Carolina
+1494,Harrison Ingram,Small Forward,Right,196,104,2024,2024,2,True,2002-11-27,Texas
+1495,Kyrie Irving,Point Guard and Shooting Guard,Right,188,88,2011,2011,14,True,1992-03-23,Australia
+1496,Jonathan Isaac,Power Forward,Right,208,104,2017,2017,7,True,1997-10-03,New York
+1497,Jaden Ivey,Shooting Guard,Right,190,88,2022,2022,4,True,2002-02-13,Indiana
+1498,Wes Iwundu,Small Forward,Right,198,88,2017,2017,5,False,1994-12-20,Texas
+1499,Andre Jackson Jr.,Shooting Guard,Right,198,94,2023,2023,3,True,2001-11-13,New York
+1500,Frank Jackson,Point Guard,Right,190,92,2017,2018,5,False,1998-05-04,District of Columbia
+1501,GG Jackson II,Power Forward,Right,206,95,2023,2023,3,True,2004-12-17,South Carolina
+1502,Isaiah Jackson,Center,Right,203,92,2021,2021,5,True,2002-01-10,Michigan
+1503,Jaren Jackson Jr.,Center and Power Forward,Right,208,109,2018,2018,8,True,1999-09-15,New Jersey
+1504,Josh Jackson,Small Forward and Shooting Guard,Right,203,93,2017,2017,5,False,1997-02-10,California
+1505,Justin Jackson,Small Forward and Power Forward,Right,203,99,2017,2017,7,False,1995-03-28,Texas
+1506,Quenton Jackson,Point Guard,Right,193,78,,2023,4,True,1998-09-15,California
+1507,Reggie Jackson,Point Guard and Shooting Guard,Right,188,94,2011,2011,14,False,1990-04-16,Italy
+1508,Trayce Jackson-Davis,Center and Power Forward,Left,206,111,2023,2023,3,True,2000-02-22,Indiana
+1509,Kasparas JakuAionis,Shooting Guard and Point Guard,Right,196,90,2025,2025,1,True,2006-05-29,Lithuania
+1510,Bronny James,Shooting Guard,Right,188,95,2024,2024,2,True,2004-10-06,Ohio
+1511,Justin James,Small Forward,Right,198,86,2019,2019,2,True,1997-01-24,Florida
+1512,LeBron James,"Small Forward, Power Forward, Point Guard, Center, and Shooting Guard",Right,206,113,2003,2003,23,True,1984-12-30,Ohio
+1513,Mike James,Point Guard,Right,185,79,,2017,2,False,1990-08-18,Oregon
+1514,Sion James,Shooting Guard,Right,196,99,2025,2025,1,True,2002-12-04,Georgia
+1515,Jaime Jaquez Jr.,Small Forward,Right,198,102,2023,2023,3,True,2001-02-18,California
+1516,DeJon Jarreau,Shooting Guard,Right,196,83,,2021,3,True,1998-01-23,Louisiana
+1517,Amile Jefferson,Power Forward,Right,206,100,,2018,2,False,1993-05-07,Pennsylvania
+1518,DaQuan Jeffries,Shooting Guard,Right,196,100,,2019,7,True,1997-08-30,Oklahoma
+1519,Trey Jemison,Center,Right,208,122,,2024,3,True,1999-11-28,Alabama
+1520,Daniss Jenkins,Point Guard,Right,193,74,,2024,2,True,2001-08-17,Texas
+1521,Ty Jerome,Shooting Guard,Right,196,88,2019,2019,7,True,1997-07-08,New York
+1522,Isaiah Joe,Shooting Guard,Right,193,74,2020,2020,6,True,1999-07-02,Arkansas
+1523,AJ Johnson,Shooting Guard,Right,196,72,2024,2024,2,True,2004-12-01,California
+1524,Alize Johnson,Power Forward,Right,206,96,2018,2018,5,True,1996-04-22,Pennsylvania
+1525,B.J. Johnson,Small Forward,Left,201,90,,2019,3,False,1995-12-21,Pennsylvania
+1526,Cameron Johnson,Power Forward and Small Forward,Right,203,95,2019,2019,7,True,1996-03-03,Pennsylvania
+1527,Chaney Johnson,Small Forward,Right,201,99,,2026,1,True,2002-06-20,Alabama
+1528,David Johnson,Point Guard and Shooting Guard,Right,193,92,2021,2021,1,False,2001-02-26,Kentucky
+1529,James Johnson,"Power Forward, Small Forward, and Center",Right,201,108,2009,2009,16,False,1987-02-20,Wyoming
+1530,Jalen Johnson,Small Forward and Power Forward,Right,203,99,2021,2021,5,True,2001-12-18,Wisconsin
+1531,Joe Johnson,Shooting Guard and Small Forward,Right,201,108,2001,2001,18,False,1981-06-29,Arkansas
+1532,Keldon Johnson,Small Forward,Right,198,99,2019,2019,7,True,1999-10-11,Virginia
+1533,Keon Johnson,Shooting Guard,Right,196,83,2021,2021,4,True,2002-03-10,Tennessee
+1534,Keyontae Johnson,Small Forward,Right,193,104,2023,2023,1,True,2000-05-24,Virginia
+1535,Keshad Johnson,Small Forward,Right,198,102,,2024,2,True,2001-06-23,California
+1536,Stanley Johnson,Small Forward and Power Forward,Right,198,109,2015,2015,8,False,1996-05-29,California
+1537,Tre Johnson,Shooting Guard,Right,196,86,2025,2025,1,True,2006-03-07,Texas
+1538,Tyler Johnson,Point Guard and Shooting Guard,Left,190,84,,2015,8,False,1992-05-07,North Dakota
+1539,Nikola JokiA,Center,Right,211,128,2014,2015,11,True,1995-02-19,Serbia
+1540,Carlik Jones,Point Guard,Right,183,78,,2021,2,False,1997-12-23,Ohio
+1541,Colby Jones,Shooting Guard,Right,198,93,2023,2023,3,True,2002-05-28,Alabama
+1542,Curtis Jones,Shooting Guard,Right,190,88,,2025,1,True,2001-12-04,Minnesota
+1543,Damian Jones,Center,Right,208,111,2016,2016,8,False,1995-06-30,Louisiana
+1544,David Jones GarcAa,Small Forward,Left,193,95,,2025,1,True,2001-11-24,Dominican Republic
+1545,Derrick Jones Jr.,Small Forward and Power Forward,Left,198,95,,2016,10,True,1997-02-15,Pennsylvania
+1546,Dillon Jones,Small Forward,Right,196,106,2024,2024,2,True,2001-10-29,South Carolina
+1547,Herbert Jones,Small Forward and Power Forward,Left,201,93,2021,2021,5,True,1998-10-06,Alabama
+1548,Isaac Jones,Power Forward,Right,203,111,,2024,2,True,2000-07-11,Washington
+1549,Jemerrio Jones,Small Forward,Right,196,78,,2019,2,False,1995-04-09,Tennessee
+1550,Kai Jones,Center,Right,211,100,2021,2021,3,False,2001-01-19,Bahamas
+1551,Kam Jones,Shooting Guard,Left,193,90,2025,2025,1,True,2002-02-25,Colorado
+1552,Mason Jones,Shooting Guard,Right,193,90,,2021,4,False,1998-07-21,Texas
+1553,Spencer Jones,Small Forward,Right,201,102,,2024,2,True,2001-06-14,Kansas
+1554,Tre Jones,Point Guard,Right,185,83,2020,2020,6,True,2000-01-08,Minnesota
+1555,Tyus Jones,Point Guard,Right,183,88,2015,2015,11,True,1996-05-10,Minnesota
+1556,DeAndre Jordan,Center,Left,211,120,2008,2008,18,True,1988-07-21,Texas
+1557,Cory Joseph,Point Guard and Shooting Guard,Right,188,90,2011,2011,14,False,1991-08-20,Ontario
+1558,Nikola JoviA,Power Forward,Right,208,92,2022,2022,4,True,2003-06-09,United Kingdom
+1559,Johnny Juzang,Shooting Guard,Right,201,102,,2023,4,True,2001-03-17,California
+1560,Mfiondu Kabengele,Power Forward and Center,Right,208,113,2019,2019,3,True,1997-08-14,Ontario
+1561,Georgios Kalaitzakis,Small Forward,Right,203,87,2021,2021,1,False,1999-01-02,Greece
+1562,Ryan Kalkbrenner,Center,Right,216,116,2025,2025,1,True,2002-01-17,Missouri
+1563,Frank Kaminsky,Center and Power Forward,Right,213,108,2015,2015,8,False,1993-04-04,Illinois
+1564,Enes Freedom,Center,Right,208,113,2011,2011,11,False,1992-05-20,Switzerland
+1565,Yuki Kawamura,Point Guard,Right,170,72,,2024,2,True,2001-05-02,Japan
+1566,Trevor Keels,Shooting Guard,Right,190,97,2022,2022,2,True,2003-08-26,Maryland
+1567,Kylor Kelley,Center,Right,213,97,,2025,1,True,1997-08-26,Oregon
+1568,Miles Kelly,Point Guard,Right,193,86,,2025,1,True,2003-01-26,Georgia
+1569,Luke Kennard,Shooting Guard,Left,196,93,2017,2017,9,True,1996-06-24,Ohio
+1570,Jayson Kent,Small Forward,Right,203,97,,2026,1,True,2002-02-03,Texas
+1571,Walker Kessler,Center,Right,218,111,2022,2022,4,True,2001-07-26,Georgia
+1572,Braxton Key,Small Forward,Right,201,102,,2022,4,True,1997-02-14,North Carolina
+1573,Michael Kidd-Gilchrist,Small Forward and Power Forward,Right,198,104,2012,2012,8,False,1993-09-26,Pennsylvania
+1574,Stanton Kidd,Shooting Guard,Right,198,97,,2019,1,False,1992-03-18,Maryland
+1575,George King,Small Forward,Right,198,99,2018,2018,2,True,1994-01-15,North Carolina
+1576,Louis King,Small Forward and Power Forward,Right,201,92,,2019,4,False,1999-04-06,New Jersey
+1577,Corey Kispert,Small Forward,Right,198,101,2021,2021,5,True,1999-03-03,Washington
+1578,Maxi Kleber,Power Forward and Center,Right,208,108,,2017,9,True,1992-01-29,Germany
+1579,Bobi Klintman,Small Forward,Right,206,102,2024,2025,2,True,2003-03-06,Sweden
+1580,Dalton Knecht,Small Forward,Right,198,97,2024,2024,2,True,2001-04-19,North Dakota
+1581,Brandon Knight,Point Guard and Shooting Guard,Right,188,82,2011,2011,9,False,1991-12-02,Florida
+1582,Nathan Knight,Power Forward and Center,Right,203,114,,2020,3,False,1997-09-20,New York
+1583,Kevin Knox,Small Forward and Power Forward,Right,203,97,2018,2018,7,True,1999-08-11,Arizona
+1584,Kon Knueppel,Small Forward,Right,198,97,2025,2025,1,True,2005-08-03,Wisconsin
+1585,Tyler Kolek,Point Guard,Left,188,88,2024,2024,2,True,2001-03-27,Rhode Island
+1586,Christian Koloko,Center,Right,211,102,2022,2022,3,True,2000-06-20,Cameroon
+1587,Yanic Konan NiederhAuser,Center,Right,211,109,2025,2025,1,True,2003-03-14,Switzerland
+1588,John Konchar,Shooting Guard and Small Forward,Right,196,95,,2019,7,True,1996-03-22,Illinois
+1589,Furkan Korkmaz,Shooting Guard,Right,201,91,2016,2017,7,False,1997-07-24,Turkey
+1590,Luke Kornet,Center,Right,216,113,,2018,9,True,1995-07-15,Texas
+1591,Kyle Korver,"Shooting Guard, Small Forward, and Power Forward",Right,201,96,2003,2003,17,False,1981-03-17,California
+1592,VAt KrejAA,Point Guard and Shooting Guard,Right,203,88,2020,2021,5,True,2000-06-19,Czechia
+1593,Arnoldas Kulboka,Small Forward,Right,208,99,2018,2021,1,False,1998-01-04,Lithuania
+1594,Jonathan Kuminga,Power Forward and Small Forward,Right,201,102,2021,2021,5,True,2002-10-06,Democratic Republic of the Congo
+1595,Rodions Kurucs,Small Forward and Power Forward,Right,206,103,2018,2018,3,False,1998-02-05,Latvia
+1596,Kyle Kuzma,Power Forward and Small Forward,Right,203,100,2017,2017,9,True,1995-07-24,Michigan
+1597,Skal LabissiA re,Power Forward and Center,Right,208,106,2016,2016,6,True,1996-03-18,Haiti
+1598,Anthony Lamb,Small Forward,Right,198,102,,2021,3,False,1998-01-20,New York
+1599,Jeremy Lamb,Shooting Guard and Small Forward,Right,196,81,2012,2012,10,False,1992-05-30,Virginia
+1600,Jock Landale,Center,Right,211,115,,2021,5,True,1995-10-25,Australia
+1601,Romeo Langford,Shooting Guard,Right,196,97,2019,2019,4,True,1999-10-25,Indiana
+1602,Chaz Lanier,Shooting Guard,Right,190,93,2025,2025,1,True,2001-12-19,Tennessee
+1603,Jake LaRavia,Power Forward,Right,201,106,2022,2022,4,True,2001-11-03,California
+1604,Pelle Larsson,Shooting Guard,Right,196,97,2024,2024,2,True,2001-02-23,Sweden
+1605,Zach LaVine,"Shooting Guard, Small Forward, and Point Guard",Right,196,90,2014,2014,12,True,1995-03-10,Washington
+1606,A.J. Lawson,Shooting Guard,Right,198,81,,2022,4,True,2000-07-15,Ontario
+1607,Vic Law,Power Forward,Right,201,90,,2020,1,False,1995-12-19,Illinois
+1608,Jake Layman,Small Forward,Right,203,94,2016,2016,6,False,1994-03-07,Massachusetts
+1609,T.J. Leaf,Power Forward,Right,208,100,2017,2017,4,False,1997-04-30,Israel
+1610,Jalen Lecque,Point Guard and Shooting Guard,Right,193,83,,2020,2,False,2000-06-13,New York
+1611,Courtney Lee,Shooting Guard,Right,196,97,2008,2008,12,False,1985-10-03,Indiana
+1612,Damion Lee,Shooting Guard,Right,198,95,,2018,7,False,1992-10-21,Maryland
+1613,Saben Lee,Point Guard,Right,188,83,2020,2021,4,True,1999-06-23,Missouri
+1614,Alex Len,Center,Right,213,113,2013,2013,12,True,1993-06-16,Ukraine
+1615,Kawhi Leonard,Small Forward,Right,198,102,2011,2011,14,True,1991-06-29,California
+1616,Meyers Leonard,Center and Power Forward,Right,213,117,2012,2012,10,False,1992-02-27,Illinois
+1617,Malevy Leons,Small Forward,Right,206,95,,2024,2,True,1999-09-23,Netherlands
+1618,Caris LeVert,Shooting Guard and Small Forward,Right,201,92,2016,2016,10,True,1994-08-25,Ohio
+1619,Kira Lewis Jr.,Point Guard,Right,185,77,2020,2020,4,True,2001-04-06,Alabama
+1620,Maxwell Lewis,Small Forward,Right,201,97,2023,2023,2,False,2002-07-27,Nevada
+1621,Scottie Lewis,Shooting Guard,Right,193,85,2021,2021,1,False,2000-03-12,New York
+1622,E.J. Liddell,Power Forward,Right,198,108,2022,2023,3,True,2000-12-18,Illinois
+1623,Damian Lillard,Point Guard,Right,188,90,2012,2012,13,True,1990-07-15,California
+1624,Nassir Little,Small Forward and Power Forward,Right,198,99,2019,2019,5,True,2000-02-11,Florida
+1625,Dereck Lively II,Center,Right,216,104,2023,2023,3,True,2004-02-12,Pennsylvania
+1626,Isaiah Livers,Power Forward and Small Forward,Right,198,105,2021,2021,4,True,1998-07-28,Michigan
+1627,Chris Livingston,Small Forward,Right,198,99,2023,2023,3,True,2003-10-15,Ohio
+1628,Kenneth Lofton Jr.,Power Forward,Left,198,124,,2022,2,False,2002-08-14,Texas
+1629,Kevon Looney,Center and Power Forward,Right,206,100,2015,2016,11,True,1996-02-06,Wisconsin
+1630,Brook Lopez,Center,Right,216,127,2008,2008,18,True,1988-04-01,California
+1631,Robin Lopez,Center,Right,216,127,2008,2008,16,False,1988-04-01,California
+1632,Didi Louzada,Small Forward and Shooting Guard,Right,196,85,2019,2021,2,False,1999-02-07,Brazil
+1633,Caleb Love,Shooting Guard,Right,190,96,,2025,1,True,2001-09-27,Missouri
+1634,Kevin Love,Power Forward and Center,Right,208,113,2008,2008,18,True,1988-09-07,California
+1635,Lawson Lovering,Center,Right,213,111,,2026,1,True,2003-05-09,Wyoming
+1636,Kyle Lowry,Point Guard,Right,183,88,2006,2006,20,True,1986-03-25,Pennsylvania
+1637,Gabriel Lundberg,Shooting Guard,Right,193,92,,2022,1,False,1994-12-04,Denmark
+1638,Seth Lundy,Small Forward,Right,193,99,2023,2023,1,False,2000-04-02,New Jersey
+1639,TimothA Luwawu-Cabarrot,Small Forward,Right,201,95,2016,2016,6,False,1995-05-09,France
+1640,Trey Lyles,Power Forward,Right,206,106,2015,2015,10,False,1995-11-05,Saskatchewan
+1641,Daryl Macon,Point Guard and Shooting Guard,Right,188,83,,2018,2,False,1995-11-29,Arkansas
+1642,J.P. Macura,Shooting Guard,Right,193,92,,2019,2,False,1995-06-05,Minnesota
+1643,Josh Magette,Point Guard,Left,185,72,,2017,2,False,1989-11-28,Alabama
+1644,Will Magnay,Center,Right,208,106,,2021,1,False,1998-06-10,Australia
+1645,Ian Mahinmi,Center,Right,211,118,2005,2007,12,False,1986-11-05,France
+1646,Thon Maker,Center and Power Forward,Right,213,100,2016,2016,5,False,1997-02-25,South Sudan
+1647,ThAo Maledon,Point Guard,Right,193,79,2020,2020,4,False,2001-06-12,France
+1648,Khaman Maluach,Center,Right,216,113,2025,2025,1,True,2006-09-14,South Sudan
+1649,Sandro Mamukelashvili,Center and Power Forward,Left,206,108,2021,2021,5,True,1999-05-23,New York
+1650,Karim ManA,Point Guard,Right,190,86,,2020,1,False,2000-05-16,Senegal
+1651,Nico Mannion,Point Guard,Right,188,86,2020,2021,1,True,2001-03-14,Italy
+1652,Terance Mann,Shooting Guard and Small Forward,Right,198,97,2019,2019,7,True,1996-10-18,New York
+1653,Tre Mann,Point Guard,Right,193,80,2021,2021,5,True,2001-02-03,Florida
+1654,Chris MaAon,Shooting Guard,Right,193,94,,2025,1,True,2001-12-09,New Jersey
+1655,Boban MarjanoviA,Center,Right,224,131,,2015,9,False,1988-08-15,Serbia
+1656,Lauri Markkanen,Power Forward and Small Forward,Right,216,108,2017,2017,9,True,1997-05-22,Finland
+1657,Naji Marshall,Small Forward,Right,198,99,,2021,6,True,1998-01-24,New Jersey
+1658,Alijah Martin,Shooting Guard,Right,188,95,2025,2025,1,True,2001-12-26,Mississippi
+1659,Caleb Martin,Small Forward,Right,196,92,,2019,7,True,1995-09-28,North Carolina
+1660,Cody Martin,Small Forward,Right,198,92,2019,2019,7,True,1995-09-28,North Carolina
+1661,Jaylen Martin,Small Forward,Right,198,97,,2024,1,True,2004-01-28,Florida
+1662,Jeremiah Martin,Point Guard,Left,188,83,,2020,2,False,1996-06-19,Tennessee
+1663,Kelan Martin,Small Forward,Right,196,104,,2019,3,False,1995-08-03,Kentucky
+1664,KJ Martin,Small Forward and Power Forward,Right,198,97,2020,2021,5,True,2001-01-06,California
+1665,Tyrese Martin,Shooting Guard,Right,198,97,2022,2022,3,True,1999-03-07,Pennsylvania
+1666,Jahmai Mashack,Shooting Guard,Right,193,92,2025,2025,1,True,2002-11-10,California
+1667,Frank Mason III,Point Guard,Right,180,86,2017,2017,4,False,1994-04-03,Virginia
+1668,Garrison Mathews,Shooting Guard,Right,196,97,,2019,7,True,1996-10-24,Tennessee
+1669,Dakota Mathias,Shooting Guard,Right,193,90,,2020,2,False,1995-07-11,Ohio
+1670,Bennedict Mathurin,Small Forward and Shooting Guard,Right,196,95,2022,2022,4,True,2002-06-19,Quebec
+1671,Karlo MatkoviA,Power Forward,Right,208,104,2022,2024,2,True,2001-03-30,Bosnia and Herzegovina
+1672,Wesley Matthews,Shooting Guard and Small Forward,Right,196,99,,2009,15,False,1986-10-14,Texas
+1673,Tyrese Maxey,Point Guard and Shooting Guard,Right,188,90,2020,2020,6,True,2000-11-04,Texas
+1674,Skylar Mays,Shooting Guard and Point Guard,Right,193,92,2020,2020,4,True,1997-09-05,Louisiana
+1675,Luc Mbah a Moute,Power Forward and Small Forward,Right,203,104,2008,2008,12,False,1986-09-09,Cameroon
+1676,Bez Mbeng,Shooting Guard,Right,193,83,,2026,1,True,2003-05-02,Maryland
+1677,Miles McBride,Point Guard and Shooting Guard,Right,188,88,2021,2021,5,True,2000-09-08,Ohio
+1678,Jared McCain,Shooting Guard and Point Guard,Right,190,88,2024,2024,2,True,2004-02-20,California
+1679,Patrick McCaw,Shooting Guard and Small Forward,Right,201,82,2016,2016,5,False,1995-10-25,Missouri
+1680,Mac McClung,Shooting Guard and Point Guard,Right,188,83,,2021,4,True,1999-01-06,Virginia
+1681,CJ McCollum,Shooting Guard and Point Guard,Right,190,86,2013,2014,13,True,1991-09-19,Ohio
+1682,T.J. McConnell,Point Guard,Right,185,86,,2015,11,True,1992-03-25,Pennsylvania
+1683,Kevin McCullar Jr.,Small Forward,Right,198,95,2024,2025,2,True,2001-03-15,Texas
+1684,Jalen McDaniels,Small Forward,Right,206,92,2019,2019,6,True,1998-01-31,Washington
+1685,Jaden McDaniels,Power Forward and Small Forward,Right,206,83,2020,2020,6,True,2000-09-29,Washington
+1686,Doug McDermott,Small Forward and Power Forward,Right,201,102,2014,2014,12,True,1992-01-03,North Dakota
+1687,Sean McDermott,Small Forward,Right,198,88,,2020,1,True,1996-11-03,Indiana
+1688,JaVale McGee,Center,Right,213,122,2008,2008,16,False,1988-01-19,Michigan
+1689,Bryce McGowens,Shooting Guard,Right,198,86,2022,2022,4,True,2002-11-08,South Carolina
+1690,Cameron McGriff,Small Forward,Right,201,99,,2021,1,False,1997-09-30,Texas
+1691,Rodney McGruder,Shooting Guard,Right,193,92,,2016,7,False,1991-07-29,Maryland
+1692,Alfonzo McKinnie,Small Forward,Right,201,97,,2017,5,False,1992-09-17,Illinois
+1693,JaQuori McLaughlin,Point Guard,Right,193,86,,2021,1,True,1998-01-29,Washington
+1694,Jordan McLaughlin,Point Guard,Right,180,83,,2019,7,True,1996-04-09,California
+1695,Ben McLemore,Shooting Guard and Small Forward,Right,190,88,2013,2013,9,False,1993-02-11,Missouri
+1696,Liam McNeeley,Small Forward,Right,201,95,2025,2025,1,True,2005-10-10,Texas
+1697,Jordan McRae,Shooting Guard and Point Guard,Right,196,81,2014,2016,4,False,1991-03-28,Georgia
+1698,Jack McVeigh,Power Forward,Right,203,97,,2024,1,False,1996-06-27,Australia
+1699,NicolA2 Melli,Power Forward and Center,Right,206,107,,2019,2,False,1991-01-26,Italy
+1700,De'Anthony Melton,Point Guard and Shooting Guard,Right,188,90,2018,2018,8,True,1998-05-28,California
+1701,Nathan Mensah,Center,Left,206,104,,2023,1,False,1998-04-09,Ghana
+1702,Sam Merrill,Shooting Guard,Right,193,92,2020,2020,6,True,1996-05-15,Utah
+1703,Chimezie Metu,Center and Power Forward,Right,208,102,2018,2018,6,True,1997-03-22,California
+1704,Vasilije MiciA,Point Guard,Right,190,85,2014,2023,2,False,1994-01-13,Serbia
+1705,Khris Middleton,Small Forward and Shooting Guard,Right,201,100,2012,2012,14,True,1991-08-12,South Carolina
+1706,Eric Mika,Center,Right,208,108,,2020,1,False,1995-01-05,Utah
+1707,C.J. Miles,"Small Forward, Shooting Guard, and Point Guard",Left,198,99,2005,2005,16,False,1987-03-18,Texas
+1708,Brandon Miller,Small Forward,Right,201,90,2023,2023,3,True,2002-11-22,Tennessee
+1709,Darius Miller,Small Forward,Right,198,102,2012,2012,6,False,1990-03-21,Kentucky
+1710,Emanuel Miller,Power Forward,Right,196,97,,2025,2,True,2000-06-19,Ontario
+1711,Jordan Miller,Small Forward,Left,196,87,2023,2023,3,True,2000-01-23,California
+1712,Leonard Miller,Small Forward,Left,208,99,2023,2023,3,True,2003-11-26,Ontario
+1713,Malcolm Miller,Small Forward,Right,201,95,,2017,3,False,1993-03-06,Maryland
+1714,Paul Millsap,Power Forward and Center,Right,201,116,2006,2006,16,False,1985-02-10,Louisiana
+1715,Patty Mills,Point Guard and Shooting Guard,Right,188,81,2009,2010,16,False,1988-08-11,Australia
+1716,Shake Milton,Shooting Guard,Right,196,92,2018,2018,7,True,1996-09-26,Oklahoma
+1717,Justin Minaya,Small Forward,Left,196,92,,2023,3,True,1999-03-26,New Jersey
+1718,Riley Minix,Small Forward,Right,201,104,,2024,2,True,2000-09-22,Florida
+1719,Josh Minott,Small Forward and Power Forward,Right,203,92,2022,2022,4,True,2002-11-25,Florida
+1720,Yves Missi,Center,Right,211,106,2024,2024,2,True,2004-05-14,Belgium
+1721,Ajay Mitchell,Shooting Guard,Left,193,86,2024,2024,2,True,2002-06-25,Belgium
+1722,Davion Mitchell,Point Guard,Right,183,91,2021,2021,5,True,1998-09-05,Georgia
+1723,Donovan Mitchell,Shooting Guard and Point Guard,Right,188,97,2017,2017,9,True,1996-09-07,New York
+1724,Naz Mitrou-Long,Shooting Guard,Right,190,98,,2017,3,False,1993-08-03,Ontario
+1725,Evan Mobley,Power Forward,Right,211,97,2021,2021,5,True,2001-06-18,California
+1726,Isaiah Mobley,Power Forward,Right,203,107,2022,2022,3,False,1999-09-24,California
+1727,Jonathan Mogbo,Power Forward,Right,206,102,2024,2024,2,True,2001-10-29,Florida
+1728,Adam Mokoka,Shooting Guard and Small Forward,Right,193,86,,2019,2,False,1998-07-18,France
+1729,Chima Moneke,Small Forward,Right,196,101,,2022,1,False,1995-12-24,Nigeria
+1730,Malik Monk,Shooting Guard,Right,190,90,2017,2017,9,True,1998-02-04,Arkansas
+1731,Greg Monroe,Center and Power Forward,Left,211,120,2010,2010,10,False,1990-06-04,Louisiana
+1732,Moses Moody,Shooting Guard,Right,196,95,2021,2021,5,True,2002-05-31,Arkansas
+1733,Matt Mooney,Shooting Guard,Right,190,90,,2020,2,False,1996-02-07,Illinois
+1734,Xavier Moon,Shooting Guard,Right,183,74,,2021,3,False,1995-01-02,Alabama
+1735,E'Twaun Moore,Shooting Guard and Point Guard,Right,190,86,2011,2011,10,False,1989-02-25,Indiana
+1736,Taze Moore,Shooting Guard,Left,196,88,,2024,2,False,1998-06-29,Tennessee
+1737,Wendell Moore Jr.,Shooting Guard,Right,196,97,2022,2022,4,True,2001-09-18,Virginia
+1738,Alex Morales,Point Guard,Right,198,81,,2026,1,True,1997-11-21,New Jersey
+1739,Ja Morant,Point Guard,Right,188,78,2019,2019,7,True,1999-08-10,South Carolina
+1740,Juwan Morgan,Power Forward,Right,201,105,,2019,3,False,1997-04-17,Missouri
+1741,Jaylen Morris,Shooting Guard,Right,196,83,,2018,3,False,1995-09-19,New York
+1742,Markieff Morris,Power Forward,Right,206,111,2011,2011,14,False,1989-09-02,Pennsylvania
+1743,Marcus Morris,Power Forward and Small Forward,Right,203,98,2011,2011,13,False,1989-09-02,Pennsylvania
+1744,Monte Morris,Point Guard,Right,188,83,2017,2017,9,True,1995-06-27,Michigan
+1745,Johnathan Motley,Power Forward,Right,203,104,,2017,3,False,1995-05-04,Texas
+1746,Emmanuel Mudiay,Point Guard,Right,190,90,2015,2015,6,False,1996-03-05,Democratic Republic of the Congo
+1747,Mychal Mulder,Point Guard and Small Forward,Right,190,88,,2020,3,False,1994-06-12,Ontario
+1748,Ade Murkey,Shooting Guard,Right,196,90,,2021,1,False,1998-01-29,Minnesota
+1749,Trey Murphy III,Small Forward,Right,203,93,2021,2021,5,True,2000-06-18,North Carolina
+1750,Collin Murray-Boyles,Power Forward,Left,201,111,2025,2025,1,True,2005-06-10,South Carolina
+1751,Dejounte Murray,Point Guard and Shooting Guard,Right,193,81,2016,2016,9,True,1996-09-19,Washington
+1752,Jamal Murray,Point Guard and Shooting Guard,Right,193,97,2016,2016,9,True,1997-02-23,Ontario
+1753,Keegan Murray,Power Forward and Small Forward,Right,203,102,2022,2022,4,True,2000-08-19,Iowa
+1754,Kris Murray,Small Forward,Left,203,98,2023,2023,3,True,2000-08-19,Iowa
+1755,DA34anan Musa,Small Forward and Shooting Guard,Right,206,98,2018,2018,2,False,1999-05-08,Bosnia and Herzegovina
+1756,Mike Muscala,Center and Power Forward,Right,208,108,2013,2014,11,False,1991-07-01,Minnesota
+1757,Svi Mykhailiuk,Small Forward,Right,201,92,2018,2018,8,True,1997-06-10,Ukraine
+1758,Abdel Nader,Small Forward,Right,196,102,2016,2017,5,False,1993-09-25,Egypt
+1759,Larry Nance Jr.,Power Forward and Center,Right,198,111,2015,2015,11,True,1993-01-01,Ohio
+1760,Pete Nance,Power Forward and Center,Right,206,102,,2024,3,True,2000-02-19,Ohio
+1761,Shabazz Napier,Point Guard,Right,183,79,2014,2014,6,False,1991-07-14,Massachusetts
+1762,Grant Nelson,Power Forward,Right,213,97,,2026,1,True,2002-03-18,North Dakota
+1763,Andrew Nembhard,Point Guard and Shooting Guard,Right,193,86,2022,2022,4,True,2000-01-16,Ontario
+1764,RJ Nembhard Jr.,Shooting Guard,Right,196,90,,2021,1,True,1999-03-22,Texas
+1765,Ryan Nembhard,Point Guard,Right,180,81,,2025,1,True,2003-03-10,Ontario
+1766,Aaron Nesmith,Small Forward,Right,196,97,2020,2020,6,True,1999-10-16,South Carolina
+1767,Raul Neto,Point Guard,Right,188,81,2013,2015,8,False,1992-05-19,Brazil
+1768,Asa Newell,Power Forward,Left,208,99,2025,2025,1,True,2005-10-05,Georgia
+1769,Malik Newman,Point Guard and Shooting Guard,Right,190,86,,2020,2,False,1997-02-21,Louisiana
+1770,Tristen Newton,Shooting Guard,Right,196,86,2024,2024,2,True,2001-04-26,Florida
+1771,N'Faly Dante,Center,Right,211,104,,2025,2,True,2001-10-19,Mali
+1772,Georges Niang,Power Forward,Right,198,104,2016,2016,9,True,1993-06-17,Massachusetts
+1773,Daishen Nix,Point Guard and Shooting Guard,Right,190,102,,2021,4,True,2002-02-13,Alaska
+1774,Zeke Nnaji,Power Forward,Right,208,108,2020,2020,6,True,2001-01-09,Minnesota
+1775,Joakim Noah,Center,Right,211,104,2007,2007,13,False,1985-02-25,New York
+1776,Nerlens Noel,Center and Power Forward,Right,208,99,2013,2014,9,False,1994-04-10,Massachusetts
+1777,Miles Norris,Power Forward,Right,201,99,,2025,1,False,2000-04-15,California
+1778,Zach Norvell,Shooting Guard,Left,196,93,,2019,1,False,1997-12-09,Illinois
+1779,Jaylen Nowell,Shooting Guard,Right,193,91,2019,2019,6,True,1999-07-09,Washington
+1780,Markquis Nowell,Shooting Guard,Right,170,72,,2023,1,False,1999-12-25,New York
+1781,Frank Ntilikina,Point Guard and Shooting Guard,Right,193,90,2017,2017,7,False,1998-07-28,Belgium
+1782,James Nunnally,Small Forward,Right,201,92,,2014,3,False,1990-07-14,California
+1783,Kendrick Nunn,Shooting Guard and Point Guard,Left,190,86,,2019,3,False,1995-08-03,Illinois
+1784,Jusuf NurkiA,Center,Right,211,131,2014,2014,12,True,1994-08-23,Bosnia and Herzegovina
+1785,David Nwaba,Small Forward and Shooting Guard,Right,196,99,,2017,6,False,1993-01-14,California
+1786,Jordan Nwora,Small Forward,Right,203,102,2020,2020,4,True,1998-09-09,New York
+1787,Josh Oduro,Power Forward,Right,206,108,,2026,1,True,2000-10-14,Virginia
+1788,Semi Ojeleye,Power Forward,Right,198,108,2017,2017,5,False,1994-12-05,Kansas
+1789,Jahlil Okafor,Center,Right,208,122,2015,2015,7,False,1995-12-15,Illinois
+1790,Toby Okani,Shooting Guard,Right,203,95,,2026,1,True,2001-10-05,New Jersey
+1791,Chuma Okeke,Power Forward and Small Forward,Right,201,103,2019,2020,5,True,1998-08-18,Georgia
+1792,Elie Okobo,Point Guard,Left,190,86,2018,2018,2,False,1997-10-23,France
+1793,Josh Okogie,Shooting Guard,Right,193,96,2018,2018,8,True,1998-09-01,Nigeria
+1794,Onyeka Okongwu,Center,Right,208,108,2020,2021,6,True,2000-12-11,California
+1795,Isaac Okoro,Shooting Guard and Small Forward,Right,193,102,2020,2020,6,True,2001-01-26,Georgia
+1796,KZ Okpala,Power Forward,Right,203,97,2019,2019,4,True,1999-04-28,California
+1797,Victor Oladipo,Shooting Guard and Point Guard,Right,190,96,2013,2013,10,True,1992-05-04,Maryland
+1798,Lachlan Olbrich,Center and Power Forward,Right,203,107,2025,2025,1,True,2003-12-30,Australia
+1799,Quincy Olivari,Point Guard,Right,188,91,,2024,1,True,2001-05-27,Georgia
+1800,Cameron Oliver,Small Forward,Right,203,102,,2021,2,False,1996-07-11,California
+1801,Kelly Olynyk,Center and Power Forward,Right,213,108,2013,2013,13,True,1991-04-19,Ontario
+1802,Norchad Omier,Power Forward,Right,196,112,,2026,1,True,2001-08-28,Nicaragua
+1803,Eugene Omoruyi,Small Forward,Right,198,106,,2021,3,False,1997-02-14,Nigeria
+1804,Royce O'Neale,Small Forward,Right,198,102,,2017,9,True,1993-06-05,Texas
+1805,Miye Oni,Shooting Guard and Small Forward,Right,196,93,2019,2019,3,True,1997-08-04,California
+1806,Kyle O'Quinn,Center and Power Forward,Right,206,113,2012,2012,8,False,1990-03-26,New York
+1807,Cedi Osman,Small Forward,Right,201,104,2015,2017,7,False,1995-04-08,North Macedonia
+1808,Daniel Oturu,Center,Right,208,108,2020,2020,2,True,1999-09-20,New York
+1809,Kelly Oubre Jr.,Small Forward,Left,203,92,2015,2015,11,True,1995-12-09,Louisiana
+1810,Tariq Owens,Power Forward,Right,208,92,,2020,1,False,1995-06-30,New York
+1811,Jaysean Paige,Point Guard,Right,188,90,,2022,1,False,1994-07-30,New York
+1812,Trayvon Palmer,Shooting Guard,Right,198,90,,2021,1,False,1994-11-13,Wisconsin
+1813,Kevin Pangos,Point Guard,Right,185,81,,2021,1,False,1993-01-26,Ontario
+1814,Jeremy Pargo,Point Guard and Shooting Guard,Right,188,99,,2011,3,False,1986-03-17,Illinois
+1815,Jabari Parker,Power Forward,Right,201,111,2014,2014,8,False,1995-03-15,Illinois
+1816,Chandler Parsons,Small Forward and Power Forward,Right,206,104,2011,2011,9,False,1988-10-25,Florida
+1817,Eric Paschall,Power Forward,Right,198,115,2019,2019,3,True,1996-11-04,New York
+1818,AnA34ejs PaseAAiks,Center,Right,216,103,2017,2019,2,False,1995-12-20,Latvia
+1819,Patrick Patterson,Power Forward,Right,203,106,2010,2010,11,False,1989-03-14,District of Columbia
+1820,Justin Patton,Center,Right,211,109,2017,2018,4,False,1997-06-14,Nebraska
+1821,Chris Paul,Point Guard,Right,183,79,2005,2005,21,False,1985-05-06,North Carolina
+1822,Cameron Payne,Point Guard and Shooting Guard,Left,188,83,2015,2015,11,True,1994-08-08,Tennessee
+1823,Elfrid Payton,Point Guard,Right,190,88,2014,2014,9,True,1994-02-22,Louisiana
+1824,Gary Payton II,"Shooting Guard, Point Guard, and Small Forward",Left,188,88,,2017,10,True,1992-12-01,Washington
+1825,Micah Peavy,Shooting Guard,Right,201,97,2025,2025,1,True,2001-07-16,Texas
+1826,Sean Pedulla,Point Guard,Right,185,88,,2026,1,True,2002-10-10,Oklahoma
+1827,Norvel Pelle,Center,Right,208,104,,2019,3,False,1993-02-03,Antigua and Barbuda
+1828,Noah Penda,Small Forward,Right,201,97,2025,2025,1,True,2005-01-07,France
+1829,MAozinha Pereira,Small Forward,Right,203,80,,2024,1,False,2000-08-28,Brazil
+1830,Reggie Perry,Power Forward,Right,203,113,2020,2020,2,True,2000-03-21,Mississippi
+1831,Drew Peterson,Power Forward,Right,203,92,,2023,3,True,1999-11-09,Illinois
+1832,Taelon Peter,Shooting Guard,Right,190,83,2025,2025,1,True,2002-02-27,Arkansas
+1833,Filip PetruAev,Center,Right,211,102,2021,2023,1,False,2000-04-15,Serbia
+1834,Julian Phillips,Small Forward,Right,198,89,2023,2023,3,True,2003-11-05,Texas
+1835,Jamorko Pickett,Small Forward and Power Forward,Right,206,93,,2021,1,False,1997-12-24,District of Columbia
+1836,Jalen Pickett,Shooting Guard,Right,188,91,2023,2023,3,True,1999-10-22,New York
+1837,Theo Pinson,Shooting Guard and Small Forward,Right,196,96,,2018,5,False,1995-11-05,North Carolina
+1838,Scotty Pippen Jr.,Point Guard,Right,188,77,,2022,4,True,2000-11-10,Oregon
+1839,Daeqwon Plowden,Shooting Guard,Right,193,97,,2025,2,True,1998-08-29,Pennsylvania
+1840,Mason Plumlee,Center,Right,213,115,2013,2013,13,True,1990-03-05,Indiana
+1841,Brandin Podziemski,Shooting Guard,Left,193,92,2023,2023,3,True,2003-02-25,Wisconsin
+1842,Jakob Poeltl,Center,Right,213,114,2016,2016,10,True,1995-10-15,Austria
+1843,Vincent Poirier,Center,Right,213,106,,2019,2,False,1993-10-17,France
+1844,Aleksej Pokusevski,Power Forward,Right,213,95,2020,2020,4,False,2001-12-26,Serbia
+1845,Shamorie Ponds,Point Guard,Left,183,79,,2019,1,False,1998-06-29,New York
+1846,Yves Pons,Small Forward,Left,196,93,,2021,1,False,1999-05-07,Haiti
+1847,Jordan Poole,Shooting Guard and Point Guard,Right,193,87,2019,2019,7,True,1999-06-19,Wisconsin
+1848,Craig Porter Jr.,Point Guard,Right,185,81,,2023,3,True,2000-02-26,Indiana
+1849,Jontay Porter,Power Forward,Left,211,108,,2021,2,False,1999-11-15,Missouri
+1850,Kevin Porter Jr.,"Shooting Guard, Point Guard, and Small Forward",Left,196,92,2019,2019,6,True,2000-05-04,Washington
+1851,Michael Porter Jr.,Small Forward,Right,208,98,2018,2019,7,True,1998-06-29,Indiana
+1852,Otto Porter Jr.,Small Forward and Power Forward,Right,203,89,2013,2013,11,False,1993-06-03,Missouri
+1853,Bobby Portis,Power Forward and Center,Right,206,113,2015,2015,11,True,1995-02-10,Arkansas
+1854,Kristaps PorziAAis,Center and Power Forward,Right,218,108,2015,2015,10,True,1995-08-02,Latvia
+1855,Quinten Post,Power Forward,Right,213,107,2024,2024,2,True,2000-03-21,Netherlands
+1856,Micah Potter,Center and Power Forward,Right,206,112,,2022,5,True,1998-04-06,Ohio
+1857,John Poulakidas,Shooting Guard,Left,198,92,,2026,1,True,2003-04-04,Illinois
+1858,Drake Powell,Shooting Guard,Right,196,88,2025,2025,1,True,2005-09-08,North Carolina
+1859,Dwight Powell,Center and Power Forward,Right,208,108,2014,2014,12,True,1991-07-20,Ontario
+1860,Myles Powell,Point Guard,Right,188,88,,2021,1,False,1997-07-07,New Jersey
+1861,Norman Powell,Shooting Guard and Small Forward,Right,190,97,2015,2015,11,True,1993-05-25,California
+1862,Jason Preston,Point Guard,Right,190,82,2021,2022,2,True,1999-08-10,Florida
+1863,Joshua Primo,Shooting Guard and Small Forward,Right,193,85,2021,2021,3,False,2002-12-24,Ontario
+1864,Taurean Prince,Power Forward and Small Forward,Right,198,98,2016,2016,10,True,1994-03-22,Texas
+1865,Payton Pritchard,Point Guard and Shooting Guard,Right,185,88,2020,2020,6,True,1998-01-28,Oregon
+1866,Tyrese Proctor,Point Guard,Right,193,83,2025,2025,1,True,2004-04-01,Australia
+1867,Olivier-Maxence Prosper,Power Forward,Right,201,104,2023,2023,3,True,2002-07-03,Quebec
+1868,Zyon Pullin,Shooting Guard,Right,193,93,,2025,2,True,2001-03-03,California
+1869,Derik Queen,Center,Right,206,113,2025,2025,1,True,2004-12-27,Maryland
+1870,Trevelin Queen,Shooting Guard,Right,196,86,,2021,4,False,1997-02-25,Maryland
+1871,Neemias Queta,Center,Right,213,112,2021,2021,5,True,1999-07-13,Portugal
+1872,Immanuel Quickley,Point Guard and Shooting Guard,Right,188,86,2020,2020,6,True,1999-06-17,Maryland
+1873,Lester QuiAones,Shooting Guard,Right,196,94,,2023,3,True,2000-11-16,New York
+1874,Jahmi'us Ramsey,Shooting Guard,Right,190,86,2020,2020,3,True,2001-06-09,Texas
+1875,Chasson Randle,Point Guard,Right,188,83,,2017,4,False,1993-02-05,Illinois
+1876,Julius Randle,Power Forward and Center,Left,206,113,2014,2014,12,True,1994-11-29,Texas
+1877,Maxime Raynaud,Center and Power Forward,Right,216,113,2025,2025,1,True,2003-04-07,France
+1878,Duop Reath,Center,Right,206,111,,2023,3,True,1996-06-26,South Sudan
+1879,Austin Reaves,Shooting Guard,Right,196,89,,2021,5,True,1998-05-29,Arkansas
+1880,Josh Reaves,Small Forward,Left,193,97,,2020,1,False,1997-06-04,Virginia
+1881,Cam Reddish,Small Forward,Right,201,104,2019,2019,6,True,1999-09-01,Pennsylvania
+1882,JJ Redick,Shooting Guard and Point Guard,Right,190,90,2006,2006,15,False,1984-06-24,Tennessee
+1883,Davon Reed,Shooting Guard,Right,196,93,2017,2018,4,False,1995-06-11,New Jersey
+1884,Paul Reed,Center and Power Forward,Right,206,95,2020,2021,6,True,1999-06-14,Florida
+1885,Alex Reese,Power Forward,Right,206,111,,2024,1,True,1999-05-21,Alabama
+1886,Julian Reese,Power Forward,Left,206,104,,2026,1,True,2003-06-30,Maryland
+1887,Antonio Reeves,Shooting Guard,Right,196,92,2024,2024,2,True,2000-11-20,Illinois
+1888,Naz Reid,Center and Power Forward,Right,206,119,,2019,7,True,1999-08-26,New Jersey
+1889,Cameron Reynolds,Small Forward and Shooting Guard,Left,201,102,,2019,2,False,1995-02-07,Texas
+1890,Jared Rhoden,Shooting Guard,Right,196,95,,2023,3,True,1999-08-27,New York
+1891,Jase Richardson,Shooting Guard,Left,185,81,2025,2025,1,True,2005-10-16,California
+1892,Josh Richardson,Shooting Guard and Small Forward,Right,196,90,2015,2015,10,False,1993-09-15,Oklahoma
+1893,Nick Richards,Center and Power Forward,Right,211,111,2020,2020,6,True,1997-11-29,Jamaica
+1894,Will Richard,Shooting Guard,Right,190,93,2025,2025,1,True,2002-12-24,Georgia
+1895,Kadary Richmond,Shooting Guard,Right,196,92,,2026,1,True,2001-08-25,New York
+1896,Will Riley,Small Forward,Right,206,81,2025,2025,1,True,2006-02-10,Ontario
+1897,Grant Riller,Point Guard,Right,188,86,2020,2021,1,True,1997-02-08,Florida
+1898,Zaccharie Risacher,Small Forward,Right,203,90,2024,2024,2,True,2005-04-08,Spain
+1899,Austin Rivers,Shooting Guard and Point Guard,Right,193,90,2012,2012,11,False,1992-08-01,California
+1900,Liam Robbins,Center,Right,213,113,,2024,1,True,1999-07-12,Iowa
+1901,Andre Roberson,Shooting Guard and Small Forward,Right,201,95,2013,2013,7,False,1991-12-04,New Mexico
+1902,Duncan Robinson,Small Forward and Shooting Guard,Right,201,97,,2018,8,True,1994-04-22,Maine
+1903,Glenn Robinson III,Small Forward and Shooting Guard,Right,198,100,2014,2014,7,False,1994-01-08,Indiana
+1904,Jerome Robinson,Shooting Guard,Right,196,86,2018,2018,4,True,1997-02-22,North Carolina
+1905,Jeremiah Robinson-Earl,Power Forward and Center,Right,206,108,2021,2021,5,True,2000-11-03,Missouri
+1906,Justin Robinson,Point Guard,Left,185,88,,2019,3,False,1997-10-12,Virginia
+1907,Mitchell Robinson,Center,Right,213,108,2018,2018,8,True,1998-04-01,Florida
+1908,Orlando Robinson,Center,Right,208,106,,2022,4,True,2000-07-10,Nevada
+1909,Isaiah Roby,Power Forward,Right,198,104,2019,2020,4,True,1998-02-03,Illinois
+1910,David Roddy,Power Forward,Right,196,115,2022,2022,4,True,2001-03-27,Minnesota
+1911,Ryan Rollins,Point Guard,Right,190,81,2022,2022,4,True,2002-07-03,Michigan
+1912,Rajon Rondo,Point Guard,Right,185,81,2006,2006,16,False,1986-02-22,Kentucky
+1913,Derrick Rose,Point Guard,Right,190,90,2008,2008,15,False,1988-10-04,Illinois
+1914,Terrence Ross,Shooting Guard and Small Forward,Right,198,93,2012,2012,11,False,1991-02-05,Oregon
+1915,Jackson Rowe,Power Forward,Right,198,95,,2025,1,True,1997-01-04,Ontario
+1916,Terry Rozier,Point Guard and Shooting Guard,Right,185,86,2015,2015,10,True,1994-03-17,Ohio
+1917,Ricky Rubio,Point Guard,Right,188,86,2009,2011,12,False,1990-10-21,Spain
+1918,Rayan Rupert,Shooting Guard,Right,201,92,2023,2023,3,True,2004-05-31,France
+1919,D'Angelo Russell,Point Guard,Left,190,87,2015,2015,11,True,1996-02-23,Kentucky
+1920,Cormac Ryan,Shooting Guard,Right,196,88,,2026,1,True,1998-10-26,New York
+1921,Matt Ryan,Small Forward,Right,198,97,,2022,4,True,1997-04-17,New York
+1922,Domantas Sabonis,Center and Power Forward,Left,208,108,2016,2016,10,True,1996-05-03,Oregon
+1923,Tidjane SalaA14n,Power Forward,Right,208,93,2024,2024,2,True,2005-08-10,France
+1924,Hunter Sallis,Shooting Guard,Right,193,83,,2025,1,True,2003-03-26,Nebraska
+1925,Luka A amaniA,Power Forward,Right,208,102,2019,2020,4,False,2000-01-09,Croatia
+1926,JaKarr Sampson,Small Forward and Power Forward,Right,201,97,,2014,6,False,1993-03-20,Ohio
+1927,Jermaine Samuels,Small Forward,Right,198,104,,2023,1,False,1998-11-13,Massachusetts
+1928,Kobe Sanders,Shooting Guard,Right,203,93,2025,2025,1,True,2002-05-30,California
+1929,Payton Sandfort,Small Forward,Right,201,97,,2026,1,True,2002-12-04,Iowa
+1930,Adama Sanogo,Power Forward and Center,Right,206,111,,2023,2,False,2002-02-12,Mali
+1931,Gui Santos,Power Forward,Right,201,83,2022,2023,3,True,2002-06-22,Brazil
+1932,Ben Saraf,Shooting Guard,Left,198,90,2025,2025,1,True,2006-04-14,South Africa
+1933,Dario A ariA,Center and Power Forward,Right,208,102,2014,2016,9,True,1994-04-08,Croatia
+1934,Alex Sarr,Center and Power Forward,Right,213,92,2024,2024,2,True,2005-04-26,France
+1935,Olivier Sarr,Center,Right,208,108,,2021,4,True,1999-02-20,France
+1936,Marcus Sasser,Point Guard,Right,185,88,2023,2023,3,True,2000-09-21,Texas
+1937,TomAA SatoranskA12,"Shooting Guard, Point Guard, and Small Forward",Right,201,95,2012,2016,6,False,1991-10-30,Czechia
+1938,Jordan Schakel,Small Forward and Shooting Guard,Right,198,90,,2021,2,False,1998-06-13,California
+1939,Baylor Scheierman,Shooting Guard,Left,198,92,2024,2024,2,True,2000-09-26,Nebraska
+1940,Admiral Schofield,Power Forward and Small Forward,Right,196,109,2019,2019,4,True,1997-03-30,United Kingdom
+1941,Dennis SchrAder,Point Guard and Shooting Guard,Right,185,79,2013,2013,13,True,1993-09-15,Germany
+1942,Mike Scott,Power Forward,Right,201,107,2012,2012,9,False,1988-07-16,Virginia
+1943,Tre Scott,Power Forward and Small Forward,Right,203,102,,2021,2,True,1996-11-25,Georgia
+1944,Jay Scrubb,Shooting Guard,Left,196,99,2020,2021,3,True,2000-09-01,Kentucky
+1945,Dereon Seabron,Shooting Guard,Right,196,81,,2022,2,True,2000-05-26,Virginia
+1946,Mark Sears,Point Guard,Left,183,83,,2025,1,True,2002-02-19,Alabama
+1947,Thabo Sefolosha,"Shooting Guard, Small Forward, and Power Forward",Right,198,97,2006,2006,14,False,1984-05-02,Switzerland
+1948,Wayne Selden,Shooting Guard,Right,193,105,,2017,4,False,1994-09-30,Massachusetts
+1949,Alperen AengA14n,Center,Right,211,110,2021,2021,5,True,2002-07-25,Turkey
+1950,Brice Sensabaugh,Small Forward,Right,198,106,2023,2023,3,True,2003-10-30,Florida
+1951,Collin Sexton,Shooting Guard and Point Guard,Right,190,86,2018,2018,8,True,1999-01-04,Georgia
+1952,Landry Shamet,Shooting Guard,Right,196,86,2018,2018,8,True,1997-03-13,Missouri
+1953,Terrence Shannon Jr.,Shooting Guard,Left,198,97,2024,2024,2,True,2000-07-30,Illinois
+1954,Day'Ron Sharpe,Center and Power Forward,Right,208,120,2021,2021,5,True,2001-11-06,North Carolina
+1955,Shaedon Sharpe,Shooting Guard,Right,196,95,2022,2022,4,True,2003-05-30,Ontario
+1956,Marial Shayok,Shooting Guard,Right,196,89,2019,2020,1,True,1995-07-26,Ontario
+1957,Jamal Shead,Point Guard,Right,185,90,2024,2024,2,True,2002-06-24,Texas
+1958,Ben Sheppard,Shooting Guard,Right,198,86,2023,2023,3,True,2001-07-16,Georgia
+1959,Reed Sheppard,Shooting Guard and Point Guard,Right,188,83,2024,2024,2,True,2004-06-24,Kentucky
+1960,Max Shulga,Shooting Guard,Right,193,95,2025,2026,1,True,2002-06-25,Ukraine
+1961,Iman Shumpert,"Shooting Guard, Small Forward, and Point Guard",Right,196,96,2011,2011,10,False,1990-06-26,Illinois
+1962,Pascal Siakam,Power Forward,Right,203,111,2016,2016,10,True,1994-04-02,Cameroon
+1963,Chris Silva,Power Forward,Right,203,106,,2019,4,False,1996-09-19,Gabon
+1964,Ben Simmons,Point Guard,Left,208,108,2016,2017,7,False,1996-07-20,Australia
+1965,Kobi Simmons,Point Guard and Shooting Guard,Right,196,81,,2017,4,False,1997-07-04,Georgia
+1966,Anfernee Simons,Shooting Guard,Right,190,90,2018,2018,8,True,1999-06-08,Florida
+1967,Marko Simonovic,Center,Right,213,99,2020,2021,2,False,1999-10-15,Montenegro
+1968,KJ Simpson,Point Guard,Right,188,85,2024,2024,2,True,2002-08-08,California
+1969,Zavier Simpson,Point Guard,Right,183,86,,2022,2,False,1997-02-11,Ohio
+1970,Jaylen Sims,Shooting Guard,Right,198,95,,2025,1,False,1998-12-11,North Carolina
+1971,Jericho Sims,Center and Power Forward,Right,208,113,2021,2021,5,True,1998-10-20,Minnesota
+1972,Deividas Sirvydis,Shooting Guard,Left,203,86,2019,2021,2,False,2000-06-10,Lithuania
+1973,Dmytro Skapintsev,Center,Right,216,117,,2023,1,False,1998-05-12,Ukraine
+1974,Jalen Slawson,Small Forward,Right,201,97,2023,2023,2,True,1999-10-22,South Carolina
+1975,Alen SmailagiA,Power Forward and Center,Right,208,97,2019,2019,2,False,2000-08-18,Serbia
+1976,Javon Small,Point Guard,Right,185,86,2025,2025,1,True,2002-12-19,Indiana
+1977,Javonte Smart,Point Guard,Right,193,92,,2021,2,True,1999-06-03,Louisiana
+1978,Marcus Smart,Point Guard and Shooting Guard,Right,190,99,2014,2014,12,True,1994-03-06,Texas
+1979,Dennis Smith Jr.,Point Guard,Right,188,92,2017,2017,7,True,1997-11-25,North Carolina
+1980,Dru Smith,Shooting Guard,Right,188,92,,2022,4,True,1997-12-30,Indiana
+1981,Ish Smith,Point Guard,Right,183,79,,2010,14,False,1988-07-05,North Carolina
+1982,Jalen Smith,Center and Power Forward,Right,203,97,2020,2020,6,True,2000-03-16,Virginia
+1983,Jabari Smith Jr.,Power Forward,Right,211,99,2022,2022,4,True,2003-05-13,Georgia
+1984,J.R. Smith,Shooting Guard and Small Forward,Right,198,102,2004,2004,16,False,1985-09-09,New Jersey
+1985,Malachi Smith,Shooting Guard,Right,193,92,,2026,1,True,1999-12-06,Indiana
+1986,Nick Smith Jr.,Shooting Guard,Right,188,83,2023,2023,3,True,2004-04-18,Arkansas
+1987,Terquavion Smith,Point Guard,Right,193,72,,2024,1,False,2002-12-31,North Carolina
+1988,Tolu Smith,Power Forward,Right,211,115,,2025,2,True,2000-07-26,Mississippi
+1989,Tyler Smith,Power Forward,Left,206,101,2024,2024,2,True,2004-11-02,Louisiana
+1990,Zhaire Smith,Shooting Guard and Small Forward,Right,190,92,2018,2019,2,True,1999-06-04,Texas
+1991,Xavier Sneed,Small Forward,Right,196,97,,2021,2,False,1997-12-21,Missouri
+1992,Tony Snell,Shooting Guard and Small Forward,Right,198,96,2013,2013,9,False,1991-11-10,California
+1993,Jeremy Sochan,Power Forward,Right,203,104,2022,2022,4,True,2003-05-20,Oklahoma
+1994,Ray Spalding,Power Forward and Center,Right,208,97,2018,2018,2,True,1997-03-11,Kentucky
+1995,Omari Spellman,Center and Power Forward,Right,203,111,2018,2018,2,True,1997-07-21,Ohio
+1996,Cam Spencer,Shooting Guard,Right,190,92,2024,2024,2,True,2000-04-06,Maryland
+1997,Pat Spencer,Point Guard,Right,188,92,,2024,3,True,1996-07-04,Maryland
+1998,Jaden Springer,Shooting Guard and Point Guard,Right,193,91,2021,2021,4,True,2002-09-25,North Carolina
+1999,Cassius Stanley,Shooting Guard,Right,196,86,2020,2020,2,True,1999-08-18,California
+2000,Nik Stauskas,Shooting Guard,Right,198,92,2014,2014,6,False,1993-10-07,Ontario
+2001,Lance Stephenson,"Shooting Guard, Small Forward, and Point Guard",Right,198,104,2010,2011,10,False,1990-09-05,New York
+2002,Isaiah Stevens,Point Guard,Right,180,83,,2025,2,True,2000-11-01,Texas
+2003,Lamar Stevens,Power Forward and Small Forward,Right,201,104,,2020,5,False,1997-07-09,Pennsylvania
+2004,Isaiah Stewart,Center and Power Forward,Right,203,113,2020,2020,6,True,2001-05-22,New York
+2005,Julian Strawther,Shooting Guard and Small Forward,Right,198,92,2023,2023,3,True,2002-04-18,Nevada
+2006,Max Strus,Small Forward,Right,196,97,,2019,7,True,1996-03-28,Illinois
+2007,Jalen Suggs,Point Guard and Shooting Guard,Right,196,92,2021,2021,5,True,2001-06-03,Minnesota
+2008,Edmond Sumner,Shooting Guard and Point Guard,Right,193,86,2017,2018,5,False,1995-12-31,Michigan
+2009,Caleb Swanigan,Power Forward and Center,Right,206,117,2017,2017,3,False,1997-04-18,Indiana
+2010,Cole Swider,Small Forward,Right,208,99,,2022,3,False,1999-05-08,Rhode Island
+2011,Craig Sword,Shooting Guard,Right,190,88,,2021,1,False,1994-01-16,Alabama
+2012,Keifer Sykes,Point Guard,Right,180,75,,2021,1,False,1993-12-30,Illinois
+2013,Jae'Sean Tate,Small Forward and Power Forward,Left,193,104,,2020,6,True,1995-10-28,Ohio
+2014,Jayson Tatum,Small Forward and Power Forward,Right,203,95,2017,2017,9,True,1998-03-03,Missouri
+2015,Terry Taylor,Power Forward,Left,196,104,,2022,4,False,1999-09-23,Kentucky
+2016,Jeff Teague,Point Guard,Right,190,88,2009,2009,12,False,1988-06-10,Indiana
+2017,Jahmyl Telfort,Power Forward,Right,201,102,,2025,1,True,2001-04-30,Quebec
+2018,Garrett Temple,"Shooting Guard, Small Forward, and Point Guard",Right,196,88,,2010,16,True,1986-05-08,Louisiana
+2019,Dalen Terry,Shooting Guard,Right,198,88,2022,2022,4,True,2002-07-12,Arizona
+2020,Emanuel Terry,Power Forward,Right,206,99,,2019,2,False,1996-08-21,Alabama
+2021,Tyrell Terry,Point Guard,Right,188,72,2020,2020,2,True,2000-09-28,Minnesota
+2022,Jon Teske,Center,Right,216,120,,2022,1,False,1997-05-04,Indiana
+2023,Daniel Theis,Center,Right,203,111,,2017,8,False,1992-04-04,Germany
+2024,Adou Thiero,Small Forward and Power Forward,Right,201,99,2025,2025,1,True,2004-05-08,Utah
+2025,Brodric Thomas,Shooting Guard,Right,196,83,,2020,2,False,1997-01-28,Illinois
+2026,Cam Thomas,Shooting Guard,Right,190,95,2021,2021,5,True,2001-10-13,Japan
+2027,Isaiah Thomas,Point Guard and Shooting Guard,Left,175,83,2011,2011,12,False,1989-02-07,Washington
+2028,Khyri Thomas,Shooting Guard,Right,190,95,2018,2018,3,True,1996-05-08,Nebraska
+2029,Lance Thomas,Power Forward and Small Forward,Right,203,108,,2011,9,False,1988-04-24,New York
+2030,Matt Thomas,Shooting Guard,Right,190,86,,2019,3,False,1994-08-04,Illinois
+2031,Amen Thompson,Small Forward and Point Guard,Right,201,90,2023,2023,3,True,2003-01-30,California
+2032,Ausar Thompson,Small Forward,Right,201,92,2023,2023,3,True,2003-01-30,California
+2033,Ethan Thompson,Shooting Guard,Right,193,88,,2025,1,True,1999-05-04,California
+2034,Klay Thompson,Shooting Guard and Small Forward,Right,196,99,2011,2011,13,True,1990-02-08,California
+2035,Tristan Thompson,Center and Power Forward,Left,206,115,2011,2011,14,False,1991-03-13,Ontario
+2036,JT Thor,Power Forward,Left,206,92,2021,2021,4,False,2002-08-26,Nebraska
+2037,Sindarius Thornwell,Shooting Guard and Small Forward,Right,193,97,2017,2017,4,False,1994-11-15,South Carolina
+2038,Matisse Thybulle,Shooting Guard and Small Forward,Right,196,91,2019,2019,7,True,1997-03-04,Arizona
+2039,Killian Tillie,Center,Right,206,99,,2021,2,False,1998-03-05,France
+2040,Xavier Tillman Sr.,Center and Power Forward,Right,203,111,2020,2021,6,True,1999-01-12,Michigan
+2041,Drew Timme,Power Forward,Right,206,106,,2025,2,True,2000-09-09,Texas
+2042,Isaiah Todd,Power Forward,Right,206,99,2021,2021,2,False,2001-10-17,Maryland
+2043,Anthony Tolliver,Power Forward and Small Forward,Right,203,108,,2008,13,False,1985-06-01,Missouri
+2044,Nae'Qwan Tomlin,Power Forward,Right,203,95,,2025,2,True,2000-12-10,New York
+2045,John Tonje,Shooting Guard,Right,193,98,2025,2026,1,True,2001-04-23,Nebraska
+2046,Nikola TopiA,Point Guard,Right,198,90,2024,2026,1,True,2005-08-10,Serbia
+2047,Jacob Toppin,Small Forward,Right,206,90,,2023,3,True,2000-05-08,New York
+2048,Obi Toppin,Power Forward,Right,206,99,2020,2020,6,True,1998-03-04,New York
+2049,Juan Toscano-Anderson,Small Forward and Shooting Guard,Right,198,94,,2020,5,False,1993-04-10,California
+2050,Axel Toupane,Small Forward,Right,201,95,,2016,3,False,1992-07-23,France
+2051,Karl-Anthony Towns,Center and Power Forward,Right,213,112,2015,2015,11,True,1995-11-15,New Jersey
+2052,Nolan TraorA,Point Guard,Right,190,83,2025,2025,1,True,2006-05-28,France
+2053,Luke Travers,Shooting Guard,Right,198,93,2022,2024,2,True,2001-09-03,Australia
+2054,Gary Trent Jr.,Shooting Guard and Small Forward,Right,196,92,2018,2018,8,True,1999-01-18,Ohio
+2055,Allonzo Trier,Shooting Guard,Right,193,90,,2018,2,False,1996-01-17,Washington
+2056,Oscar Tshiebwe,Center and Power Forward,Right,203,115,,2023,3,True,1999-11-27,Democratic Republic of the Congo
+2057,P.J. Tucker,"Small Forward, Power Forward, and Shooting Guard",Right,196,111,2006,2006,14,False,1985-05-05,North Carolina
+2058,Rayjon Tucker,Shooting Guard and Point Guard,Right,190,94,,2019,3,False,1997-09-24,North Carolina
+2059,Evan Turner,"Small Forward, Shooting Guard, and Point Guard",Right,198,99,2010,2010,10,False,1988-10-27,Illinois
+2060,Myles Turner,Center,Right,211,113,2015,2015,11,True,1996-03-24,Texas
+2061,Hunter Tyson,Power Forward,Right,203,97,2023,2023,3,True,2000-06-13,North Carolina
+2062,Jaylon Tyson,Shooting Guard,Right,198,97,2024,2024,2,True,2002-12-02,Texas
+2063,Stanley Umude,Shooting Guard,Right,198,95,,2023,4,True,1999-04-12,Oregon
+2064,Jarrod Uthoff,Power Forward,Right,206,99,,2017,2,False,1993-05-19,Iowa
+2065,Jonas ValanAiAnas,Center,Right,211,120,2011,2012,14,True,1992-05-06,Lithuania
+2066,Denzel Valentine,Shooting Guard and Small Forward,Right,193,99,2016,2016,5,False,1993-11-16,Michigan
+2067,Jarred Vanderbilt,Power Forward,Left,203,97,2018,2019,8,True,1999-04-03,Texas
+2068,Fred VanVleet,Point Guard and Shooting Guard,Right,183,89,,2016,9,True,1994-02-25,Illinois
+2069,Anderson VarejAo,Center and Power Forward,Right,211,123,2004,2004,14,False,1982-09-28,Brazil
+2070,Devin Vassell,Shooting Guard and Small Forward,Right,196,90,2020,2020,6,True,2000-08-23,Georgia
+2071,Sasha Vezenkov,Power Forward,Left,203,102,2017,2023,1,False,1995-08-06,Cyprus
+2072,Gabe Vincent,Point Guard,Right,188,90,,2020,7,True,1996-06-14,California
+2073,Noah Vonleh,Power Forward and Center,Right,208,116,2014,2014,8,False,1995-08-24,Massachusetts
+2074,Nikola VuAeviA,Center,Right,206,117,2011,2011,15,True,1990-10-24,Switzerland
+2075,Tristan Vukcevic,Center,Right,213,99,2023,2024,3,True,2003-03-11,Italy
+2076,Dean Wade,Power Forward,Right,206,103,,2019,7,True,1996-11-20,Kansas
+2077,Franz Wagner,Small Forward,Right,208,99,2021,2021,5,True,2001-08-27,Germany
+2078,Moritz Wagner,Center,Right,211,111,2018,2018,8,True,1997-04-26,Germany
+2079,Ish Wainright,Small Forward and Power Forward,Right,196,113,,2021,3,False,1994-09-12,Missouri
+2080,Dion Waiters,Shooting Guard,Right,190,97,2012,2012,8,False,1991-12-10,Pennsylvania
+2081,Jabari Walker,Power Forward,Right,201,107,2022,2022,4,True,2002-07-30,Kansas
+2082,Jarace Walker,Power Forward,Right,201,106,2023,2023,3,True,2003-09-04,Pennsylvania
+2083,Kemba Walker,Point Guard,Right,183,83,2011,2011,12,False,1990-05-08,New York
+2084,Lonnie Walker IV,Shooting Guard,Right,193,92,2018,2019,7,True,1998-12-14,Pennsylvania
+2085,M.J. Walker,Shooting Guard,Right,196,96,,2021,1,True,1998-03-28,Georgia
+2086,Cason Wallace,Shooting Guard,Right,190,88,2023,2023,3,True,2003-11-07,Texas
+2087,Keaton Wallace,Point Guard,Left,190,83,,2024,2,True,1999-02-26,Texas
+2088,Tyrone Wallace,Shooting Guard and Point Guard,Left,196,89,2016,2018,4,False,1994-06-10,California
+2089,John Wall,Point Guard,Right,190,95,2010,2010,11,False,1990-09-06,North Carolina
+2090,Jordan Walsh,Power Forward and Small Forward,Right,198,92,2023,2024,3,True,2004-03-03,Texas
+2091,Ja'Kobe Walter,Shooting Guard,Right,193,81,2024,2024,2,True,2004-09-04,Texas
+2092,Derrick Walton,Point Guard,Right,183,85,,2017,3,False,1995-04-03,Michigan
+2093,Brad Wanamaker,Point Guard,Right,190,95,,2018,4,False,1989-07-25,Pennsylvania
+2094,Kel'el Ware,Center,Right,213,104,2024,2024,2,True,2004-04-20,Arkansas
+2095,T.J. Warren,Small Forward and Power Forward,Right,203,99,2014,2014,9,False,1993-09-05,North Carolina
+2096,Duane Washington Jr.,Shooting Guard and Point Guard,Right,188,89,,2021,2,False,2000-03-24,Germany
+2097,P.J. Washington,Power Forward and Center,Right,201,104,2019,2019,7,True,1998-08-23,Kentucky
+2098,TyTy Washington Jr.,Point Guard,Right,190,88,2022,2022,4,True,2001-11-15,Arizona
+2099,Yuta Watanabe,Small Forward,Left,206,97,,2018,6,False,1994-10-13,Japan
+2100,Lindy Waters III,Shooting Guard,Right,196,95,,2022,5,True,1997-07-28,Oklahoma
+2101,Tremont Waters,Point Guard,Right,178,79,2019,2019,3,True,1998-01-10,Connecticut
+2102,Trendon Watford,Power Forward and Small Forward,Right,203,107,,2021,5,True,2000-11-09,Alabama
+2103,Jamir Watkins,Shooting Guard,Right,198,95,2025,2025,1,True,2001-07-06,New Jersey
+2104,Anton Watson,Small Forward,Right,203,102,2024,2025,1,True,2000-10-06,Idaho
+2105,Paul Watson,Small Forward,Right,198,95,,2020,3,False,1994-12-30,Arizona
+2106,Peyton Watson,Small Forward and Shooting Guard,Right,203,90,2022,2022,4,True,2002-09-11,California
+2107,Quinndary Weatherspoon,Shooting Guard,Right,190,93,2019,2020,3,True,1996-09-10,Mississippi
+2108,Jaylen Wells,Shooting Guard and Small Forward,Right,201,93,2024,2024,2,True,2003-08-26,California
+2109,Victor Wembanyama,Center and Power Forward,Right,224,106,2023,2023,3,True,2004-01-04,France
+2110,Blake Wesley,Shooting Guard,Right,193,86,2022,2022,4,True,2003-03-16,Indiana
+2111,Russell Westbrook,Point Guard and Small Forward,Right,193,90,2008,2008,18,True,1988-11-12,California
+2112,Phillip Wheeler,Power Forward,Right,203,83,,2025,1,True,2002-04-23,New Jersey
+2113,Coby White,Shooting Guard and Point Guard,Right,193,88,2019,2019,7,True,2000-02-16,North Carolina
+2114,Dariq Whitehead,Small Forward,Right,198,99,2023,2023,3,True,2004-08-01,New Jersey
+2115,Derrick White,Shooting Guard and Point Guard,Right,193,86,2017,2017,9,True,1994-07-02,Colorado
+2116,Hassan Whiteside,Center,Right,213,120,2010,2010,10,False,1989-06-13,North Carolina
+2117,Jack White,Small Forward,Right,201,102,,2022,2,False,1997-08-05,Australia
+2118,Cam Whitmore,Small Forward,Right,198,104,2023,2023,3,True,2004-07-08,Maryland
+2119,Greg Whittington,Power Forward,Right,203,95,,2021,1,False,1993-02-07,Maryland
+2120,Joe Wieskamp,Small Forward and Shooting Guard,Right,198,92,2021,2021,2,False,1999-08-23,Iowa
+2121,Aaron Wiggins,Shooting Guard,Right,196,86,2021,2021,5,True,1999-01-02,North Carolina
+2122,Andrew Wiggins,Small Forward and Power Forward,Right,198,89,2014,2014,12,True,1995-02-23,Ontario
+2123,Lindell Wigginton,Point Guard,Right,185,85,,2022,3,False,1998-03-28,Nova Scotia
+2124,Alondes Williams,Shooting Guard,Right,193,95,,2022,4,True,1999-06-19,Wisconsin
+2125,Amari Williams,Power Forward and Center,Left,211,113,2025,2025,1,True,2002-01-28,United Kingdom
+2126,Brandon Williams,Point Guard,Right,185,86,,2021,4,True,1999-11-22,California
+2127,Cody Williams,Shooting Guard,Right,203,86,2024,2024,2,True,2004-11-20,California
+2128,Donovan Williams,Shooting Guard,Right,198,86,,2023,1,True,2001-09-06,Texas
+2129,Grant Williams,Power Forward,Right,201,107,2019,2019,7,True,1998-11-30,Texas
+2130,Jalen Williams,Shooting Guard and Power Forward,Right,196,95,2022,2022,4,True,2001-04-14,Colorado
+2131,Jaylin Williams,Power Forward and Center,Right,206,108,2022,2022,4,True,2002-06-29,Arkansas
+2132,Nate Williams,Shooting Guard,Left,196,92,,2023,4,True,1999-02-12,New York
+2133,Johnathan Williams,Power Forward and Center,Left,206,103,,2018,2,False,1995-05-22,Tennessee
+2134,Kenrich Williams,Power Forward and Small Forward,Right,201,95,,2018,8,True,1994-12-02,Texas
+2135,Lou Williams,Point Guard and Shooting Guard,Right,188,79,2005,2005,17,False,1986-10-27,Tennessee
+2136,Lucas Williamson,Shooting Guard,Right,193,92,,2026,1,True,1999-01-28,Illinois
+2137,Marvin Williams,Power Forward and Small Forward,Right,203,107,2005,2005,15,False,1986-06-19,Washington
+2138,Mark Williams,Center,Right,216,108,2022,2022,4,True,2001-12-16,Virginia
+2139,Malik Williams,Center,Right,211,113,,2024,1,True,1998-08-26,Indiana
+2140,Nigel Williams-Goss,Point Guard,Right,188,86,2017,2019,1,False,1994-09-16,Oregon
+2141,Patrick Williams,Power Forward,Right,198,97,2020,2020,6,True,2001-08-26,North Carolina
+2142,Robert Williams,Center,Right,206,112,2018,2018,8,True,1997-10-17,Louisiana
+2143,Vince Williams Jr.,Shooting Guard and Point Guard,Left,193,92,2022,2022,4,True,2000-08-30,Ohio
+2144,Zion Williamson,Power Forward,Left,198,128,2019,2020,6,True,2000-07-06,North Carolina
+2145,Ziaire Williams,Small Forward,Right,206,83,2021,2021,5,True,2001-09-12,California
+2146,D.J. Wilson,Power Forward,Right,208,104,2017,2017,6,False,1996-02-19,California
+2147,Jalen Wilson,Power Forward,Right,198,99,2023,2023,3,True,2000-11-04,Texas
+2148,Dylan Windler,Small Forward,Left,201,88,2019,2020,4,True,1996-09-22,Indiana
+2149,Justise Winslow,"Power Forward, Small Forward, and Shooting Guard",Left,198,100,2015,2015,8,False,1996-03-26,Texas
+2150,Cassius Winston,Point Guard,Right,185,83,2020,2021,2,True,1998-02-28,Michigan
+2151,James Wiseman,Center,Left,211,108,2020,2020,5,True,2001-03-31,Tennessee
+2152,Danny Wolf,Power Forward,Right,211,113,2025,2025,1,True,2004-05-05,Illinois
+2153,Isaiah Wong,Shooting Guard,Right,190,83,2023,2023,2,False,2001-01-28,New Jersey
+2154,Robert Woodard II,Small Forward,Right,198,106,2020,2020,2,True,1999-09-22,Mississippi
+2155,Christian Wood,Power Forward and Center,Right,203,97,,2015,8,False,1995-09-27,California
+2156,Delon Wright,Point Guard and Shooting Guard,Right,193,83,2015,2015,10,True,1992-04-26,California
+2157,Justin Wright-Foreman,Point Guard,Left,183,86,2019,2020,1,True,1997-10-27,New York
+2158,McKinley Wright IV,Point Guard,Right,180,87,,2021,2,False,1998-10-25,Minnesota
+2159,Moses Wright,Power Forward,Right,203,102,,2021,1,False,1998-12-23,North Carolina
+2160,Guerschon Yabusele,Center and Power Forward,Right,201,120,2016,2017,4,True,1995-12-17,France
+2161,Yang Hansen,Center,Right,216,122,2025,2025,1,True,2005-06-26,China
+2162,Gabe York,Shooting Guard,Right,190,83,,2022,2,False,1993-08-02,California
+2163,Chris Youngblood,Shooting Guard,Right,193,100,,2025,1,True,2002-02-09,Alabama
+2164,Jahmir Young,Point Guard,Left,183,83,,2025,2,True,2000-10-07,Maryland
+2165,Thaddeus Young,Power Forward,Left,203,102,2007,2007,17,False,1988-06-21,Louisiana
+2166,Trae Young,Point Guard,Right,188,74,2018,2018,8,True,1998-09-19,Texas
+2167,Omer Yurtseven,Center,Right,211,124,,2021,4,True,1998-06-19,Uzbekistan
+2168,Cody Zeller,Center,Right,211,108,2013,2013,11,False,1992-10-05,Indiana
+2169,Tyler Zeller,Center,Right,213,114,2012,2012,8,False,1990-01-17,California
+2170,Rocco Zikarsky,Center,Left,221,102,2025,2026,1,True,2006-07-11,Australia
+2171,Ante A12iA34iA,Center,Right,208,120,2016,2017,3,False,1997-01-04,Croatia
+2172,Ivica Zubac,Center,Right,213,108,2016,2016,10,True,1997-03-18,Bosnia and Herzegovina

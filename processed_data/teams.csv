@@ -1,0 +1,31 @@
+﻿team_id,team_name,league,from_year,to_year,years
+1,Atlanta Hawks,NBA,1949,2025,77
+2,Boston Celtics,NBA/BAA,1946,2025,80
+3,Brooklyn Nets,NBA/ABA,1967,2025,59
+4,Charlotte Hornets,NBA,1988,2025,36
+5,Chicago Bulls,NBA,1966,2025,60
+6,Cleveland Cavaliers,NBA,1970,2025,56
+7,Dallas Mavericks,NBA,1980,2025,46
+8,Denver Nuggets,NBA/ABA,1967,2025,59
+9,Detroit Pistons,NBA/BAA,1948,2025,78
+10,Golden State Warriors,NBA/BAA,1946,2025,80
+11,Houston Rockets,NBA,1967,2025,59
+12,Indiana Pacers,NBA/ABA,1967,2025,59
+13,Los Angeles Clippers,NBA,1970,2025,56
+14,Los Angeles Lakers,NBA/BAA,1948,2025,78
+15,Memphis Grizzlies,NBA,1995,2025,31
+16,Miami Heat,NBA,1988,2025,38
+17,Milwaukee Bucks,NBA,1968,2025,58
+18,Minnesota Timberwolves,NBA,1989,2025,37
+19,New Orleans Pelicans,NBA,2002,2025,24
+20,New York Knicks,NBA/BAA,1946,2025,80
+21,Oklahoma City Thunder,NBA,1967,2025,59
+22,Orlando Magic,NBA,1989,2025,37
+23,Philadelphia 76ers,NBA,1949,2025,77
+24,Phoenix Suns,NBA,1968,2025,58
+25,Portland Trail Blazers,NBA,1970,2025,56
+26,Sacramento Kings,NBA/BAA,1948,2025,78
+27,San Antonio Spurs,NBA/ABA,1967,2025,59
+28,Toronto Raptors,NBA,1995,2025,31
+29,Utah Jazz,NBA,1974,2025,52
+30,Washington Wizards,NBA,1961,2025,65
