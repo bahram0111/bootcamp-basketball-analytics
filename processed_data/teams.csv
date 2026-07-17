@@ -1,31 +1,31 @@
-﻿team_id,team_name,league,from_year,to_year,years
-1,Atlanta Hawks,NBA,1949,2025,77
-2,Boston Celtics,NBA/BAA,1946,2025,80
-3,Brooklyn Nets,NBA/ABA,1967,2025,59
-4,Charlotte Hornets,NBA,1988,2025,36
-5,Chicago Bulls,NBA,1966,2025,60
-6,Cleveland Cavaliers,NBA,1970,2025,56
-7,Dallas Mavericks,NBA,1980,2025,46
-8,Denver Nuggets,NBA/ABA,1967,2025,59
-9,Detroit Pistons,NBA/BAA,1948,2025,78
-10,Golden State Warriors,NBA/BAA,1946,2025,80
-11,Houston Rockets,NBA,1967,2025,59
-12,Indiana Pacers,NBA/ABA,1967,2025,59
-13,Los Angeles Clippers,NBA,1970,2025,56
-14,Los Angeles Lakers,NBA/BAA,1948,2025,78
-15,Memphis Grizzlies,NBA,1995,2025,31
-16,Miami Heat,NBA,1988,2025,38
-17,Milwaukee Bucks,NBA,1968,2025,58
-18,Minnesota Timberwolves,NBA,1989,2025,37
-19,New Orleans Pelicans,NBA,2002,2025,24
-20,New York Knicks,NBA/BAA,1946,2025,80
-21,Oklahoma City Thunder,NBA,1967,2025,59
-22,Orlando Magic,NBA,1989,2025,37
-23,Philadelphia 76ers,NBA,1949,2025,77
-24,Phoenix Suns,NBA,1968,2025,58
-25,Portland Trail Blazers,NBA,1970,2025,56
-26,Sacramento Kings,NBA/BAA,1948,2025,78
-27,San Antonio Spurs,NBA/ABA,1967,2025,59
-28,Toronto Raptors,NBA,1995,2025,31
-29,Utah Jazz,NBA,1974,2025,52
-30,Washington Wizards,NBA,1961,2025,65
+﻿team_id,team_name,league,from_year,to_year,years,total_games,total_wins,total_losses,win_percentage,playoffs,division_championships,conference_championships,championships
+1,Atlanta Hawks,NBA,1949,2025,77,6102,3013,3088,0.494,50,13,0,1
+2,Boston Celtics,NBA/BAA,1946,2025,80,6278,3751,2527,0.597,63,36,11,18
+3,Brooklyn Nets,NBA/ABA,1967,2025,59,4776,2074,2702,0.434,31,5,2,2
+4,Charlotte Hornets,NBA,1988,2025,36,2877,1237,1640,0.43,10,0,0,0
+5,Chicago Bulls,NBA,1966,2025,60,4844,2453,2391,0.506,36,9,6,6
+6,Cleveland Cavaliers,NBA,1970,2025,56,4517,2148,2369,0.476,26,8,5,1
+7,Dallas Mavericks,NBA,1980,2025,46,3707,1862,1845,0.502,25,5,3,1
+8,Denver Nuggets,NBA/ABA,1967,2025,59,4777,2471,2306,0.517,41,13,1,1
+9,Detroit Pistons,NBA/BAA,1948,2025,78,6162,2931,3231,0.476,44,12,5,3
+10,Golden State Warriors,NBA/BAA,1946,2025,80,6268,3054,3213,0.487,38,12,7,7
+11,Houston Rockets,NBA,1967,2025,59,4770,2473,2297,0.518,36,9,4,2
+12,Indiana Pacers,NBA/ABA,1967,2025,59,4776,2426,2350,0.508,38,9,2,3
+13,Los Angeles Clippers,NBA,1970,2025,56,4524,1935,2589,0.428,19,3,0,0
+14,Los Angeles Lakers,NBA/BAA,1948,2025,78,6168,3653,2515,0.592,66,35,19,17
+15,Memphis Grizzlies,NBA,1995,2025,31,2475,1071,1404,0.433,14,2,0,0
+16,Miami Heat,NBA,1988,2025,38,3049,1601,1448,0.525,26,16,7,3
+17,Milwaukee Bucks,NBA,1968,2025,58,4689,2469,2220,0.527,37,19,3,2
+18,Minnesota Timberwolves,NBA,1989,2025,37,2958,1245,1713,0.421,14,1,0,0
+19,New Orleans Pelicans,NBA,2002,2025,24,1932,878,1054,0.454,9,1,0,0
+20,New York Knicks,NBA/BAA,1946,2025,80,6269,3078,3191,0.491,47,8,5,3
+21,Oklahoma City Thunder,NBA,1967,2025,59,4770,2602,2168,0.545,35,14,5,2
+22,Orlando Magic,NBA,1989,2025,37,2967,1401,1566,0.472,19,8,2,0
+23,Philadelphia 76ers,NBA,1949,2025,77,6105,3170,2935,0.519,55,12,5,3
+24,Phoenix Suns,NBA,1968,2025,58,4689,2510,2179,0.535,34,8,3,0
+25,Portland Trail Blazers,NBA,1970,2025,56,4526,2370,2156,0.524,38,6,3,1
+26,Sacramento Kings,NBA/BAA,1948,2025,78,6169,2810,3359,0.456,30,6,0,1
+27,San Antonio Spurs,NBA/ABA,1967,2025,59,4775,2779,1996,0.582,48,23,7,5
+28,Toronto Raptors,NBA,1995,2025,31,2474,1172,1302,0.474,14,7,1,1
+29,Utah Jazz,NBA,1974,2025,52,4196,2216,1980,0.528,31,11,2,0
+30,Washington Wizards,NBA,1961,2025,65,5251,2307,2944,0.439,30,8,4,1
