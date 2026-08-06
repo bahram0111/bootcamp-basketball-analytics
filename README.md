@@ -1,4 +1,4 @@
-\# Basketball Data Analysis Project
+# Basketball Data Analysis Project
 
 
 
@@ -10,7 +10,7 @@ We scraped data from \[Basketball-Reference](https://www.basketball-reference.co
 
 
 
-\## Collaborators
+## Collaborators
 
 
 
